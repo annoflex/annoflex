@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>AnnoFlex Examples</title>
+    </head>
+    <body>
+        <h1>List of Examples</h1>
+        <h2>Tutorial Scanners</h2>
+        <p>AnnoFlex provides for beginners a simple and short tutorial consisting of three parts each in the
+        form of a scanner. Part one starts with a minimal scanner definition which shows how a scanner
+        definition is structured in principle. Part two is based on part one and additionally contains the
+        generated code of the scanner. Part three shows how this code can be customized.</p>
+        <p>You can use the following links to open the tutorial files:</p>
+        <ul>
+            <li><a href="TutorialPart1.java">TutorialPart1.java</a></li>
+            <li><a href="TutorialPart2.java">TutorialPart2.java</a></li>
+            <li><a href="TutorialPart3.java">TutorialPart3.java</a></li>
+        </ul>
+        <h2>Scanners used by AnnoFlex</h2>
+        <p>AnnoFlex uses its own parsers for Java source code files and regular expressions. The scanners of
+        both parsers are written with AnnoFlex and thus well-suited for the use as examples. As both scanners
+        have dependencies to other classes they are not available as a single source code file in
+        this examples directory. Instead they are referenced via a link into the source code directory of the
+        AnnoFlex installation package.</p>
+        <p>If you want to investigate these scanners, it is recommended to use the entire source code of
+        AnnoFlex instead of the single scanner files. To do this create a new project in your favorite IDE and
+        copy the entire content of the <code>source</code> folder into this project and add this folder as a
+        source folder. As the code itself does not have any dependencies to other libraries this can be
+        performed within a few minutes.</p>
+        <h3>Java Source Code Scanner</h3>
+        <p>The <code>JavaScanner</code> is used by AnnoFlex to scan Java source code files. It is a very
+        simple scanner which mainly consists of lexical rules for keywords and special symbols. Only comments
+        and literals step out of line and are more difficult to understand.</p>
+        <p>You can use the following link to open the file:<br/>
+        <a href="../source/org/annoflex/jdt/parser/JavaScanner.java">../source/org/annoflex/jdt/parser/JavaScanner.java</a></p>
+        <h3>Regular Expression Scanner</h3>
+        <p>The <code>RegExScanner</code> is used by AnnoFlex to scan regular expressions. This scanner makes
+        use of lexical states and state stacks. So it is a good reference if you want to investigate how this
+        technique works.</p>
+        <p>You can use the following link to open the file:<br/>
+        <a href="../source/org/annoflex/regex/parser/RegExScanner.java">../source/org/annoflex/regex/parser/RegExScanner.java</a></p>
+    </body>
+</html>

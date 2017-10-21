@@ -1,0 +1,1363 @@
+@type=charSet
+
+age {
+    unassigned (378:379;380:383;38b;38d;3a2;530;557:558;560;588;58b:58c;590;5c8:5cf;5eb:5ef;5f5:5ff;
+         61d;70e;74b:74c;7b2:7bf;7fb:7ff;82e:82f;83f;85c:85d;85f:89f;8b5;8be:8d3;984;98d:98e;991:992;
+         9a9;9b1;9b3:9b5;9ba:9bb;9c5:9c6;9c9:9ca;9cf:9d6;9d8:9db;9de;9e4:9e5;9fc:a00;a04;a0b:a0e;a11:a12;
+         a29;a31;a34;a37;a3a:a3b;a3d;a43:a46;a49:a4a;a4e:a50;a52:a58;a5d;a5f:a65;a76:a80;a84;a8e;a92;
+         aa9;ab1;ab4;aba:abb;ac6;aca;ace:acf;ad1:adf;ae4:ae5;af2:af8;afa:b00;b04;b0d:b0e;b11:b12;b29;
+         b31;b34;b3a:b3b;b45:b46;b49:b4a;b4e:b55;b58:b5b;b5e;b64:b65;b78:b81;b84;b8b:b8d;b91;b96:b98;
+         b9b;b9d;ba0:ba2;ba5:ba7;bab:bad;bba:bbd;bc3:bc5;bc9;bce:bcf;bd1:bd6;bd8:be5;bfb:bff;c04;c0d;
+         c11;c29;c3a:c3c;c45;c49;c4e:c54;c57;c5b:c5f;c64:c65;c70:c77;c84;c8d;c91;ca9;cb4;cba:cbb;cc5;
+         cc9;cce:cd4;cd7:cdd;cdf;ce4:ce5;cf0;cf3:d00;d04;d0d;d11;d3b:d3c;d45;d49;d50:d53;d64:d65;d80:d81;
+         d84;d97:d99;db2;dbc;dbe:dbf;dc7:dc9;dcb:dce;dd5;dd7;de0:de5;df0:df1;df5:e00;e3b:e3e;e5c:e80;
+         e83;e85:e86;e89;e8b:e8c;e8e:e93;e98;ea0;ea4;ea6;ea8:ea9;eac;eba;ebe:ebf;ec5;ec7;ece:ecf;eda:edb;
+         ee0:eff;f48;f6d:f70;f98;fbd;fcd;fdb:fff;10c6;10c8:10cc;10ce:10cf;1249;124e:124f;1257;1259;125e:125f;
+         1289;128e:128f;12b1;12b6:12b7;12bf;12c1;12c6:12c7;12d7;1311;1316:1317;135b:135c;137d:137f;139a:139f;
+         13f6:13f7;13fe:13ff;169d:169f;16f9:16ff;170d;1715:171f;1737:173f;1754:175f;176d;1771;1774:177f;
+         17de:17df;17ea:17ef;17fa:17ff;180f;181a:181f;1878:187f;18ab:18af;18f6:18ff;191f;192c:192f;193c:193f;
+         1941:1943;196e:196f;1975:197f;19ac:19af;19ca:19cf;19db:19dd;1a1c:1a1d;1a5f;1a7d:1a7e;1a8a:1a8f;
+         1a9a:1a9f;1aae:1aaf;1abf:1aff;1b4c:1b4f;1b7d:1b7f;1bf4:1bfb;1c38:1c3a;1c4a:1c4c;1c89:1cbf;1cc8:1ccf;
+         1cf7;1cfa:1cff;1df6:1dfa;1f16:1f17;1f1e:1f1f;1f46:1f47;1f4e:1f4f;1f58;1f5a;1f5c;1f5e;1f7e:1f7f;
+         1fb5;1fc5;1fd4:1fd5;1fdc;1ff0:1ff1;1ff5;1fff;2065;2072:2073;208f;209d:209f;20bf:20cf;20f1:20ff;
+         218c:218f;23ff;2427:243f;244b:245f;2b74:2b75;2b96:2b97;2bba:2bbc;2bc9;2bd2:2beb;2bf0:2bff;2c2f;
+         2c5f;2cf4:2cf8;2d26;2d28:2d2c;2d2e:2d2f;2d68:2d6e;2d71:2d7e;2d97:2d9f;2da7;2daf;2db7;2dbf;2dc7;
+         2dcf;2dd7;2ddf;2e45:2e7f;2e9a;2ef4:2eff;2fd6:2fef;2ffc:2fff;3040;3097:3098;3100:3104;312e:3130;
+         318f;31bb:31bf;31e4:31ef;321f;32ff;4db6:4dbf;9fd6:9fff;a48d:a48f;a4c7:a4cf;a62c:a63f;a6f8:a6ff;
+         a7af;a7b8:a7f6;a82c:a82f;a83a:a83f;a878:a87f;a8c6:a8cd;a8da:a8df;a8fe:a8ff;a954:a95e;a97d:a97f;
+         a9ce;a9da:a9dd;a9ff;aa37:aa3f;aa4e:aa4f;aa5a:aa5b;aac3:aada;aaf7:ab00;ab07:ab08;ab0f:ab10;ab17:ab1f;
+         ab27;ab2f;ab66:ab6f;abee:abef;abfa:abff;d7a4:d7af;d7c7:d7ca;d7fc:d7ff;fa6e:fa6f;fada:faff;fb07:fb12;
+         fb18:fb1c;fb37;fb3d;fb3f;fb42;fb45;fbc2:fbd2;fd40:fd4f;fd90:fd91;fdc8:fdcf;fdfe:fdff;fe1a:fe1f;
+         fe53;fe67;fe6c:fe6f;fe75;fefd:fefe;ff00;ffbf:ffc1;ffc8:ffc9;ffd0:ffd1;ffd8:ffd9;ffdd:ffdf;ffe7;
+         ffef:fff8)
+    v11 (0:1f5;1fa:217;250:2a8;2b0:2de;2e0:2e9;300:345;360:361;374:375;37a;37e;384:38a;38c;38e:3a1;3a3:3ce;
+         3d0:3d6;3da;3dc;3de;3e0;3e2:3f3;401:40c;40e:44f;451:45c;45e:486;490:4c4;4c7:4c8;4cb:4cc;4d0:4eb;
+         4ee:4f5;4f8:4f9;531:556;559:55f;561:587;589;5b0:5b9;5bb:5c3;5d0:5ea;5f0:5f4;60c;61b;61f;621:63a;
+         640:652;660:66d;670:6b7;6ba:6be;6c0:6ce;6d0:6ed;6f0:6f9;901:903;905:939;93c:94d;950:954;958:970;
+         981:983;985:98c;98f:990;993:9a8;9aa:9b0;9b2;9b6:9b9;9bc;9be:9c4;9c7:9c8;9cb:9cd;9d7;9dc:9dd;
+         9df:9e3;9e6:9fa;a02;a05:a0a;a0f:a10;a13:a28;a2a:a30;a32:a33;a35:a36;a38:a39;a3c;a3e:a42;a47:a48;
+         a4b:a4d;a59:a5c;a5e;a66:a74;a81:a83;a85:a8b;a8d;a8f:a91;a93:aa8;aaa:ab0;ab2:ab3;ab5:ab9;abc:ac5;
+         ac7:ac9;acb:acd;ad0;ae0;ae6:aef;b01:b03;b05:b0c;b0f:b10;b13:b28;b2a:b30;b32:b33;b36:b39;b3c:b43;
+         b47:b48;b4b:b4d;b56:b57;b5c:b5d;b5f:b61;b66:b70;b82:b83;b85:b8a;b8e:b90;b92:b95;b99:b9a;b9c;
+         b9e:b9f;ba3:ba4;ba8:baa;bae:bb5;bb7:bb9;bbe:bc2;bc6:bc8;bca:bcd;bd7;be7:bf2;c01:c03;c05:c0c;
+         c0e:c10;c12:c28;c2a:c33;c35:c39;c3e:c44;c46:c48;c4a:c4d;c55:c56;c60:c61;c66:c6f;c82:c83;c85:c8c;
+         c8e:c90;c92:ca8;caa:cb3;cb5:cb9;cbe:cc4;cc6:cc8;cca:ccd;cd5:cd6;cde;ce0:ce1;ce6:cef;d02:d03;
+         d05:d0c;d0e:d10;d12:d28;d2a:d39;d3e:d43;d46:d48;d4a:d4d;d57;d60:d61;d66:d6f;e01:e3a;e3f:e5b;
+         e81:e82;e84;e87:e88;e8a;e8d;e94:e97;e99:e9f;ea1:ea3;ea5;ea7;eaa:eab;ead:eb9;ebb:ebd;ec0:ec4;
+         ec6;ec8:ecd;ed0:ed9;edc:edd;10a0:10c5;10d0:10f6;10fb;1100:1159;115f:11a2;11a8:11f9;1e00:1e9a;
+         1ea0:1ef9;1f00:1f15;1f18:1f1d;1f20:1f45;1f48:1f4d;1f50:1f57;1f59;1f5b;1f5d;1f5f:1f7d;1f80:1fb4;
+         1fb6:1fc4;1fc6:1fd3;1fd6:1fdb;1fdd:1fef;1ff2:1ff4;1ff6:1ffe;2000:202e;2030:2046;206a:2070;2074:208e;
+         20a0:20aa;20d0:20e1;2100:2138;2153:2182;2190:21ea;2200:22f1;2300;2302:237a;2400:2424;2440:244a;
+         2460:24ea;2500:2595;25a0:25ef;2600:2613;261a:266f;2701:2704;2706:2709;270c:2727;2729:274b;274d;
+         274f:2752;2756;2758:275e;2761:2767;2776:2794;2798:27af;27b1:27be;3000:3037;303f;3041:3094;3099:309e;
+         30a1:30fe;3105:312c;3131:318e;3190:319f;3200:321c;3220:3243;3260:327b;327f:32b0;32c0:32cb;32d0:32fe;
+         3300:3376;337b:33dd;33e0:33fe;4e00:9fa5;e000:fa2d;fb00:fb06;fb13:fb17;fb1e:fb36;fb38:fb3c;fb3e;
+         fb40:fb41;fb43:fb44;fb46:fbb1;fbd3:fd3f;fd50:fd8f;fd92:fdc7;fdf0:fdfb;fe20:fe23;fe30:fe44;fe49:fe52;
+         fe54:fe66;fe68:fe6b;fe70:fe72;fe74;fe76:fefc;feff;ff01:ff5e;ff61:ffbe;ffc2:ffc7;ffca:ffcf;ffd2:ffd7;
+         ffda:ffdc;ffe0:ffe6;ffe8:ffee;fffd:ffff)
+    v20 (0:1f5;1fa:217;250:2a8;2b0:2de;2e0:2e9;300:345;360:361;374:375;37a;37e;384:38a;38c;38e:3a1;3a3:3ce;
+         3d0:3d6;3da;3dc;3de;3e0;3e2:3f3;401:40c;40e:44f;451:45c;45e:486;490:4c4;4c7:4c8;4cb:4cc;4d0:4eb;
+         4ee:4f5;4f8:4f9;531:556;559:55f;561:587;589;591:5a1;5a3:5b9;5bb:5c4;5d0:5ea;5f0:5f4;60c;61b;
+         61f;621:63a;640:652;660:66d;670:6b7;6ba:6be;6c0:6ce;6d0:6ed;6f0:6f9;901:903;905:939;93c:94d;
+         950:954;958:970;981:983;985:98c;98f:990;993:9a8;9aa:9b0;9b2;9b6:9b9;9bc;9be:9c4;9c7:9c8;9cb:9cd;
+         9d7;9dc:9dd;9df:9e3;9e6:9fa;a02;a05:a0a;a0f:a10;a13:a28;a2a:a30;a32:a33;a35:a36;a38:a39;a3c;
+         a3e:a42;a47:a48;a4b:a4d;a59:a5c;a5e;a66:a74;a81:a83;a85:a8b;a8d;a8f:a91;a93:aa8;aaa:ab0;ab2:ab3;
+         ab5:ab9;abc:ac5;ac7:ac9;acb:acd;ad0;ae0;ae6:aef;b01:b03;b05:b0c;b0f:b10;b13:b28;b2a:b30;b32:b33;
+         b36:b39;b3c:b43;b47:b48;b4b:b4d;b56:b57;b5c:b5d;b5f:b61;b66:b70;b82:b83;b85:b8a;b8e:b90;b92:b95;
+         b99:b9a;b9c;b9e:b9f;ba3:ba4;ba8:baa;bae:bb5;bb7:bb9;bbe:bc2;bc6:bc8;bca:bcd;bd7;be7:bf2;c01:c03;
+         c05:c0c;c0e:c10;c12:c28;c2a:c33;c35:c39;c3e:c44;c46:c48;c4a:c4d;c55:c56;c60:c61;c66:c6f;c82:c83;
+         c85:c8c;c8e:c90;c92:ca8;caa:cb3;cb5:cb9;cbe:cc4;cc6:cc8;cca:ccd;cd5:cd6;cde;ce0:ce1;ce6:cef;
+         d02:d03;d05:d0c;d0e:d10;d12:d28;d2a:d39;d3e:d43;d46:d48;d4a:d4d;d57;d60:d61;d66:d6f;e01:e3a;
+         e3f:e5b;e81:e82;e84;e87:e88;e8a;e8d;e94:e97;e99:e9f;ea1:ea3;ea5;ea7;eaa:eab;ead:eb9;ebb:ebd;
+         ec0:ec4;ec6;ec8:ecd;ed0:ed9;edc:edd;f00:f47;f49:f69;f71:f8b;f90:f95;f97;f99:fad;fb1:fb7;fb9;
+         10a0:10c5;10d0:10f6;10fb;1100:1159;115f:11a2;11a8:11f9;1e00:1e9b;1ea0:1ef9;1f00:1f15;1f18:1f1d;
+         1f20:1f45;1f48:1f4d;1f50:1f57;1f59;1f5b;1f5d;1f5f:1f7d;1f80:1fb4;1fb6:1fc4;1fc6:1fd3;1fd6:1fdb;
+         1fdd:1fef;1ff2:1ff4;1ff6:1ffe;2000:202e;2030:2046;206a:2070;2074:208e;20a0:20ab;20d0:20e1;2100:2138;
+         2153:2182;2190:21ea;2200:22f1;2300;2302:237a;2400:2424;2440:244a;2460:24ea;2500:2595;25a0:25ef;
+         2600:2613;261a:266f;2701:2704;2706:2709;270c:2727;2729:274b;274d;274f:2752;2756;2758:275e;2761:2767;
+         2776:2794;2798:27af;27b1:27be;3000:3037;303f;3041:3094;3099:309e;30a1:30fe;3105:312c;3131:318e;
+         3190:319f;3200:321c;3220:3243;3260:327b;327f:32b0;32c0:32cb;32d0:32fe;3300:3376;337b:33dd;33e0:33fe;
+         4e00:9fa5;ac00:d7a3;d800:fa2d;fb00:fb06;fb13:fb17;fb1e:fb36;fb38:fb3c;fb3e;fb40:fb41;fb43:fb44;
+         fb46:fbb1;fbd3:fd3f;fd50:fd8f;fd92:fdc7;fdf0:fdfb;fe20:fe23;fe30:fe44;fe49:fe52;fe54:fe66;fe68:fe6b;
+         fe70:fe72;fe74;fe76:fefc;feff;ff01:ff5e;ff61:ffbe;ffc2:ffc7;ffca:ffcf;ffd2:ffd7;ffda:ffdc;ffe0:ffe6;
+         ffe8:ffee;fffd:ffff)
+    v21 (0:1f5;1fa:217;250:2a8;2b0:2de;2e0:2e9;300:345;360:361;374:375;37a;37e;384:38a;38c;38e:3a1;3a3:3ce;
+         3d0:3d6;3da;3dc;3de;3e0;3e2:3f3;401:40c;40e:44f;451:45c;45e:486;490:4c4;4c7:4c8;4cb:4cc;4d0:4eb;
+         4ee:4f5;4f8:4f9;531:556;559:55f;561:587;589;591:5a1;5a3:5b9;5bb:5c4;5d0:5ea;5f0:5f4;60c;61b;
+         61f;621:63a;640:652;660:66d;670:6b7;6ba:6be;6c0:6ce;6d0:6ed;6f0:6f9;901:903;905:939;93c:94d;
+         950:954;958:970;981:983;985:98c;98f:990;993:9a8;9aa:9b0;9b2;9b6:9b9;9bc;9be:9c4;9c7:9c8;9cb:9cd;
+         9d7;9dc:9dd;9df:9e3;9e6:9fa;a02;a05:a0a;a0f:a10;a13:a28;a2a:a30;a32:a33;a35:a36;a38:a39;a3c;
+         a3e:a42;a47:a48;a4b:a4d;a59:a5c;a5e;a66:a74;a81:a83;a85:a8b;a8d;a8f:a91;a93:aa8;aaa:ab0;ab2:ab3;
+         ab5:ab9;abc:ac5;ac7:ac9;acb:acd;ad0;ae0;ae6:aef;b01:b03;b05:b0c;b0f:b10;b13:b28;b2a:b30;b32:b33;
+         b36:b39;b3c:b43;b47:b48;b4b:b4d;b56:b57;b5c:b5d;b5f:b61;b66:b70;b82:b83;b85:b8a;b8e:b90;b92:b95;
+         b99:b9a;b9c;b9e:b9f;ba3:ba4;ba8:baa;bae:bb5;bb7:bb9;bbe:bc2;bc6:bc8;bca:bcd;bd7;be7:bf2;c01:c03;
+         c05:c0c;c0e:c10;c12:c28;c2a:c33;c35:c39;c3e:c44;c46:c48;c4a:c4d;c55:c56;c60:c61;c66:c6f;c82:c83;
+         c85:c8c;c8e:c90;c92:ca8;caa:cb3;cb5:cb9;cbe:cc4;cc6:cc8;cca:ccd;cd5:cd6;cde;ce0:ce1;ce6:cef;
+         d02:d03;d05:d0c;d0e:d10;d12:d28;d2a:d39;d3e:d43;d46:d48;d4a:d4d;d57;d60:d61;d66:d6f;e01:e3a;
+         e3f:e5b;e81:e82;e84;e87:e88;e8a;e8d;e94:e97;e99:e9f;ea1:ea3;ea5;ea7;eaa:eab;ead:eb9;ebb:ebd;
+         ec0:ec4;ec6;ec8:ecd;ed0:ed9;edc:edd;f00:f47;f49:f69;f71:f8b;f90:f95;f97;f99:fad;fb1:fb7;fb9;
+         10a0:10c5;10d0:10f6;10fb;1100:1159;115f:11a2;11a8:11f9;1e00:1e9b;1ea0:1ef9;1f00:1f15;1f18:1f1d;
+         1f20:1f45;1f48:1f4d;1f50:1f57;1f59;1f5b;1f5d;1f5f:1f7d;1f80:1fb4;1fb6:1fc4;1fc6:1fd3;1fd6:1fdb;
+         1fdd:1fef;1ff2:1ff4;1ff6:1ffe;2000:202e;2030:2046;206a:2070;2074:208e;20a0:20ac;20d0:20e1;2100:2138;
+         2153:2182;2190:21ea;2200:22f1;2300;2302:237a;2400:2424;2440:244a;2460:24ea;2500:2595;25a0:25ef;
+         2600:2613;261a:266f;2701:2704;2706:2709;270c:2727;2729:274b;274d;274f:2752;2756;2758:275e;2761:2767;
+         2776:2794;2798:27af;27b1:27be;3000:3037;303f;3041:3094;3099:309e;30a1:30fe;3105:312c;3131:318e;
+         3190:319f;3200:321c;3220:3243;3260:327b;327f:32b0;32c0:32cb;32d0:32fe;3300:3376;337b:33dd;33e0:33fe;
+         4e00:9fa5;ac00:d7a3;d800:fa2d;fb00:fb06;fb13:fb17;fb1e:fb36;fb38:fb3c;fb3e;fb40:fb41;fb43:fb44;
+         fb46:fbb1;fbd3:fd3f;fd50:fd8f;fd92:fdc7;fdf0:fdfb;fe20:fe23;fe30:fe44;fe49:fe52;fe54:fe66;fe68:fe6b;
+         fe70:fe72;fe74;fe76:fefc;feff;ff01:ff5e;ff61:ffbe;ffc2:ffc7;ffca:ffcf;ffd2:ffd7;ffda:ffdc;ffe0:ffe6;
+         ffe8:ffee;fffc:ffff)
+    v30 (0:21f;222:233;250:2ad;2b0:2ee;300:34e;360:362;374:375;37a;37e;384:38a;38c;38e:3a1;3a3:3ce;3d0:3d7;
+         3da:3f3;400:486;488:489;48c:4c4;4c7:4c8;4cb:4cc;4d0:4f5;4f8:4f9;531:556;559:55f;561:587;589:58a;
+         591:5a1;5a3:5b9;5bb:5c4;5d0:5ea;5f0:5f4;60c;61b;61f;621:63a;640:655;660:66d;670:6ed;6f0:6fe;
+         700:70d;70f:72c;730:74a;780:7b0;901:903;905:939;93c:94d;950:954;958:970;981:983;985:98c;98f:990;
+         993:9a8;9aa:9b0;9b2;9b6:9b9;9bc;9be:9c4;9c7:9c8;9cb:9cd;9d7;9dc:9dd;9df:9e3;9e6:9fa;a02;a05:a0a;
+         a0f:a10;a13:a28;a2a:a30;a32:a33;a35:a36;a38:a39;a3c;a3e:a42;a47:a48;a4b:a4d;a59:a5c;a5e;a66:a74;
+         a81:a83;a85:a8b;a8d;a8f:a91;a93:aa8;aaa:ab0;ab2:ab3;ab5:ab9;abc:ac5;ac7:ac9;acb:acd;ad0;ae0;
+         ae6:aef;b01:b03;b05:b0c;b0f:b10;b13:b28;b2a:b30;b32:b33;b36:b39;b3c:b43;b47:b48;b4b:b4d;b56:b57;
+         b5c:b5d;b5f:b61;b66:b70;b82:b83;b85:b8a;b8e:b90;b92:b95;b99:b9a;b9c;b9e:b9f;ba3:ba4;ba8:baa;
+         bae:bb5;bb7:bb9;bbe:bc2;bc6:bc8;bca:bcd;bd7;be7:bf2;c01:c03;c05:c0c;c0e:c10;c12:c28;c2a:c33;
+         c35:c39;c3e:c44;c46:c48;c4a:c4d;c55:c56;c60:c61;c66:c6f;c82:c83;c85:c8c;c8e:c90;c92:ca8;caa:cb3;
+         cb5:cb9;cbe:cc4;cc6:cc8;cca:ccd;cd5:cd6;cde;ce0:ce1;ce6:cef;d02:d03;d05:d0c;d0e:d10;d12:d28;
+         d2a:d39;d3e:d43;d46:d48;d4a:d4d;d57;d60:d61;d66:d6f;d82:d83;d85:d96;d9a:db1;db3:dbb;dbd;dc0:dc6;
+         dca;dcf:dd4;dd6;dd8:ddf;df2:df4;e01:e3a;e3f:e5b;e81:e82;e84;e87:e88;e8a;e8d;e94:e97;e99:e9f;
+         ea1:ea3;ea5;ea7;eaa:eab;ead:eb9;ebb:ebd;ec0:ec4;ec6;ec8:ecd;ed0:ed9;edc:edd;f00:f47;f49:f6a;
+         f71:f8b;f90:f97;f99:fbc;fbe:fcc;fcf;1000:1021;1023:1027;1029:102a;102c:1032;1036:1039;1040:1059;
+         10a0:10c5;10d0:10f6;10fb;1100:1159;115f:11a2;11a8:11f9;1200:1206;1208:1246;1248;124a:124d;1250:1256;
+         1258;125a:125d;1260:1286;1288;128a:128d;1290:12ae;12b0;12b2:12b5;12b8:12be;12c0;12c2:12c5;12c8:12ce;
+         12d0:12d6;12d8:12ee;12f0:130e;1310;1312:1315;1318:131e;1320:1346;1348:135a;1361:137c;13a0:13f4;
+         1401:1676;1680:169c;16a0:16f0;1780:17dc;17e0:17e9;1800:180e;1810:1819;1820:1877;1880:18a9;1e00:1e9b;
+         1ea0:1ef9;1f00:1f15;1f18:1f1d;1f20:1f45;1f48:1f4d;1f50:1f57;1f59;1f5b;1f5d;1f5f:1f7d;1f80:1fb4;
+         1fb6:1fc4;1fc6:1fd3;1fd6:1fdb;1fdd:1fef;1ff2:1ff4;1ff6:1ffe;2000:2046;2048:204d;206a:2070;2074:208e;
+         20a0:20af;20d0:20e3;2100:213a;2153:2183;2190:21f3;2200:22f1;2300:237b;237d:239a;2400:2426;2440:244a;
+         2460:24ea;2500:2595;25a0:25f7;2600:2613;2619:2671;2701:2704;2706:2709;270c:2727;2729:274b;274d;
+         274f:2752;2756;2758:275e;2761:2767;2776:2794;2798:27af;27b1:27be;2800:28ff;2e80:2e99;2e9b:2ef3;
+         2f00:2fd5;2ff0:2ffb;3000:303a;303e:303f;3041:3094;3099:309e;30a1:30fe;3105:312c;3131:318e;3190:31b7;
+         3200:321c;3220:3243;3260:327b;327f:32b0;32c0:32cb;32d0:32fe;3300:3376;337b:33dd;33e0:33fe;3400:4db5;
+         4e00:9fa5;a000:a48c;a490:a4a1;a4a4:a4b3;a4b5:a4c0;a4c2:a4c4;a4c6;ac00:d7a3;d800:fa2d;fb00:fb06;
+         fb13:fb17;fb1d:fb36;fb38:fb3c;fb3e;fb40:fb41;fb43:fb44;fb46:fbb1;fbd3:fd3f;fd50:fd8f;fd92:fdc7;
+         fdf0:fdfb;fe20:fe23;fe30:fe44;fe49:fe52;fe54:fe66;fe68:fe6b;fe70:fe72;fe74;fe76:fefc;feff;ff01:ff5e;
+         ff61:ffbe;ffc2:ffc7;ffca:ffcf;ffd2:ffd7;ffda:ffdc;ffe0:ffe6;ffe8:ffee;fff9:ffff)
+    v31 (0:21f;222:233;250:2ad;2b0:2ee;300:34e;360:362;374:375;37a;37e;384:38a;38c;38e:3a1;3a3:3ce;3d0:3d7;
+         3da:3f5;400:486;488:489;48c:4c4;4c7:4c8;4cb:4cc;4d0:4f5;4f8:4f9;531:556;559:55f;561:587;589:58a;
+         591:5a1;5a3:5b9;5bb:5c4;5d0:5ea;5f0:5f4;60c;61b;61f;621:63a;640:655;660:66d;670:6ed;6f0:6fe;
+         700:70d;70f:72c;730:74a;780:7b0;901:903;905:939;93c:94d;950:954;958:970;981:983;985:98c;98f:990;
+         993:9a8;9aa:9b0;9b2;9b6:9b9;9bc;9be:9c4;9c7:9c8;9cb:9cd;9d7;9dc:9dd;9df:9e3;9e6:9fa;a02;a05:a0a;
+         a0f:a10;a13:a28;a2a:a30;a32:a33;a35:a36;a38:a39;a3c;a3e:a42;a47:a48;a4b:a4d;a59:a5c;a5e;a66:a74;
+         a81:a83;a85:a8b;a8d;a8f:a91;a93:aa8;aaa:ab0;ab2:ab3;ab5:ab9;abc:ac5;ac7:ac9;acb:acd;ad0;ae0;
+         ae6:aef;b01:b03;b05:b0c;b0f:b10;b13:b28;b2a:b30;b32:b33;b36:b39;b3c:b43;b47:b48;b4b:b4d;b56:b57;
+         b5c:b5d;b5f:b61;b66:b70;b82:b83;b85:b8a;b8e:b90;b92:b95;b99:b9a;b9c;b9e:b9f;ba3:ba4;ba8:baa;
+         bae:bb5;bb7:bb9;bbe:bc2;bc6:bc8;bca:bcd;bd7;be7:bf2;c01:c03;c05:c0c;c0e:c10;c12:c28;c2a:c33;
+         c35:c39;c3e:c44;c46:c48;c4a:c4d;c55:c56;c60:c61;c66:c6f;c82:c83;c85:c8c;c8e:c90;c92:ca8;caa:cb3;
+         cb5:cb9;cbe:cc4;cc6:cc8;cca:ccd;cd5:cd6;cde;ce0:ce1;ce6:cef;d02:d03;d05:d0c;d0e:d10;d12:d28;
+         d2a:d39;d3e:d43;d46:d48;d4a:d4d;d57;d60:d61;d66:d6f;d82:d83;d85:d96;d9a:db1;db3:dbb;dbd;dc0:dc6;
+         dca;dcf:dd4;dd6;dd8:ddf;df2:df4;e01:e3a;e3f:e5b;e81:e82;e84;e87:e88;e8a;e8d;e94:e97;e99:e9f;
+         ea1:ea3;ea5;ea7;eaa:eab;ead:eb9;ebb:ebd;ec0:ec4;ec6;ec8:ecd;ed0:ed9;edc:edd;f00:f47;f49:f6a;
+         f71:f8b;f90:f97;f99:fbc;fbe:fcc;fcf;1000:1021;1023:1027;1029:102a;102c:1032;1036:1039;1040:1059;
+         10a0:10c5;10d0:10f6;10fb;1100:1159;115f:11a2;11a8:11f9;1200:1206;1208:1246;1248;124a:124d;1250:1256;
+         1258;125a:125d;1260:1286;1288;128a:128d;1290:12ae;12b0;12b2:12b5;12b8:12be;12c0;12c2:12c5;12c8:12ce;
+         12d0:12d6;12d8:12ee;12f0:130e;1310;1312:1315;1318:131e;1320:1346;1348:135a;1361:137c;13a0:13f4;
+         1401:1676;1680:169c;16a0:16f0;1780:17dc;17e0:17e9;1800:180e;1810:1819;1820:1877;1880:18a9;1e00:1e9b;
+         1ea0:1ef9;1f00:1f15;1f18:1f1d;1f20:1f45;1f48:1f4d;1f50:1f57;1f59;1f5b;1f5d;1f5f:1f7d;1f80:1fb4;
+         1fb6:1fc4;1fc6:1fd3;1fd6:1fdb;1fdd:1fef;1ff2:1ff4;1ff6:1ffe;2000:2046;2048:204d;206a:2070;2074:208e;
+         20a0:20af;20d0:20e3;2100:213a;2153:2183;2190:21f3;2200:22f1;2300:237b;237d:239a;2400:2426;2440:244a;
+         2460:24ea;2500:2595;25a0:25f7;2600:2613;2619:2671;2701:2704;2706:2709;270c:2727;2729:274b;274d;
+         274f:2752;2756;2758:275e;2761:2767;2776:2794;2798:27af;27b1:27be;2800:28ff;2e80:2e99;2e9b:2ef3;
+         2f00:2fd5;2ff0:2ffb;3000:303a;303e:303f;3041:3094;3099:309e;30a1:30fe;3105:312c;3131:318e;3190:31b7;
+         3200:321c;3220:3243;3260:327b;327f:32b0;32c0:32cb;32d0:32fe;3300:3376;337b:33dd;33e0:33fe;3400:4db5;
+         4e00:9fa5;a000:a48c;a490:a4a1;a4a4:a4b3;a4b5:a4c0;a4c2:a4c4;a4c6;ac00:d7a3;d800:fa2d;fb00:fb06;
+         fb13:fb17;fb1d:fb36;fb38:fb3c;fb3e;fb40:fb41;fb43:fb44;fb46:fbb1;fbd3:fd3f;fd50:fd8f;fd92:fdc7;
+         fdd0:fdfb;fe20:fe23;fe30:fe44;fe49:fe52;fe54:fe66;fe68:fe6b;fe70:fe72;fe74;fe76:fefc;feff;ff01:ff5e;
+         ff61:ffbe;ffc2:ffc7;ffca:ffcf;ffd2:ffd7;ffda:ffdc;ffe0:ffe6;ffe8:ffee;fff9:ffff)
+    v32 (0:220;222:233;250:2ad;2b0:2ee;300:34f;360:36f;374:375;37a;37e;384:38a;38c;38e:3a1;3a3:3ce;3d0:3f6;
+         400:486;488:4ce;4d0:4f5;4f8:4f9;500:50f;531:556;559:55f;561:587;589:58a;591:5a1;5a3:5b9;5bb:5c4;
+         5d0:5ea;5f0:5f4;60c;61b;61f;621:63a;640:655;660:6ed;6f0:6fe;700:70d;70f:72c;730:74a;780:7b1;
+         901:903;905:939;93c:94d;950:954;958:970;981:983;985:98c;98f:990;993:9a8;9aa:9b0;9b2;9b6:9b9;
+         9bc;9be:9c4;9c7:9c8;9cb:9cd;9d7;9dc:9dd;9df:9e3;9e6:9fa;a02;a05:a0a;a0f:a10;a13:a28;a2a:a30;
+         a32:a33;a35:a36;a38:a39;a3c;a3e:a42;a47:a48;a4b:a4d;a59:a5c;a5e;a66:a74;a81:a83;a85:a8b;a8d;
+         a8f:a91;a93:aa8;aaa:ab0;ab2:ab3;ab5:ab9;abc:ac5;ac7:ac9;acb:acd;ad0;ae0;ae6:aef;b01:b03;b05:b0c;
+         b0f:b10;b13:b28;b2a:b30;b32:b33;b36:b39;b3c:b43;b47:b48;b4b:b4d;b56:b57;b5c:b5d;b5f:b61;b66:b70;
+         b82:b83;b85:b8a;b8e:b90;b92:b95;b99:b9a;b9c;b9e:b9f;ba3:ba4;ba8:baa;bae:bb5;bb7:bb9;bbe:bc2;
+         bc6:bc8;bca:bcd;bd7;be7:bf2;c01:c03;c05:c0c;c0e:c10;c12:c28;c2a:c33;c35:c39;c3e:c44;c46:c48;
+         c4a:c4d;c55:c56;c60:c61;c66:c6f;c82:c83;c85:c8c;c8e:c90;c92:ca8;caa:cb3;cb5:cb9;cbe:cc4;cc6:cc8;
+         cca:ccd;cd5:cd6;cde;ce0:ce1;ce6:cef;d02:d03;d05:d0c;d0e:d10;d12:d28;d2a:d39;d3e:d43;d46:d48;
+         d4a:d4d;d57;d60:d61;d66:d6f;d82:d83;d85:d96;d9a:db1;db3:dbb;dbd;dc0:dc6;dca;dcf:dd4;dd6;dd8:ddf;
+         df2:df4;e01:e3a;e3f:e5b;e81:e82;e84;e87:e88;e8a;e8d;e94:e97;e99:e9f;ea1:ea3;ea5;ea7;eaa:eab;
+         ead:eb9;ebb:ebd;ec0:ec4;ec6;ec8:ecd;ed0:ed9;edc:edd;f00:f47;f49:f6a;f71:f8b;f90:f97;f99:fbc;
+         fbe:fcc;fcf;1000:1021;1023:1027;1029:102a;102c:1032;1036:1039;1040:1059;10a0:10c5;10d0:10f8;
+         10fb;1100:1159;115f:11a2;11a8:11f9;1200:1206;1208:1246;1248;124a:124d;1250:1256;1258;125a:125d;
+         1260:1286;1288;128a:128d;1290:12ae;12b0;12b2:12b5;12b8:12be;12c0;12c2:12c5;12c8:12ce;12d0:12d6;
+         12d8:12ee;12f0:130e;1310;1312:1315;1318:131e;1320:1346;1348:135a;1361:137c;13a0:13f4;1401:1676;
+         1680:169c;16a0:16f0;1700:170c;170e:1714;1720:1736;1740:1753;1760:176c;176e:1770;1772:1773;1780:17dc;
+         17e0:17e9;1800:180e;1810:1819;1820:1877;1880:18a9;1e00:1e9b;1ea0:1ef9;1f00:1f15;1f18:1f1d;1f20:1f45;
+         1f48:1f4d;1f50:1f57;1f59;1f5b;1f5d;1f5f:1f7d;1f80:1fb4;1fb6:1fc4;1fc6:1fd3;1fd6:1fdb;1fdd:1fef;
+         1ff2:1ff4;1ff6:1ffe;2000:2052;2057;205f:2063;206a:2071;2074:208e;20a0:20b1;20d0:20ea;2100:213a;
+         213d:214b;2153:2183;2190:23ce;2400:2426;2440:244a;2460:24fe;2500:2613;2616:2617;2619:267d;2680:2689;
+         2701:2704;2706:2709;270c:2727;2729:274b;274d;274f:2752;2756;2758:275e;2761:2794;2798:27af;27b1:27be;
+         27d0:27eb;27f0:2aff;2e80:2e99;2e9b:2ef3;2f00:2fd5;2ff0:2ffb;3000:303f;3041:3096;3099:30ff;3105:312c;
+         3131:318e;3190:31b7;31f0:321c;3220:3243;3251:327b;327f:32cb;32d0:32fe;3300:3376;337b:33dd;33e0:33fe;
+         3400:4db5;4e00:9fa5;a000:a48c;a490:a4c6;ac00:d7a3;d800:fa2d;fa30:fa6a;fb00:fb06;fb13:fb17;fb1d:fb36;
+         fb38:fb3c;fb3e;fb40:fb41;fb43:fb44;fb46:fbb1;fbd3:fd3f;fd50:fd8f;fd92:fdc7;fdd0:fdfc;fe00:fe0f;
+         fe20:fe23;fe30:fe46;fe49:fe52;fe54:fe66;fe68:fe6b;fe70:fe74;fe76:fefc;feff;ff01:ffbe;ffc2:ffc7;
+         ffca:ffcf;ffd2:ffd7;ffda:ffdc;ffe0:ffe6;ffe8:ffee;fff9:ffff)
+    v40 (0:236;250:357;35d:36f;374:375;37a;37e;384:38a;38c;38e:3a1;3a3:3ce;3d0:3fb;400:486;488:4ce;4d0:4f5;
+         4f8:4f9;500:50f;531:556;559:55f;561:587;589:58a;591:5a1;5a3:5b9;5bb:5c4;5d0:5ea;5f0:5f4;600:603;
+         60c:615;61b;61f;621:63a;640:658;660:70d;70f:74a;74d:74f;780:7b1;901:939;93c:94d;950:954;958:970;
+         981:983;985:98c;98f:990;993:9a8;9aa:9b0;9b2;9b6:9b9;9bc:9c4;9c7:9c8;9cb:9cd;9d7;9dc:9dd;9df:9e3;
+         9e6:9fa;a01:a03;a05:a0a;a0f:a10;a13:a28;a2a:a30;a32:a33;a35:a36;a38:a39;a3c;a3e:a42;a47:a48;
+         a4b:a4d;a59:a5c;a5e;a66:a74;a81:a83;a85:a8d;a8f:a91;a93:aa8;aaa:ab0;ab2:ab3;ab5:ab9;abc:ac5;
+         ac7:ac9;acb:acd;ad0;ae0:ae3;ae6:aef;af1;b01:b03;b05:b0c;b0f:b10;b13:b28;b2a:b30;b32:b33;b35:b39;
+         b3c:b43;b47:b48;b4b:b4d;b56:b57;b5c:b5d;b5f:b61;b66:b71;b82:b83;b85:b8a;b8e:b90;b92:b95;b99:b9a;
+         b9c;b9e:b9f;ba3:ba4;ba8:baa;bae:bb5;bb7:bb9;bbe:bc2;bc6:bc8;bca:bcd;bd7;be7:bfa;c01:c03;c05:c0c;
+         c0e:c10;c12:c28;c2a:c33;c35:c39;c3e:c44;c46:c48;c4a:c4d;c55:c56;c60:c61;c66:c6f;c82:c83;c85:c8c;
+         c8e:c90;c92:ca8;caa:cb3;cb5:cb9;cbc:cc4;cc6:cc8;cca:ccd;cd5:cd6;cde;ce0:ce1;ce6:cef;d02:d03;
+         d05:d0c;d0e:d10;d12:d28;d2a:d39;d3e:d43;d46:d48;d4a:d4d;d57;d60:d61;d66:d6f;d82:d83;d85:d96;
+         d9a:db1;db3:dbb;dbd;dc0:dc6;dca;dcf:dd4;dd6;dd8:ddf;df2:df4;e01:e3a;e3f:e5b;e81:e82;e84;e87:e88;
+         e8a;e8d;e94:e97;e99:e9f;ea1:ea3;ea5;ea7;eaa:eab;ead:eb9;ebb:ebd;ec0:ec4;ec6;ec8:ecd;ed0:ed9;
+         edc:edd;f00:f47;f49:f6a;f71:f8b;f90:f97;f99:fbc;fbe:fcc;fcf;1000:1021;1023:1027;1029:102a;102c:1032;
+         1036:1039;1040:1059;10a0:10c5;10d0:10f8;10fb;1100:1159;115f:11a2;11a8:11f9;1200:1206;1208:1246;
+         1248;124a:124d;1250:1256;1258;125a:125d;1260:1286;1288;128a:128d;1290:12ae;12b0;12b2:12b5;12b8:12be;
+         12c0;12c2:12c5;12c8:12ce;12d0:12d6;12d8:12ee;12f0:130e;1310;1312:1315;1318:131e;1320:1346;1348:135a;
+         1361:137c;13a0:13f4;1401:1676;1680:169c;16a0:16f0;1700:170c;170e:1714;1720:1736;1740:1753;1760:176c;
+         176e:1770;1772:1773;1780:17dd;17e0:17e9;17f0:17f9;1800:180e;1810:1819;1820:1877;1880:18a9;1900:191c;
+         1920:192b;1930:193b;1940;1944:196d;1970:1974;19e0:19ff;1d00:1d6b;1e00:1e9b;1ea0:1ef9;1f00:1f15;
+         1f18:1f1d;1f20:1f45;1f48:1f4d;1f50:1f57;1f59;1f5b;1f5d;1f5f:1f7d;1f80:1fb4;1fb6:1fc4;1fc6:1fd3;
+         1fd6:1fdb;1fdd:1fef;1ff2:1ff4;1ff6:1ffe;2000:2054;2057;205f:2063;206a:2071;2074:208e;20a0:20b1;
+         20d0:20ea;2100:213b;213d:214b;2153:2183;2190:23d0;2400:2426;2440:244a;2460:2617;2619:267d;2680:2691;
+         26a0:26a1;2701:2704;2706:2709;270c:2727;2729:274b;274d;274f:2752;2756;2758:275e;2761:2794;2798:27af;
+         27b1:27be;27d0:27eb;27f0:2b0d;2e80:2e99;2e9b:2ef3;2f00:2fd5;2ff0:2ffb;3000:303f;3041:3096;3099:30ff;
+         3105:312c;3131:318e;3190:31b7;31f0:321e;3220:3243;3250:327d;327f:32fe;3300:4db5;4dc0:9fa5;a000:a48c;
+         a490:a4c6;ac00:d7a3;d800:fa2d;fa30:fa6a;fb00:fb06;fb13:fb17;fb1d:fb36;fb38:fb3c;fb3e;fb40:fb41;
+         fb43:fb44;fb46:fbb1;fbd3:fd3f;fd50:fd8f;fd92:fdc7;fdd0:fdfd;fe00:fe0f;fe20:fe23;fe30:fe52;fe54:fe66;
+         fe68:fe6b;fe70:fe74;fe76:fefc;feff;ff01:ffbe;ffc2:ffc7;ffca:ffcf;ffd2:ffd7;ffda:ffdc;ffe0:ffe6;
+         ffe8:ffee;fff9:ffff)
+    v41 (0:241;250:36f;374:375;37a;37e;384:38a;38c;38e:3a1;3a3:3ce;3d0:486;488:4ce;4d0:4f9;500:50f;531:556;
+         559:55f;561:587;589:58a;591:5b9;5bb:5c7;5d0:5ea;5f0:5f4;600:603;60b:615;61b;61e:61f;621:63a;
+         640:65e;660:70d;70f:74a;74d:76d;780:7b1;901:939;93c:94d;950:954;958:970;97d;981:983;985:98c;
+         98f:990;993:9a8;9aa:9b0;9b2;9b6:9b9;9bc:9c4;9c7:9c8;9cb:9ce;9d7;9dc:9dd;9df:9e3;9e6:9fa;a01:a03;
+         a05:a0a;a0f:a10;a13:a28;a2a:a30;a32:a33;a35:a36;a38:a39;a3c;a3e:a42;a47:a48;a4b:a4d;a59:a5c;
+         a5e;a66:a74;a81:a83;a85:a8d;a8f:a91;a93:aa8;aaa:ab0;ab2:ab3;ab5:ab9;abc:ac5;ac7:ac9;acb:acd;
+         ad0;ae0:ae3;ae6:aef;af1;b01:b03;b05:b0c;b0f:b10;b13:b28;b2a:b30;b32:b33;b35:b39;b3c:b43;b47:b48;
+         b4b:b4d;b56:b57;b5c:b5d;b5f:b61;b66:b71;b82:b83;b85:b8a;b8e:b90;b92:b95;b99:b9a;b9c;b9e:b9f;
+         ba3:ba4;ba8:baa;bae:bb9;bbe:bc2;bc6:bc8;bca:bcd;bd7;be6:bfa;c01:c03;c05:c0c;c0e:c10;c12:c28;
+         c2a:c33;c35:c39;c3e:c44;c46:c48;c4a:c4d;c55:c56;c60:c61;c66:c6f;c82:c83;c85:c8c;c8e:c90;c92:ca8;
+         caa:cb3;cb5:cb9;cbc:cc4;cc6:cc8;cca:ccd;cd5:cd6;cde;ce0:ce1;ce6:cef;d02:d03;d05:d0c;d0e:d10;
+         d12:d28;d2a:d39;d3e:d43;d46:d48;d4a:d4d;d57;d60:d61;d66:d6f;d82:d83;d85:d96;d9a:db1;db3:dbb;
+         dbd;dc0:dc6;dca;dcf:dd4;dd6;dd8:ddf;df2:df4;e01:e3a;e3f:e5b;e81:e82;e84;e87:e88;e8a;e8d;e94:e97;
+         e99:e9f;ea1:ea3;ea5;ea7;eaa:eab;ead:eb9;ebb:ebd;ec0:ec4;ec6;ec8:ecd;ed0:ed9;edc:edd;f00:f47;
+         f49:f6a;f71:f8b;f90:f97;f99:fbc;fbe:fcc;fcf:fd1;1000:1021;1023:1027;1029:102a;102c:1032;1036:1039;
+         1040:1059;10a0:10c5;10d0:10fc;1100:1159;115f:11a2;11a8:11f9;1200:1248;124a:124d;1250:1256;1258;
+         125a:125d;1260:1288;128a:128d;1290:12b0;12b2:12b5;12b8:12be;12c0;12c2:12c5;12c8:12d6;12d8:1310;
+         1312:1315;1318:135a;135f:137c;1380:1399;13a0:13f4;1401:1676;1680:169c;16a0:16f0;1700:170c;170e:1714;
+         1720:1736;1740:1753;1760:176c;176e:1770;1772:1773;1780:17dd;17e0:17e9;17f0:17f9;1800:180e;1810:1819;
+         1820:1877;1880:18a9;1900:191c;1920:192b;1930:193b;1940;1944:196d;1970:1974;1980:19a9;19b0:19c9;
+         19d0:19d9;19de:1a1b;1a1e:1a1f;1d00:1dc3;1e00:1e9b;1ea0:1ef9;1f00:1f15;1f18:1f1d;1f20:1f45;1f48:1f4d;
+         1f50:1f57;1f59;1f5b;1f5d;1f5f:1f7d;1f80:1fb4;1fb6:1fc4;1fc6:1fd3;1fd6:1fdb;1fdd:1fef;1ff2:1ff4;
+         1ff6:1ffe;2000:2063;206a:2071;2074:208e;2090:2094;20a0:20b5;20d0:20eb;2100:214c;2153:2183;2190:23db;
+         2400:2426;2440:244a;2460:269c;26a0:26b1;2701:2704;2706:2709;270c:2727;2729:274b;274d;274f:2752;
+         2756;2758:275e;2761:2794;2798:27af;27b1:27be;27c0:27c6;27d0:27eb;27f0:2b13;2c00:2c2e;2c30:2c5e;
+         2c80:2cea;2cf9:2d25;2d30:2d65;2d6f;2d80:2d96;2da0:2da6;2da8:2dae;2db0:2db6;2db8:2dbe;2dc0:2dc6;
+         2dc8:2dce;2dd0:2dd6;2dd8:2dde;2e00:2e17;2e1c:2e1d;2e80:2e99;2e9b:2ef3;2f00:2fd5;2ff0:2ffb;3000:303f;
+         3041:3096;3099:30ff;3105:312c;3131:318e;3190:31b7;31c0:31cf;31f0:321e;3220:3243;3250:32fe;3300:4db5;
+         4dc0:9fbb;a000:a48c;a490:a4c6;a700:a716;a800:a82b;ac00:d7a3;d800:fa2d;fa30:fa6a;fa70:fad9;fb00:fb06;
+         fb13:fb17;fb1d:fb36;fb38:fb3c;fb3e;fb40:fb41;fb43:fb44;fb46:fbb1;fbd3:fd3f;fd50:fd8f;fd92:fdc7;
+         fdd0:fdfd;fe00:fe19;fe20:fe23;fe30:fe52;fe54:fe66;fe68:fe6b;fe70:fe74;fe76:fefc;feff;ff01:ffbe;
+         ffc2:ffc7;ffca:ffcf;ffd2:ffd7;ffda:ffdc;ffe0:ffe6;ffe8:ffee;fff9:ffff)
+    v50 (0:36f;374:375;37a:37e;384:38a;38c;38e:3a1;3a3:3ce;3d0:486;488:513;531:556;559:55f;561:587;589:58a;
+         591:5c7;5d0:5ea;5f0:5f4;600:603;60b:615;61b;61e:61f;621:63a;640:65e;660:70d;70f:74a;74d:76d;
+         780:7b1;7c0:7fa;901:939;93c:94d;950:954;958:970;97b:97f;981:983;985:98c;98f:990;993:9a8;9aa:9b0;
+         9b2;9b6:9b9;9bc:9c4;9c7:9c8;9cb:9ce;9d7;9dc:9dd;9df:9e3;9e6:9fa;a01:a03;a05:a0a;a0f:a10;a13:a28;
+         a2a:a30;a32:a33;a35:a36;a38:a39;a3c;a3e:a42;a47:a48;a4b:a4d;a59:a5c;a5e;a66:a74;a81:a83;a85:a8d;
+         a8f:a91;a93:aa8;aaa:ab0;ab2:ab3;ab5:ab9;abc:ac5;ac7:ac9;acb:acd;ad0;ae0:ae3;ae6:aef;af1;b01:b03;
+         b05:b0c;b0f:b10;b13:b28;b2a:b30;b32:b33;b35:b39;b3c:b43;b47:b48;b4b:b4d;b56:b57;b5c:b5d;b5f:b61;
+         b66:b71;b82:b83;b85:b8a;b8e:b90;b92:b95;b99:b9a;b9c;b9e:b9f;ba3:ba4;ba8:baa;bae:bb9;bbe:bc2;
+         bc6:bc8;bca:bcd;bd7;be6:bfa;c01:c03;c05:c0c;c0e:c10;c12:c28;c2a:c33;c35:c39;c3e:c44;c46:c48;
+         c4a:c4d;c55:c56;c60:c61;c66:c6f;c82:c83;c85:c8c;c8e:c90;c92:ca8;caa:cb3;cb5:cb9;cbc:cc4;cc6:cc8;
+         cca:ccd;cd5:cd6;cde;ce0:ce3;ce6:cef;cf1:cf2;d02:d03;d05:d0c;d0e:d10;d12:d28;d2a:d39;d3e:d43;
+         d46:d48;d4a:d4d;d57;d60:d61;d66:d6f;d82:d83;d85:d96;d9a:db1;db3:dbb;dbd;dc0:dc6;dca;dcf:dd4;
+         dd6;dd8:ddf;df2:df4;e01:e3a;e3f:e5b;e81:e82;e84;e87:e88;e8a;e8d;e94:e97;e99:e9f;ea1:ea3;ea5;
+         ea7;eaa:eab;ead:eb9;ebb:ebd;ec0:ec4;ec6;ec8:ecd;ed0:ed9;edc:edd;f00:f47;f49:f6a;f71:f8b;f90:f97;
+         f99:fbc;fbe:fcc;fcf:fd1;1000:1021;1023:1027;1029:102a;102c:1032;1036:1039;1040:1059;10a0:10c5;
+         10d0:10fc;1100:1159;115f:11a2;11a8:11f9;1200:1248;124a:124d;1250:1256;1258;125a:125d;1260:1288;
+         128a:128d;1290:12b0;12b2:12b5;12b8:12be;12c0;12c2:12c5;12c8:12d6;12d8:1310;1312:1315;1318:135a;
+         135f:137c;1380:1399;13a0:13f4;1401:1676;1680:169c;16a0:16f0;1700:170c;170e:1714;1720:1736;1740:1753;
+         1760:176c;176e:1770;1772:1773;1780:17dd;17e0:17e9;17f0:17f9;1800:180e;1810:1819;1820:1877;1880:18a9;
+         1900:191c;1920:192b;1930:193b;1940;1944:196d;1970:1974;1980:19a9;19b0:19c9;19d0:19d9;19de:1a1b;
+         1a1e:1a1f;1b00:1b4b;1b50:1b7c;1d00:1dca;1dfe:1e9b;1ea0:1ef9;1f00:1f15;1f18:1f1d;1f20:1f45;1f48:1f4d;
+         1f50:1f57;1f59;1f5b;1f5d;1f5f:1f7d;1f80:1fb4;1fb6:1fc4;1fc6:1fd3;1fd6:1fdb;1fdd:1fef;1ff2:1ff4;
+         1ff6:1ffe;2000:2063;206a:2071;2074:208e;2090:2094;20a0:20b5;20d0:20ef;2100:214e;2153:2184;2190:23e7;
+         2400:2426;2440:244a;2460:269c;26a0:26b2;2701:2704;2706:2709;270c:2727;2729:274b;274d;274f:2752;
+         2756;2758:275e;2761:2794;2798:27af;27b1:27be;27c0:27ca;27d0:27eb;27f0:2b1a;2b20:2b23;2c00:2c2e;
+         2c30:2c5e;2c60:2c6c;2c74:2c77;2c80:2cea;2cf9:2d25;2d30:2d65;2d6f;2d80:2d96;2da0:2da6;2da8:2dae;
+         2db0:2db6;2db8:2dbe;2dc0:2dc6;2dc8:2dce;2dd0:2dd6;2dd8:2dde;2e00:2e17;2e1c:2e1d;2e80:2e99;2e9b:2ef3;
+         2f00:2fd5;2ff0:2ffb;3000:303f;3041:3096;3099:30ff;3105:312c;3131:318e;3190:31b7;31c0:31cf;31f0:321e;
+         3220:3243;3250:32fe;3300:4db5;4dc0:9fbb;a000:a48c;a490:a4c6;a700:a71a;a720:a721;a800:a82b;a840:a877;
+         ac00:d7a3;d800:fa2d;fa30:fa6a;fa70:fad9;fb00:fb06;fb13:fb17;fb1d:fb36;fb38:fb3c;fb3e;fb40:fb41;
+         fb43:fb44;fb46:fbb1;fbd3:fd3f;fd50:fd8f;fd92:fdc7;fdd0:fdfd;fe00:fe19;fe20:fe23;fe30:fe52;fe54:fe66;
+         fe68:fe6b;fe70:fe74;fe76:fefc;feff;ff01:ffbe;ffc2:ffc7;ffca:ffcf;ffd2:ffd7;ffda:ffdc;ffe0:ffe6;
+         ffe8:ffee;fff9:ffff)
+    v51 (0:377;37a:37e;384:38a;38c;38e:3a1;3a3:523;531:556;559:55f;561:587;589:58a;591:5c7;5d0:5ea;5f0:5f4;
+         600:603;606:61b;61e:61f;621:65e;660:70d;70f:74a;74d:7b1;7c0:7fa;901:939;93c:94d;950:954;958:972;
+         97b:97f;981:983;985:98c;98f:990;993:9a8;9aa:9b0;9b2;9b6:9b9;9bc:9c4;9c7:9c8;9cb:9ce;9d7;9dc:9dd;
+         9df:9e3;9e6:9fa;a01:a03;a05:a0a;a0f:a10;a13:a28;a2a:a30;a32:a33;a35:a36;a38:a39;a3c;a3e:a42;
+         a47:a48;a4b:a4d;a51;a59:a5c;a5e;a66:a75;a81:a83;a85:a8d;a8f:a91;a93:aa8;aaa:ab0;ab2:ab3;ab5:ab9;
+         abc:ac5;ac7:ac9;acb:acd;ad0;ae0:ae3;ae6:aef;af1;b01:b03;b05:b0c;b0f:b10;b13:b28;b2a:b30;b32:b33;
+         b35:b39;b3c:b44;b47:b48;b4b:b4d;b56:b57;b5c:b5d;b5f:b63;b66:b71;b82:b83;b85:b8a;b8e:b90;b92:b95;
+         b99:b9a;b9c;b9e:b9f;ba3:ba4;ba8:baa;bae:bb9;bbe:bc2;bc6:bc8;bca:bcd;bd0;bd7;be6:bfa;c01:c03;
+         c05:c0c;c0e:c10;c12:c28;c2a:c33;c35:c39;c3d:c44;c46:c48;c4a:c4d;c55:c56;c58:c59;c60:c63;c66:c6f;
+         c78:c7f;c82:c83;c85:c8c;c8e:c90;c92:ca8;caa:cb3;cb5:cb9;cbc:cc4;cc6:cc8;cca:ccd;cd5:cd6;cde;
+         ce0:ce3;ce6:cef;cf1:cf2;d02:d03;d05:d0c;d0e:d10;d12:d28;d2a:d39;d3d:d44;d46:d48;d4a:d4d;d57;
+         d60:d63;d66:d75;d79:d7f;d82:d83;d85:d96;d9a:db1;db3:dbb;dbd;dc0:dc6;dca;dcf:dd4;dd6;dd8:ddf;
+         df2:df4;e01:e3a;e3f:e5b;e81:e82;e84;e87:e88;e8a;e8d;e94:e97;e99:e9f;ea1:ea3;ea5;ea7;eaa:eab;
+         ead:eb9;ebb:ebd;ec0:ec4;ec6;ec8:ecd;ed0:ed9;edc:edd;f00:f47;f49:f6c;f71:f8b;f90:f97;f99:fbc;
+         fbe:fcc;fce:fd4;1000:1099;109e:10c5;10d0:10fc;1100:1159;115f:11a2;11a8:11f9;1200:1248;124a:124d;
+         1250:1256;1258;125a:125d;1260:1288;128a:128d;1290:12b0;12b2:12b5;12b8:12be;12c0;12c2:12c5;12c8:12d6;
+         12d8:1310;1312:1315;1318:135a;135f:137c;1380:1399;13a0:13f4;1401:1676;1680:169c;16a0:16f0;1700:170c;
+         170e:1714;1720:1736;1740:1753;1760:176c;176e:1770;1772:1773;1780:17dd;17e0:17e9;17f0:17f9;1800:180e;
+         1810:1819;1820:1877;1880:18aa;1900:191c;1920:192b;1930:193b;1940;1944:196d;1970:1974;1980:19a9;
+         19b0:19c9;19d0:19d9;19de:1a1b;1a1e:1a1f;1b00:1b4b;1b50:1b7c;1b80:1baa;1bae:1bb9;1c00:1c37;1c3b:1c49;
+         1c4d:1c7f;1d00:1de6;1dfe:1f15;1f18:1f1d;1f20:1f45;1f48:1f4d;1f50:1f57;1f59;1f5b;1f5d;1f5f:1f7d;
+         1f80:1fb4;1fb6:1fc4;1fc6:1fd3;1fd6:1fdb;1fdd:1fef;1ff2:1ff4;1ff6:1ffe;2000:2064;206a:2071;2074:208e;
+         2090:2094;20a0:20b5;20d0:20f0;2100:214f;2153:2188;2190:23e7;2400:2426;2440:244a;2460:269d;26a0:26bc;
+         26c0:26c3;2701:2704;2706:2709;270c:2727;2729:274b;274d;274f:2752;2756;2758:275e;2761:2794;2798:27af;
+         27b1:27be;27c0:27ca;27cc;27d0:2b4c;2b50:2b54;2c00:2c2e;2c30:2c5e;2c60:2c6f;2c71:2c7d;2c80:2cea;
+         2cf9:2d25;2d30:2d65;2d6f;2d80:2d96;2da0:2da6;2da8:2dae;2db0:2db6;2db8:2dbe;2dc0:2dc6;2dc8:2dce;
+         2dd0:2dd6;2dd8:2dde;2de0:2e30;2e80:2e99;2e9b:2ef3;2f00:2fd5;2ff0:2ffb;3000:303f;3041:3096;3099:30ff;
+         3105:312d;3131:318e;3190:31b7;31c0:31e3;31f0:321e;3220:3243;3250:32fe;3300:4db5;4dc0:9fc3;a000:a48c;
+         a490:a4c6;a500:a62b;a640:a65f;a662:a673;a67c:a697;a700:a78c;a7fb:a82b;a840:a877;a880:a8c4;a8ce:a8d9;
+         a900:a953;a95f;aa00:aa36;aa40:aa4d;aa50:aa59;aa5c:aa5f;ac00:d7a3;d800:fa2d;fa30:fa6a;fa70:fad9;
+         fb00:fb06;fb13:fb17;fb1d:fb36;fb38:fb3c;fb3e;fb40:fb41;fb43:fb44;fb46:fbb1;fbd3:fd3f;fd50:fd8f;
+         fd92:fdc7;fdd0:fdfd;fe00:fe19;fe20:fe26;fe30:fe52;fe54:fe66;fe68:fe6b;fe70:fe74;fe76:fefc;feff;
+         ff01:ffbe;ffc2:ffc7;ffca:ffcf;ffd2:ffd7;ffda:ffdc;ffe0:ffe6;ffe8:ffee;fff9:ffff)
+    v52 (0:377;37a:37e;384:38a;38c;38e:3a1;3a3:525;531:556;559:55f;561:587;589:58a;591:5c7;5d0:5ea;5f0:5f4;
+         600:603;606:61b;61e:61f;621:65e;660:70d;70f:74a;74d:7b1;7c0:7fa;800:82d;830:83e;900:939;93c:94e;
+         950:955;958:972;979:97f;981:983;985:98c;98f:990;993:9a8;9aa:9b0;9b2;9b6:9b9;9bc:9c4;9c7:9c8;
+         9cb:9ce;9d7;9dc:9dd;9df:9e3;9e6:9fb;a01:a03;a05:a0a;a0f:a10;a13:a28;a2a:a30;a32:a33;a35:a36;
+         a38:a39;a3c;a3e:a42;a47:a48;a4b:a4d;a51;a59:a5c;a5e;a66:a75;a81:a83;a85:a8d;a8f:a91;a93:aa8;
+         aaa:ab0;ab2:ab3;ab5:ab9;abc:ac5;ac7:ac9;acb:acd;ad0;ae0:ae3;ae6:aef;af1;b01:b03;b05:b0c;b0f:b10;
+         b13:b28;b2a:b30;b32:b33;b35:b39;b3c:b44;b47:b48;b4b:b4d;b56:b57;b5c:b5d;b5f:b63;b66:b71;b82:b83;
+         b85:b8a;b8e:b90;b92:b95;b99:b9a;b9c;b9e:b9f;ba3:ba4;ba8:baa;bae:bb9;bbe:bc2;bc6:bc8;bca:bcd;
+         bd0;bd7;be6:bfa;c01:c03;c05:c0c;c0e:c10;c12:c28;c2a:c33;c35:c39;c3d:c44;c46:c48;c4a:c4d;c55:c56;
+         c58:c59;c60:c63;c66:c6f;c78:c7f;c82:c83;c85:c8c;c8e:c90;c92:ca8;caa:cb3;cb5:cb9;cbc:cc4;cc6:cc8;
+         cca:ccd;cd5:cd6;cde;ce0:ce3;ce6:cef;cf1:cf2;d02:d03;d05:d0c;d0e:d10;d12:d28;d2a:d39;d3d:d44;
+         d46:d48;d4a:d4d;d57;d60:d63;d66:d75;d79:d7f;d82:d83;d85:d96;d9a:db1;db3:dbb;dbd;dc0:dc6;dca;
+         dcf:dd4;dd6;dd8:ddf;df2:df4;e01:e3a;e3f:e5b;e81:e82;e84;e87:e88;e8a;e8d;e94:e97;e99:e9f;ea1:ea3;
+         ea5;ea7;eaa:eab;ead:eb9;ebb:ebd;ec0:ec4;ec6;ec8:ecd;ed0:ed9;edc:edd;f00:f47;f49:f6c;f71:f8b;
+         f90:f97;f99:fbc;fbe:fcc;fce:fd8;1000:10c5;10d0:10fc;1100:1248;124a:124d;1250:1256;1258;125a:125d;
+         1260:1288;128a:128d;1290:12b0;12b2:12b5;12b8:12be;12c0;12c2:12c5;12c8:12d6;12d8:1310;1312:1315;
+         1318:135a;135f:137c;1380:1399;13a0:13f4;1400:169c;16a0:16f0;1700:170c;170e:1714;1720:1736;1740:1753;
+         1760:176c;176e:1770;1772:1773;1780:17dd;17e0:17e9;17f0:17f9;1800:180e;1810:1819;1820:1877;1880:18aa;
+         18b0:18f5;1900:191c;1920:192b;1930:193b;1940;1944:196d;1970:1974;1980:19ab;19b0:19c9;19d0:19da;
+         19de:1a1b;1a1e:1a5e;1a60:1a7c;1a7f:1a89;1a90:1a99;1aa0:1aad;1b00:1b4b;1b50:1b7c;1b80:1baa;1bae:1bb9;
+         1c00:1c37;1c3b:1c49;1c4d:1c7f;1cd0:1cf2;1d00:1de6;1dfd:1f15;1f18:1f1d;1f20:1f45;1f48:1f4d;1f50:1f57;
+         1f59;1f5b;1f5d;1f5f:1f7d;1f80:1fb4;1fb6:1fc4;1fc6:1fd3;1fd6:1fdb;1fdd:1fef;1ff2:1ff4;1ff6:1ffe;
+         2000:2064;206a:2071;2074:208e;2090:2094;20a0:20b8;20d0:20f0;2100:2189;2190:23e8;2400:2426;2440:244a;
+         2460:26cd;26cf:26e1;26e3;26e8:26ff;2701:2704;2706:2709;270c:2727;2729:274b;274d;274f:2752;2756:275e;
+         2761:2794;2798:27af;27b1:27be;27c0:27ca;27cc;27d0:2b4c;2b50:2b59;2c00:2c2e;2c30:2c5e;2c60:2cf1;
+         2cf9:2d25;2d30:2d65;2d6f;2d80:2d96;2da0:2da6;2da8:2dae;2db0:2db6;2db8:2dbe;2dc0:2dc6;2dc8:2dce;
+         2dd0:2dd6;2dd8:2dde;2de0:2e31;2e80:2e99;2e9b:2ef3;2f00:2fd5;2ff0:2ffb;3000:303f;3041:3096;3099:30ff;
+         3105:312d;3131:318e;3190:31b7;31c0:31e3;31f0:321e;3220:32fe;3300:4db5;4dc0:9fcb;a000:a48c;a490:a4c6;
+         a4d0:a62b;a640:a65f;a662:a673;a67c:a697;a6a0:a6f7;a700:a78c;a7fb:a82b;a830:a839;a840:a877;a880:a8c4;
+         a8ce:a8d9;a8e0:a8fb;a900:a953;a95f:a97c;a980:a9cd;a9cf:a9d9;a9de:a9df;aa00:aa36;aa40:aa4d;aa50:aa59;
+         aa5c:aa7b;aa80:aac2;aadb:aadf;abc0:abed;abf0:abf9;ac00:d7a3;d7b0:d7c6;d7cb:d7fb;d800:fa2d;fa30:fa6d;
+         fa70:fad9;fb00:fb06;fb13:fb17;fb1d:fb36;fb38:fb3c;fb3e;fb40:fb41;fb43:fb44;fb46:fbb1;fbd3:fd3f;
+         fd50:fd8f;fd92:fdc7;fdd0:fdfd;fe00:fe19;fe20:fe26;fe30:fe52;fe54:fe66;fe68:fe6b;fe70:fe74;fe76:fefc;
+         feff;ff01:ffbe;ffc2:ffc7;ffca:ffcf;ffd2:ffd7;ffda:ffdc;ffe0:ffe6;ffe8:ffee;fff9:ffff)
+    v60 (0:377;37a:37e;384:38a;38c;38e:3a1;3a3:527;531:556;559:55f;561:587;589:58a;591:5c7;5d0:5ea;5f0:5f4;
+         600:603;606:61b;61e:70d;70f:74a;74d:7b1;7c0:7fa;800:82d;830:83e;840:85b;85e;900:977;979:97f;
+         981:983;985:98c;98f:990;993:9a8;9aa:9b0;9b2;9b6:9b9;9bc:9c4;9c7:9c8;9cb:9ce;9d7;9dc:9dd;9df:9e3;
+         9e6:9fb;a01:a03;a05:a0a;a0f:a10;a13:a28;a2a:a30;a32:a33;a35:a36;a38:a39;a3c;a3e:a42;a47:a48;
+         a4b:a4d;a51;a59:a5c;a5e;a66:a75;a81:a83;a85:a8d;a8f:a91;a93:aa8;aaa:ab0;ab2:ab3;ab5:ab9;abc:ac5;
+         ac7:ac9;acb:acd;ad0;ae0:ae3;ae6:aef;af1;b01:b03;b05:b0c;b0f:b10;b13:b28;b2a:b30;b32:b33;b35:b39;
+         b3c:b44;b47:b48;b4b:b4d;b56:b57;b5c:b5d;b5f:b63;b66:b77;b82:b83;b85:b8a;b8e:b90;b92:b95;b99:b9a;
+         b9c;b9e:b9f;ba3:ba4;ba8:baa;bae:bb9;bbe:bc2;bc6:bc8;bca:bcd;bd0;bd7;be6:bfa;c01:c03;c05:c0c;
+         c0e:c10;c12:c28;c2a:c33;c35:c39;c3d:c44;c46:c48;c4a:c4d;c55:c56;c58:c59;c60:c63;c66:c6f;c78:c7f;
+         c82:c83;c85:c8c;c8e:c90;c92:ca8;caa:cb3;cb5:cb9;cbc:cc4;cc6:cc8;cca:ccd;cd5:cd6;cde;ce0:ce3;
+         ce6:cef;cf1:cf2;d02:d03;d05:d0c;d0e:d10;d12:d3a;d3d:d44;d46:d48;d4a:d4e;d57;d60:d63;d66:d75;
+         d79:d7f;d82:d83;d85:d96;d9a:db1;db3:dbb;dbd;dc0:dc6;dca;dcf:dd4;dd6;dd8:ddf;df2:df4;e01:e3a;
+         e3f:e5b;e81:e82;e84;e87:e88;e8a;e8d;e94:e97;e99:e9f;ea1:ea3;ea5;ea7;eaa:eab;ead:eb9;ebb:ebd;
+         ec0:ec4;ec6;ec8:ecd;ed0:ed9;edc:edd;f00:f47;f49:f6c;f71:f97;f99:fbc;fbe:fcc;fce:fda;1000:10c5;
+         10d0:10fc;1100:1248;124a:124d;1250:1256;1258;125a:125d;1260:1288;128a:128d;1290:12b0;12b2:12b5;
+         12b8:12be;12c0;12c2:12c5;12c8:12d6;12d8:1310;1312:1315;1318:135a;135d:137c;1380:1399;13a0:13f4;
+         1400:169c;16a0:16f0;1700:170c;170e:1714;1720:1736;1740:1753;1760:176c;176e:1770;1772:1773;1780:17dd;
+         17e0:17e9;17f0:17f9;1800:180e;1810:1819;1820:1877;1880:18aa;18b0:18f5;1900:191c;1920:192b;1930:193b;
+         1940;1944:196d;1970:1974;1980:19ab;19b0:19c9;19d0:19da;19de:1a1b;1a1e:1a5e;1a60:1a7c;1a7f:1a89;
+         1a90:1a99;1aa0:1aad;1b00:1b4b;1b50:1b7c;1b80:1baa;1bae:1bb9;1bc0:1bf3;1bfc:1c37;1c3b:1c49;1c4d:1c7f;
+         1cd0:1cf2;1d00:1de6;1dfc:1f15;1f18:1f1d;1f20:1f45;1f48:1f4d;1f50:1f57;1f59;1f5b;1f5d;1f5f:1f7d;
+         1f80:1fb4;1fb6:1fc4;1fc6:1fd3;1fd6:1fdb;1fdd:1fef;1ff2:1ff4;1ff6:1ffe;2000:2064;206a:2071;2074:208e;
+         2090:209c;20a0:20b9;20d0:20f0;2100:2189;2190:23f3;2400:2426;2440:244a;2460:26ff;2701:27ca;27cc;
+         27ce:2b4c;2b50:2b59;2c00:2c2e;2c30:2c5e;2c60:2cf1;2cf9:2d25;2d30:2d65;2d6f:2d70;2d7f:2d96;2da0:2da6;
+         2da8:2dae;2db0:2db6;2db8:2dbe;2dc0:2dc6;2dc8:2dce;2dd0:2dd6;2dd8:2dde;2de0:2e31;2e80:2e99;2e9b:2ef3;
+         2f00:2fd5;2ff0:2ffb;3000:303f;3041:3096;3099:30ff;3105:312d;3131:318e;3190:31ba;31c0:31e3;31f0:321e;
+         3220:32fe;3300:4db5;4dc0:9fcb;a000:a48c;a490:a4c6;a4d0:a62b;a640:a673;a67c:a697;a6a0:a6f7;a700:a78e;
+         a790:a791;a7a0:a7a9;a7fa:a82b;a830:a839;a840:a877;a880:a8c4;a8ce:a8d9;a8e0:a8fb;a900:a953;a95f:a97c;
+         a980:a9cd;a9cf:a9d9;a9de:a9df;aa00:aa36;aa40:aa4d;aa50:aa59;aa5c:aa7b;aa80:aac2;aadb:aadf;ab01:ab06;
+         ab09:ab0e;ab11:ab16;ab20:ab26;ab28:ab2e;abc0:abed;abf0:abf9;ac00:d7a3;d7b0:d7c6;d7cb:d7fb;d800:fa2d;
+         fa30:fa6d;fa70:fad9;fb00:fb06;fb13:fb17;fb1d:fb36;fb38:fb3c;fb3e;fb40:fb41;fb43:fb44;fb46:fbc1;
+         fbd3:fd3f;fd50:fd8f;fd92:fdc7;fdd0:fdfd;fe00:fe19;fe20:fe26;fe30:fe52;fe54:fe66;fe68:fe6b;fe70:fe74;
+         fe76:fefc;feff;ff01:ffbe;ffc2:ffc7;ffca:ffcf;ffd2:ffd7;ffda:ffdc;ffe0:ffe6;ffe8:ffee;fff9:ffff)
+    v61 (0:377;37a:37e;384:38a;38c;38e:3a1;3a3:527;531:556;559:55f;561:587;589:58a;58f;591:5c7;5d0:5ea;
+         5f0:5f4;600:604;606:61b;61e:70d;70f:74a;74d:7b1;7c0:7fa;800:82d;830:83e;840:85b;85e;8a0;8a2:8ac;
+         8e4:8fe;900:977;979:97f;981:983;985:98c;98f:990;993:9a8;9aa:9b0;9b2;9b6:9b9;9bc:9c4;9c7:9c8;
+         9cb:9ce;9d7;9dc:9dd;9df:9e3;9e6:9fb;a01:a03;a05:a0a;a0f:a10;a13:a28;a2a:a30;a32:a33;a35:a36;
+         a38:a39;a3c;a3e:a42;a47:a48;a4b:a4d;a51;a59:a5c;a5e;a66:a75;a81:a83;a85:a8d;a8f:a91;a93:aa8;
+         aaa:ab0;ab2:ab3;ab5:ab9;abc:ac5;ac7:ac9;acb:acd;ad0;ae0:ae3;ae6:af1;b01:b03;b05:b0c;b0f:b10;
+         b13:b28;b2a:b30;b32:b33;b35:b39;b3c:b44;b47:b48;b4b:b4d;b56:b57;b5c:b5d;b5f:b63;b66:b77;b82:b83;
+         b85:b8a;b8e:b90;b92:b95;b99:b9a;b9c;b9e:b9f;ba3:ba4;ba8:baa;bae:bb9;bbe:bc2;bc6:bc8;bca:bcd;
+         bd0;bd7;be6:bfa;c01:c03;c05:c0c;c0e:c10;c12:c28;c2a:c33;c35:c39;c3d:c44;c46:c48;c4a:c4d;c55:c56;
+         c58:c59;c60:c63;c66:c6f;c78:c7f;c82:c83;c85:c8c;c8e:c90;c92:ca8;caa:cb3;cb5:cb9;cbc:cc4;cc6:cc8;
+         cca:ccd;cd5:cd6;cde;ce0:ce3;ce6:cef;cf1:cf2;d02:d03;d05:d0c;d0e:d10;d12:d3a;d3d:d44;d46:d48;
+         d4a:d4e;d57;d60:d63;d66:d75;d79:d7f;d82:d83;d85:d96;d9a:db1;db3:dbb;dbd;dc0:dc6;dca;dcf:dd4;
+         dd6;dd8:ddf;df2:df4;e01:e3a;e3f:e5b;e81:e82;e84;e87:e88;e8a;e8d;e94:e97;e99:e9f;ea1:ea3;ea5;
+         ea7;eaa:eab;ead:eb9;ebb:ebd;ec0:ec4;ec6;ec8:ecd;ed0:ed9;edc:edf;f00:f47;f49:f6c;f71:f97;f99:fbc;
+         fbe:fcc;fce:fda;1000:10c5;10c7;10cd;10d0:1248;124a:124d;1250:1256;1258;125a:125d;1260:1288;
+         128a:128d;1290:12b0;12b2:12b5;12b8:12be;12c0;12c2:12c5;12c8:12d6;12d8:1310;1312:1315;1318:135a;
+         135d:137c;1380:1399;13a0:13f4;1400:169c;16a0:16f0;1700:170c;170e:1714;1720:1736;1740:1753;1760:176c;
+         176e:1770;1772:1773;1780:17dd;17e0:17e9;17f0:17f9;1800:180e;1810:1819;1820:1877;1880:18aa;18b0:18f5;
+         1900:191c;1920:192b;1930:193b;1940;1944:196d;1970:1974;1980:19ab;19b0:19c9;19d0:19da;19de:1a1b;
+         1a1e:1a5e;1a60:1a7c;1a7f:1a89;1a90:1a99;1aa0:1aad;1b00:1b4b;1b50:1b7c;1b80:1bf3;1bfc:1c37;1c3b:1c49;
+         1c4d:1c7f;1cc0:1cc7;1cd0:1cf6;1d00:1de6;1dfc:1f15;1f18:1f1d;1f20:1f45;1f48:1f4d;1f50:1f57;1f59;
+         1f5b;1f5d;1f5f:1f7d;1f80:1fb4;1fb6:1fc4;1fc6:1fd3;1fd6:1fdb;1fdd:1fef;1ff2:1ff4;1ff6:1ffe;2000:2064;
+         206a:2071;2074:208e;2090:209c;20a0:20b9;20d0:20f0;2100:2189;2190:23f3;2400:2426;2440:244a;2460:26ff;
+         2701:2b4c;2b50:2b59;2c00:2c2e;2c30:2c5e;2c60:2cf3;2cf9:2d25;2d27;2d2d;2d30:2d67;2d6f:2d70;2d7f:2d96;
+         2da0:2da6;2da8:2dae;2db0:2db6;2db8:2dbe;2dc0:2dc6;2dc8:2dce;2dd0:2dd6;2dd8:2dde;2de0:2e3b;2e80:2e99;
+         2e9b:2ef3;2f00:2fd5;2ff0:2ffb;3000:303f;3041:3096;3099:30ff;3105:312d;3131:318e;3190:31ba;31c0:31e3;
+         31f0:321e;3220:32fe;3300:4db5;4dc0:9fcc;a000:a48c;a490:a4c6;a4d0:a62b;a640:a697;a69f:a6f7;a700:a78e;
+         a790:a793;a7a0:a7aa;a7f8:a82b;a830:a839;a840:a877;a880:a8c4;a8ce:a8d9;a8e0:a8fb;a900:a953;a95f:a97c;
+         a980:a9cd;a9cf:a9d9;a9de:a9df;aa00:aa36;aa40:aa4d;aa50:aa59;aa5c:aa7b;aa80:aac2;aadb:aaf6;ab01:ab06;
+         ab09:ab0e;ab11:ab16;ab20:ab26;ab28:ab2e;abc0:abed;abf0:abf9;ac00:d7a3;d7b0:d7c6;d7cb:d7fb;d800:fa6d;
+         fa70:fad9;fb00:fb06;fb13:fb17;fb1d:fb36;fb38:fb3c;fb3e;fb40:fb41;fb43:fb44;fb46:fbc1;fbd3:fd3f;
+         fd50:fd8f;fd92:fdc7;fdd0:fdfd;fe00:fe19;fe20:fe26;fe30:fe52;fe54:fe66;fe68:fe6b;fe70:fe74;fe76:fefc;
+         feff;ff01:ffbe;ffc2:ffc7;ffca:ffcf;ffd2:ffd7;ffda:ffdc;ffe0:ffe6;ffe8:ffee;fff9:ffff)
+    v62 (0:377;37a:37e;384:38a;38c;38e:3a1;3a3:527;531:556;559:55f;561:587;589:58a;58f;591:5c7;5d0:5ea;
+         5f0:5f4;600:604;606:61b;61e:70d;70f:74a;74d:7b1;7c0:7fa;800:82d;830:83e;840:85b;85e;8a0;8a2:8ac;
+         8e4:8fe;900:977;979:97f;981:983;985:98c;98f:990;993:9a8;9aa:9b0;9b2;9b6:9b9;9bc:9c4;9c7:9c8;
+         9cb:9ce;9d7;9dc:9dd;9df:9e3;9e6:9fb;a01:a03;a05:a0a;a0f:a10;a13:a28;a2a:a30;a32:a33;a35:a36;
+         a38:a39;a3c;a3e:a42;a47:a48;a4b:a4d;a51;a59:a5c;a5e;a66:a75;a81:a83;a85:a8d;a8f:a91;a93:aa8;
+         aaa:ab0;ab2:ab3;ab5:ab9;abc:ac5;ac7:ac9;acb:acd;ad0;ae0:ae3;ae6:af1;b01:b03;b05:b0c;b0f:b10;
+         b13:b28;b2a:b30;b32:b33;b35:b39;b3c:b44;b47:b48;b4b:b4d;b56:b57;b5c:b5d;b5f:b63;b66:b77;b82:b83;
+         b85:b8a;b8e:b90;b92:b95;b99:b9a;b9c;b9e:b9f;ba3:ba4;ba8:baa;bae:bb9;bbe:bc2;bc6:bc8;bca:bcd;
+         bd0;bd7;be6:bfa;c01:c03;c05:c0c;c0e:c10;c12:c28;c2a:c33;c35:c39;c3d:c44;c46:c48;c4a:c4d;c55:c56;
+         c58:c59;c60:c63;c66:c6f;c78:c7f;c82:c83;c85:c8c;c8e:c90;c92:ca8;caa:cb3;cb5:cb9;cbc:cc4;cc6:cc8;
+         cca:ccd;cd5:cd6;cde;ce0:ce3;ce6:cef;cf1:cf2;d02:d03;d05:d0c;d0e:d10;d12:d3a;d3d:d44;d46:d48;
+         d4a:d4e;d57;d60:d63;d66:d75;d79:d7f;d82:d83;d85:d96;d9a:db1;db3:dbb;dbd;dc0:dc6;dca;dcf:dd4;
+         dd6;dd8:ddf;df2:df4;e01:e3a;e3f:e5b;e81:e82;e84;e87:e88;e8a;e8d;e94:e97;e99:e9f;ea1:ea3;ea5;
+         ea7;eaa:eab;ead:eb9;ebb:ebd;ec0:ec4;ec6;ec8:ecd;ed0:ed9;edc:edf;f00:f47;f49:f6c;f71:f97;f99:fbc;
+         fbe:fcc;fce:fda;1000:10c5;10c7;10cd;10d0:1248;124a:124d;1250:1256;1258;125a:125d;1260:1288;
+         128a:128d;1290:12b0;12b2:12b5;12b8:12be;12c0;12c2:12c5;12c8:12d6;12d8:1310;1312:1315;1318:135a;
+         135d:137c;1380:1399;13a0:13f4;1400:169c;16a0:16f0;1700:170c;170e:1714;1720:1736;1740:1753;1760:176c;
+         176e:1770;1772:1773;1780:17dd;17e0:17e9;17f0:17f9;1800:180e;1810:1819;1820:1877;1880:18aa;18b0:18f5;
+         1900:191c;1920:192b;1930:193b;1940;1944:196d;1970:1974;1980:19ab;19b0:19c9;19d0:19da;19de:1a1b;
+         1a1e:1a5e;1a60:1a7c;1a7f:1a89;1a90:1a99;1aa0:1aad;1b00:1b4b;1b50:1b7c;1b80:1bf3;1bfc:1c37;1c3b:1c49;
+         1c4d:1c7f;1cc0:1cc7;1cd0:1cf6;1d00:1de6;1dfc:1f15;1f18:1f1d;1f20:1f45;1f48:1f4d;1f50:1f57;1f59;
+         1f5b;1f5d;1f5f:1f7d;1f80:1fb4;1fb6:1fc4;1fc6:1fd3;1fd6:1fdb;1fdd:1fef;1ff2:1ff4;1ff6:1ffe;2000:2064;
+         206a:2071;2074:208e;2090:209c;20a0:20ba;20d0:20f0;2100:2189;2190:23f3;2400:2426;2440:244a;2460:26ff;
+         2701:2b4c;2b50:2b59;2c00:2c2e;2c30:2c5e;2c60:2cf3;2cf9:2d25;2d27;2d2d;2d30:2d67;2d6f:2d70;2d7f:2d96;
+         2da0:2da6;2da8:2dae;2db0:2db6;2db8:2dbe;2dc0:2dc6;2dc8:2dce;2dd0:2dd6;2dd8:2dde;2de0:2e3b;2e80:2e99;
+         2e9b:2ef3;2f00:2fd5;2ff0:2ffb;3000:303f;3041:3096;3099:30ff;3105:312d;3131:318e;3190:31ba;31c0:31e3;
+         31f0:321e;3220:32fe;3300:4db5;4dc0:9fcc;a000:a48c;a490:a4c6;a4d0:a62b;a640:a697;a69f:a6f7;a700:a78e;
+         a790:a793;a7a0:a7aa;a7f8:a82b;a830:a839;a840:a877;a880:a8c4;a8ce:a8d9;a8e0:a8fb;a900:a953;a95f:a97c;
+         a980:a9cd;a9cf:a9d9;a9de:a9df;aa00:aa36;aa40:aa4d;aa50:aa59;aa5c:aa7b;aa80:aac2;aadb:aaf6;ab01:ab06;
+         ab09:ab0e;ab11:ab16;ab20:ab26;ab28:ab2e;abc0:abed;abf0:abf9;ac00:d7a3;d7b0:d7c6;d7cb:d7fb;d800:fa6d;
+         fa70:fad9;fb00:fb06;fb13:fb17;fb1d:fb36;fb38:fb3c;fb3e;fb40:fb41;fb43:fb44;fb46:fbc1;fbd3:fd3f;
+         fd50:fd8f;fd92:fdc7;fdd0:fdfd;fe00:fe19;fe20:fe26;fe30:fe52;fe54:fe66;fe68:fe6b;fe70:fe74;fe76:fefc;
+         feff;ff01:ffbe;ffc2:ffc7;ffca:ffcf;ffd2:ffd7;ffda:ffdc;ffe0:ffe6;ffe8:ffee;fff9:ffff)
+    v63 (0:377;37a:37e;384:38a;38c;38e:3a1;3a3:527;531:556;559:55f;561:587;589:58a;58f;591:5c7;5d0:5ea;
+         5f0:5f4;600:604;606:61c;61e:70d;70f:74a;74d:7b1;7c0:7fa;800:82d;830:83e;840:85b;85e;8a0;8a2:8ac;
+         8e4:8fe;900:977;979:97f;981:983;985:98c;98f:990;993:9a8;9aa:9b0;9b2;9b6:9b9;9bc:9c4;9c7:9c8;
+         9cb:9ce;9d7;9dc:9dd;9df:9e3;9e6:9fb;a01:a03;a05:a0a;a0f:a10;a13:a28;a2a:a30;a32:a33;a35:a36;
+         a38:a39;a3c;a3e:a42;a47:a48;a4b:a4d;a51;a59:a5c;a5e;a66:a75;a81:a83;a85:a8d;a8f:a91;a93:aa8;
+         aaa:ab0;ab2:ab3;ab5:ab9;abc:ac5;ac7:ac9;acb:acd;ad0;ae0:ae3;ae6:af1;b01:b03;b05:b0c;b0f:b10;
+         b13:b28;b2a:b30;b32:b33;b35:b39;b3c:b44;b47:b48;b4b:b4d;b56:b57;b5c:b5d;b5f:b63;b66:b77;b82:b83;
+         b85:b8a;b8e:b90;b92:b95;b99:b9a;b9c;b9e:b9f;ba3:ba4;ba8:baa;bae:bb9;bbe:bc2;bc6:bc8;bca:bcd;
+         bd0;bd7;be6:bfa;c01:c03;c05:c0c;c0e:c10;c12:c28;c2a:c33;c35:c39;c3d:c44;c46:c48;c4a:c4d;c55:c56;
+         c58:c59;c60:c63;c66:c6f;c78:c7f;c82:c83;c85:c8c;c8e:c90;c92:ca8;caa:cb3;cb5:cb9;cbc:cc4;cc6:cc8;
+         cca:ccd;cd5:cd6;cde;ce0:ce3;ce6:cef;cf1:cf2;d02:d03;d05:d0c;d0e:d10;d12:d3a;d3d:d44;d46:d48;
+         d4a:d4e;d57;d60:d63;d66:d75;d79:d7f;d82:d83;d85:d96;d9a:db1;db3:dbb;dbd;dc0:dc6;dca;dcf:dd4;
+         dd6;dd8:ddf;df2:df4;e01:e3a;e3f:e5b;e81:e82;e84;e87:e88;e8a;e8d;e94:e97;e99:e9f;ea1:ea3;ea5;
+         ea7;eaa:eab;ead:eb9;ebb:ebd;ec0:ec4;ec6;ec8:ecd;ed0:ed9;edc:edf;f00:f47;f49:f6c;f71:f97;f99:fbc;
+         fbe:fcc;fce:fda;1000:10c5;10c7;10cd;10d0:1248;124a:124d;1250:1256;1258;125a:125d;1260:1288;
+         128a:128d;1290:12b0;12b2:12b5;12b8:12be;12c0;12c2:12c5;12c8:12d6;12d8:1310;1312:1315;1318:135a;
+         135d:137c;1380:1399;13a0:13f4;1400:169c;16a0:16f0;1700:170c;170e:1714;1720:1736;1740:1753;1760:176c;
+         176e:1770;1772:1773;1780:17dd;17e0:17e9;17f0:17f9;1800:180e;1810:1819;1820:1877;1880:18aa;18b0:18f5;
+         1900:191c;1920:192b;1930:193b;1940;1944:196d;1970:1974;1980:19ab;19b0:19c9;19d0:19da;19de:1a1b;
+         1a1e:1a5e;1a60:1a7c;1a7f:1a89;1a90:1a99;1aa0:1aad;1b00:1b4b;1b50:1b7c;1b80:1bf3;1bfc:1c37;1c3b:1c49;
+         1c4d:1c7f;1cc0:1cc7;1cd0:1cf6;1d00:1de6;1dfc:1f15;1f18:1f1d;1f20:1f45;1f48:1f4d;1f50:1f57;1f59;
+         1f5b;1f5d;1f5f:1f7d;1f80:1fb4;1fb6:1fc4;1fc6:1fd3;1fd6:1fdb;1fdd:1fef;1ff2:1ff4;1ff6:1ffe;2000:2064;
+         2066:2071;2074:208e;2090:209c;20a0:20ba;20d0:20f0;2100:2189;2190:23f3;2400:2426;2440:244a;2460:26ff;
+         2701:2b4c;2b50:2b59;2c00:2c2e;2c30:2c5e;2c60:2cf3;2cf9:2d25;2d27;2d2d;2d30:2d67;2d6f:2d70;2d7f:2d96;
+         2da0:2da6;2da8:2dae;2db0:2db6;2db8:2dbe;2dc0:2dc6;2dc8:2dce;2dd0:2dd6;2dd8:2dde;2de0:2e3b;2e80:2e99;
+         2e9b:2ef3;2f00:2fd5;2ff0:2ffb;3000:303f;3041:3096;3099:30ff;3105:312d;3131:318e;3190:31ba;31c0:31e3;
+         31f0:321e;3220:32fe;3300:4db5;4dc0:9fcc;a000:a48c;a490:a4c6;a4d0:a62b;a640:a697;a69f:a6f7;a700:a78e;
+         a790:a793;a7a0:a7aa;a7f8:a82b;a830:a839;a840:a877;a880:a8c4;a8ce:a8d9;a8e0:a8fb;a900:a953;a95f:a97c;
+         a980:a9cd;a9cf:a9d9;a9de:a9df;aa00:aa36;aa40:aa4d;aa50:aa59;aa5c:aa7b;aa80:aac2;aadb:aaf6;ab01:ab06;
+         ab09:ab0e;ab11:ab16;ab20:ab26;ab28:ab2e;abc0:abed;abf0:abf9;ac00:d7a3;d7b0:d7c6;d7cb:d7fb;d800:fa6d;
+         fa70:fad9;fb00:fb06;fb13:fb17;fb1d:fb36;fb38:fb3c;fb3e;fb40:fb41;fb43:fb44;fb46:fbc1;fbd3:fd3f;
+         fd50:fd8f;fd92:fdc7;fdd0:fdfd;fe00:fe19;fe20:fe26;fe30:fe52;fe54:fe66;fe68:fe6b;fe70:fe74;fe76:fefc;
+         feff;ff01:ffbe;ffc2:ffc7;ffca:ffcf;ffd2:ffd7;ffda:ffdc;ffe0:ffe6;ffe8:ffee;fff9:ffff)
+    v70 (0:377;37a:37f;384:38a;38c;38e:3a1;3a3:52f;531:556;559:55f;561:587;589:58a;58d:58f;591:5c7;5d0:5ea;
+         5f0:5f4;600:61c;61e:70d;70f:74a;74d:7b1;7c0:7fa;800:82d;830:83e;840:85b;85e;8a0:8b2;8e4:983;
+         985:98c;98f:990;993:9a8;9aa:9b0;9b2;9b6:9b9;9bc:9c4;9c7:9c8;9cb:9ce;9d7;9dc:9dd;9df:9e3;9e6:9fb;
+         a01:a03;a05:a0a;a0f:a10;a13:a28;a2a:a30;a32:a33;a35:a36;a38:a39;a3c;a3e:a42;a47:a48;a4b:a4d;
+         a51;a59:a5c;a5e;a66:a75;a81:a83;a85:a8d;a8f:a91;a93:aa8;aaa:ab0;ab2:ab3;ab5:ab9;abc:ac5;ac7:ac9;
+         acb:acd;ad0;ae0:ae3;ae6:af1;b01:b03;b05:b0c;b0f:b10;b13:b28;b2a:b30;b32:b33;b35:b39;b3c:b44;
+         b47:b48;b4b:b4d;b56:b57;b5c:b5d;b5f:b63;b66:b77;b82:b83;b85:b8a;b8e:b90;b92:b95;b99:b9a;b9c;
+         b9e:b9f;ba3:ba4;ba8:baa;bae:bb9;bbe:bc2;bc6:bc8;bca:bcd;bd0;bd7;be6:bfa;c00:c03;c05:c0c;c0e:c10;
+         c12:c28;c2a:c39;c3d:c44;c46:c48;c4a:c4d;c55:c56;c58:c59;c60:c63;c66:c6f;c78:c7f;c81:c83;c85:c8c;
+         c8e:c90;c92:ca8;caa:cb3;cb5:cb9;cbc:cc4;cc6:cc8;cca:ccd;cd5:cd6;cde;ce0:ce3;ce6:cef;cf1:cf2;
+         d01:d03;d05:d0c;d0e:d10;d12:d3a;d3d:d44;d46:d48;d4a:d4e;d57;d60:d63;d66:d75;d79:d7f;d82:d83;
+         d85:d96;d9a:db1;db3:dbb;dbd;dc0:dc6;dca;dcf:dd4;dd6;dd8:ddf;de6:def;df2:df4;e01:e3a;e3f:e5b;
+         e81:e82;e84;e87:e88;e8a;e8d;e94:e97;e99:e9f;ea1:ea3;ea5;ea7;eaa:eab;ead:eb9;ebb:ebd;ec0:ec4;
+         ec6;ec8:ecd;ed0:ed9;edc:edf;f00:f47;f49:f6c;f71:f97;f99:fbc;fbe:fcc;fce:fda;1000:10c5;10c7;
+         10cd;10d0:1248;124a:124d;1250:1256;1258;125a:125d;1260:1288;128a:128d;1290:12b0;12b2:12b5;12b8:12be;
+         12c0;12c2:12c5;12c8:12d6;12d8:1310;1312:1315;1318:135a;135d:137c;1380:1399;13a0:13f4;1400:169c;
+         16a0:16f8;1700:170c;170e:1714;1720:1736;1740:1753;1760:176c;176e:1770;1772:1773;1780:17dd;17e0:17e9;
+         17f0:17f9;1800:180e;1810:1819;1820:1877;1880:18aa;18b0:18f5;1900:191e;1920:192b;1930:193b;1940;
+         1944:196d;1970:1974;1980:19ab;19b0:19c9;19d0:19da;19de:1a1b;1a1e:1a5e;1a60:1a7c;1a7f:1a89;1a90:1a99;
+         1aa0:1aad;1ab0:1abe;1b00:1b4b;1b50:1b7c;1b80:1bf3;1bfc:1c37;1c3b:1c49;1c4d:1c7f;1cc0:1cc7;1cd0:1cf6;
+         1cf8:1cf9;1d00:1df5;1dfc:1f15;1f18:1f1d;1f20:1f45;1f48:1f4d;1f50:1f57;1f59;1f5b;1f5d;1f5f:1f7d;
+         1f80:1fb4;1fb6:1fc4;1fc6:1fd3;1fd6:1fdb;1fdd:1fef;1ff2:1ff4;1ff6:1ffe;2000:2064;2066:2071;2074:208e;
+         2090:209c;20a0:20bd;20d0:20f0;2100:2189;2190:23fa;2400:2426;2440:244a;2460:2b73;2b76:2b95;2b98:2bb9;
+         2bbd:2bc8;2bca:2bd1;2c00:2c2e;2c30:2c5e;2c60:2cf3;2cf9:2d25;2d27;2d2d;2d30:2d67;2d6f:2d70;2d7f:2d96;
+         2da0:2da6;2da8:2dae;2db0:2db6;2db8:2dbe;2dc0:2dc6;2dc8:2dce;2dd0:2dd6;2dd8:2dde;2de0:2e42;2e80:2e99;
+         2e9b:2ef3;2f00:2fd5;2ff0:2ffb;3000:303f;3041:3096;3099:30ff;3105:312d;3131:318e;3190:31ba;31c0:31e3;
+         31f0:321e;3220:32fe;3300:4db5;4dc0:9fcc;a000:a48c;a490:a4c6;a4d0:a62b;a640:a69d;a69f:a6f7;a700:a78e;
+         a790:a7ad;a7b0:a7b1;a7f7:a82b;a830:a839;a840:a877;a880:a8c4;a8ce:a8d9;a8e0:a8fb;a900:a953;a95f:a97c;
+         a980:a9cd;a9cf:a9d9;a9de:a9fe;aa00:aa36;aa40:aa4d;aa50:aa59;aa5c:aac2;aadb:aaf6;ab01:ab06;ab09:ab0e;
+         ab11:ab16;ab20:ab26;ab28:ab2e;ab30:ab5f;ab64:ab65;abc0:abed;abf0:abf9;ac00:d7a3;d7b0:d7c6;d7cb:d7fb;
+         d800:fa6d;fa70:fad9;fb00:fb06;fb13:fb17;fb1d:fb36;fb38:fb3c;fb3e;fb40:fb41;fb43:fb44;fb46:fbc1;
+         fbd3:fd3f;fd50:fd8f;fd92:fdc7;fdd0:fdfd;fe00:fe19;fe20:fe2d;fe30:fe52;fe54:fe66;fe68:fe6b;fe70:fe74;
+         fe76:fefc;feff;ff01:ffbe;ffc2:ffc7;ffca:ffcf;ffd2:ffd7;ffda:ffdc;ffe0:ffe6;ffe8:ffee;fff9:ffff)
+    v80 (0:377;37a:37f;384:38a;38c;38e:3a1;3a3:52f;531:556;559:55f;561:587;589:58a;58d:58f;591:5c7;5d0:5ea;
+         5f0:5f4;600:61c;61e:70d;70f:74a;74d:7b1;7c0:7fa;800:82d;830:83e;840:85b;85e;8a0:8b4;8e3:983;
+         985:98c;98f:990;993:9a8;9aa:9b0;9b2;9b6:9b9;9bc:9c4;9c7:9c8;9cb:9ce;9d7;9dc:9dd;9df:9e3;9e6:9fb;
+         a01:a03;a05:a0a;a0f:a10;a13:a28;a2a:a30;a32:a33;a35:a36;a38:a39;a3c;a3e:a42;a47:a48;a4b:a4d;
+         a51;a59:a5c;a5e;a66:a75;a81:a83;a85:a8d;a8f:a91;a93:aa8;aaa:ab0;ab2:ab3;ab5:ab9;abc:ac5;ac7:ac9;
+         acb:acd;ad0;ae0:ae3;ae6:af1;af9;b01:b03;b05:b0c;b0f:b10;b13:b28;b2a:b30;b32:b33;b35:b39;b3c:b44;
+         b47:b48;b4b:b4d;b56:b57;b5c:b5d;b5f:b63;b66:b77;b82:b83;b85:b8a;b8e:b90;b92:b95;b99:b9a;b9c;
+         b9e:b9f;ba3:ba4;ba8:baa;bae:bb9;bbe:bc2;bc6:bc8;bca:bcd;bd0;bd7;be6:bfa;c00:c03;c05:c0c;c0e:c10;
+         c12:c28;c2a:c39;c3d:c44;c46:c48;c4a:c4d;c55:c56;c58:c5a;c60:c63;c66:c6f;c78:c7f;c81:c83;c85:c8c;
+         c8e:c90;c92:ca8;caa:cb3;cb5:cb9;cbc:cc4;cc6:cc8;cca:ccd;cd5:cd6;cde;ce0:ce3;ce6:cef;cf1:cf2;
+         d01:d03;d05:d0c;d0e:d10;d12:d3a;d3d:d44;d46:d48;d4a:d4e;d57;d5f:d63;d66:d75;d79:d7f;d82:d83;
+         d85:d96;d9a:db1;db3:dbb;dbd;dc0:dc6;dca;dcf:dd4;dd6;dd8:ddf;de6:def;df2:df4;e01:e3a;e3f:e5b;
+         e81:e82;e84;e87:e88;e8a;e8d;e94:e97;e99:e9f;ea1:ea3;ea5;ea7;eaa:eab;ead:eb9;ebb:ebd;ec0:ec4;
+         ec6;ec8:ecd;ed0:ed9;edc:edf;f00:f47;f49:f6c;f71:f97;f99:fbc;fbe:fcc;fce:fda;1000:10c5;10c7;
+         10cd;10d0:1248;124a:124d;1250:1256;1258;125a:125d;1260:1288;128a:128d;1290:12b0;12b2:12b5;12b8:12be;
+         12c0;12c2:12c5;12c8:12d6;12d8:1310;1312:1315;1318:135a;135d:137c;1380:1399;13a0:13f5;13f8:13fd;
+         1400:169c;16a0:16f8;1700:170c;170e:1714;1720:1736;1740:1753;1760:176c;176e:1770;1772:1773;1780:17dd;
+         17e0:17e9;17f0:17f9;1800:180e;1810:1819;1820:1877;1880:18aa;18b0:18f5;1900:191e;1920:192b;1930:193b;
+         1940;1944:196d;1970:1974;1980:19ab;19b0:19c9;19d0:19da;19de:1a1b;1a1e:1a5e;1a60:1a7c;1a7f:1a89;
+         1a90:1a99;1aa0:1aad;1ab0:1abe;1b00:1b4b;1b50:1b7c;1b80:1bf3;1bfc:1c37;1c3b:1c49;1c4d:1c7f;1cc0:1cc7;
+         1cd0:1cf6;1cf8:1cf9;1d00:1df5;1dfc:1f15;1f18:1f1d;1f20:1f45;1f48:1f4d;1f50:1f57;1f59;1f5b;1f5d;
+         1f5f:1f7d;1f80:1fb4;1fb6:1fc4;1fc6:1fd3;1fd6:1fdb;1fdd:1fef;1ff2:1ff4;1ff6:1ffe;2000:2064;2066:2071;
+         2074:208e;2090:209c;20a0:20be;20d0:20f0;2100:218b;2190:23fa;2400:2426;2440:244a;2460:2b73;2b76:2b95;
+         2b98:2bb9;2bbd:2bc8;2bca:2bd1;2bec:2bef;2c00:2c2e;2c30:2c5e;2c60:2cf3;2cf9:2d25;2d27;2d2d;2d30:2d67;
+         2d6f:2d70;2d7f:2d96;2da0:2da6;2da8:2dae;2db0:2db6;2db8:2dbe;2dc0:2dc6;2dc8:2dce;2dd0:2dd6;2dd8:2dde;
+         2de0:2e42;2e80:2e99;2e9b:2ef3;2f00:2fd5;2ff0:2ffb;3000:303f;3041:3096;3099:30ff;3105:312d;3131:318e;
+         3190:31ba;31c0:31e3;31f0:321e;3220:32fe;3300:4db5;4dc0:9fd5;a000:a48c;a490:a4c6;a4d0:a62b;a640:a6f7;
+         a700:a7ad;a7b0:a7b7;a7f7:a82b;a830:a839;a840:a877;a880:a8c4;a8ce:a8d9;a8e0:a8fd;a900:a953;a95f:a97c;
+         a980:a9cd;a9cf:a9d9;a9de:a9fe;aa00:aa36;aa40:aa4d;aa50:aa59;aa5c:aac2;aadb:aaf6;ab01:ab06;ab09:ab0e;
+         ab11:ab16;ab20:ab26;ab28:ab2e;ab30:ab65;ab70:abed;abf0:abf9;ac00:d7a3;d7b0:d7c6;d7cb:d7fb;d800:fa6d;
+         fa70:fad9;fb00:fb06;fb13:fb17;fb1d:fb36;fb38:fb3c;fb3e;fb40:fb41;fb43:fb44;fb46:fbc1;fbd3:fd3f;
+         fd50:fd8f;fd92:fdc7;fdd0:fdfd;fe00:fe19;fe20:fe52;fe54:fe66;fe68:fe6b;fe70:fe74;fe76:fefc;feff;
+         ff01:ffbe;ffc2:ffc7;ffca:ffcf;ffd2:ffd7;ffda:ffdc;ffe0:ffe6;ffe8:ffee;fff9:ffff)
+    v90 (0:377;37a:37f;384:38a;38c;38e:3a1;3a3:52f;531:556;559:55f;561:587;589:58a;58d:58f;591:5c7;5d0:5ea;
+         5f0:5f4;600:61c;61e:70d;70f:74a;74d:7b1;7c0:7fa;800:82d;830:83e;840:85b;85e;8a0:8b4;8b6:8bd;
+         8d4:983;985:98c;98f:990;993:9a8;9aa:9b0;9b2;9b6:9b9;9bc:9c4;9c7:9c8;9cb:9ce;9d7;9dc:9dd;9df:9e3;
+         9e6:9fb;a01:a03;a05:a0a;a0f:a10;a13:a28;a2a:a30;a32:a33;a35:a36;a38:a39;a3c;a3e:a42;a47:a48;
+         a4b:a4d;a51;a59:a5c;a5e;a66:a75;a81:a83;a85:a8d;a8f:a91;a93:aa8;aaa:ab0;ab2:ab3;ab5:ab9;abc:ac5;
+         ac7:ac9;acb:acd;ad0;ae0:ae3;ae6:af1;af9;b01:b03;b05:b0c;b0f:b10;b13:b28;b2a:b30;b32:b33;b35:b39;
+         b3c:b44;b47:b48;b4b:b4d;b56:b57;b5c:b5d;b5f:b63;b66:b77;b82:b83;b85:b8a;b8e:b90;b92:b95;b99:b9a;
+         b9c;b9e:b9f;ba3:ba4;ba8:baa;bae:bb9;bbe:bc2;bc6:bc8;bca:bcd;bd0;bd7;be6:bfa;c00:c03;c05:c0c;
+         c0e:c10;c12:c28;c2a:c39;c3d:c44;c46:c48;c4a:c4d;c55:c56;c58:c5a;c60:c63;c66:c6f;c78:c83;c85:c8c;
+         c8e:c90;c92:ca8;caa:cb3;cb5:cb9;cbc:cc4;cc6:cc8;cca:ccd;cd5:cd6;cde;ce0:ce3;ce6:cef;cf1:cf2;
+         d01:d03;d05:d0c;d0e:d10;d12:d3a;d3d:d44;d46:d48;d4a:d4f;d54:d63;d66:d7f;d82:d83;d85:d96;d9a:db1;
+         db3:dbb;dbd;dc0:dc6;dca;dcf:dd4;dd6;dd8:ddf;de6:def;df2:df4;e01:e3a;e3f:e5b;e81:e82;e84;e87:e88;
+         e8a;e8d;e94:e97;e99:e9f;ea1:ea3;ea5;ea7;eaa:eab;ead:eb9;ebb:ebd;ec0:ec4;ec6;ec8:ecd;ed0:ed9;
+         edc:edf;f00:f47;f49:f6c;f71:f97;f99:fbc;fbe:fcc;fce:fda;1000:10c5;10c7;10cd;10d0:1248;124a:124d;
+         1250:1256;1258;125a:125d;1260:1288;128a:128d;1290:12b0;12b2:12b5;12b8:12be;12c0;12c2:12c5;12c8:12d6;
+         12d8:1310;1312:1315;1318:135a;135d:137c;1380:1399;13a0:13f5;13f8:13fd;1400:169c;16a0:16f8;1700:170c;
+         170e:1714;1720:1736;1740:1753;1760:176c;176e:1770;1772:1773;1780:17dd;17e0:17e9;17f0:17f9;1800:180e;
+         1810:1819;1820:1877;1880:18aa;18b0:18f5;1900:191e;1920:192b;1930:193b;1940;1944:196d;1970:1974;
+         1980:19ab;19b0:19c9;19d0:19da;19de:1a1b;1a1e:1a5e;1a60:1a7c;1a7f:1a89;1a90:1a99;1aa0:1aad;1ab0:1abe;
+         1b00:1b4b;1b50:1b7c;1b80:1bf3;1bfc:1c37;1c3b:1c49;1c4d:1c88;1cc0:1cc7;1cd0:1cf6;1cf8:1cf9;1d00:1df5;
+         1dfb:1f15;1f18:1f1d;1f20:1f45;1f48:1f4d;1f50:1f57;1f59;1f5b;1f5d;1f5f:1f7d;1f80:1fb4;1fb6:1fc4;
+         1fc6:1fd3;1fd6:1fdb;1fdd:1fef;1ff2:1ff4;1ff6:1ffe;2000:2064;2066:2071;2074:208e;2090:209c;20a0:20be;
+         20d0:20f0;2100:218b;2190:23fe;2400:2426;2440:244a;2460:2b73;2b76:2b95;2b98:2bb9;2bbd:2bc8;2bca:2bd1;
+         2bec:2bef;2c00:2c2e;2c30:2c5e;2c60:2cf3;2cf9:2d25;2d27;2d2d;2d30:2d67;2d6f:2d70;2d7f:2d96;2da0:2da6;
+         2da8:2dae;2db0:2db6;2db8:2dbe;2dc0:2dc6;2dc8:2dce;2dd0:2dd6;2dd8:2dde;2de0:2e44;2e80:2e99;2e9b:2ef3;
+         2f00:2fd5;2ff0:2ffb;3000:303f;3041:3096;3099:30ff;3105:312d;3131:318e;3190:31ba;31c0:31e3;31f0:321e;
+         3220:32fe;3300:4db5;4dc0:9fd5;a000:a48c;a490:a4c6;a4d0:a62b;a640:a6f7;a700:a7ae;a7b0:a7b7;a7f7:a82b;
+         a830:a839;a840:a877;a880:a8c5;a8ce:a8d9;a8e0:a8fd;a900:a953;a95f:a97c;a980:a9cd;a9cf:a9d9;a9de:a9fe;
+         aa00:aa36;aa40:aa4d;aa50:aa59;aa5c:aac2;aadb:aaf6;ab01:ab06;ab09:ab0e;ab11:ab16;ab20:ab26;ab28:ab2e;
+         ab30:ab65;ab70:abed;abf0:abf9;ac00:d7a3;d7b0:d7c6;d7cb:d7fb;d800:fa6d;fa70:fad9;fb00:fb06;fb13:fb17;
+         fb1d:fb36;fb38:fb3c;fb3e;fb40:fb41;fb43:fb44;fb46:fbc1;fbd3:fd3f;fd50:fd8f;fd92:fdc7;fdd0:fdfd;
+         fe00:fe19;fe20:fe52;fe54:fe66;fe68:fe6b;fe70:fe74;fe76:fefc;feff;ff01:ffbe;ffc2:ffc7;ffca:ffcf;
+         ffd2:ffd7;ffda:ffdc;ffe0:ffe6;ffe8:ffee;fff9:ffff)
+}
+block {
+    alphabeticpresentationforms (fb00:fb4f)
+    arabic (600:6ff)
+    arabicextendeda (8a0:8ff)
+    arabicpresentationformsa (fb50:fdff)
+    arabicpresentationformsb (fe70:feff)
+    arabicsupplement (750:77f)
+    armenian (530:58f)
+    arrows (2190:21ff)
+    balinese (1b00:1b7f)
+    bamum (a6a0:a6ff)
+    basiclatin (0:7f)
+    batak (1bc0:1bff)
+    bengali (980:9ff)
+    blockelements (2580:259f)
+    bopomofo (3100:312f)
+    bopomofoextended (31a0:31bf)
+    boxdrawing (2500:257f)
+    braillepatterns (2800:28ff)
+    buginese (1a00:1a1f)
+    buhid (1740:175f)
+    cham (aa00:aa5f)
+    cherokee (13a0:13ff)
+    cherokeesupplement (ab70:abbf)
+    cjkcompatibility (3300:33ff)
+    cjkcompatibilityforms (fe30:fe4f)
+    cjkcompatibilityideographs (f900:faff)
+    cjkradicalssupplement (2e80:2eff)
+    cjkstrokes (31c0:31ef)
+    cjksymbolsandpunctuation (3000:303f)
+    cjkunifiedideographs (4e00:9fff)
+    cjkunifiedideographsextensiona (3400:4dbf)
+    combiningdiacriticalmarks (300:36f)
+    combiningdiacriticalmarksextended (1ab0:1aff)
+    combiningdiacriticalmarksforsymbols (20d0:20ff)
+    combiningdiacriticalmarkssupplement (1dc0:1dff)
+    combininghalfmarks (fe20:fe2f)
+    commonindicnumberforms (a830:a83f)
+    controlpictures (2400:243f)
+    coptic (2c80:2cff)
+    currencysymbols (20a0:20cf)
+    cyrillic (400:4ff)
+    cyrillicextendeda (2de0:2dff)
+    cyrillicextendedb (a640:a69f)
+    cyrillicextendedc (1c80:1c8f)
+    cyrillicsupplement (500:52f)
+    devanagari (900:97f)
+    devanagariextended (a8e0:a8ff)
+    dingbats (2700:27bf)
+    enclosedalphanumerics (2460:24ff)
+    enclosedcjklettersandmonths (3200:32ff)
+    ethiopic (1200:137f)
+    ethiopicextended (2d80:2ddf)
+    ethiopicextendeda (ab00:ab2f)
+    ethiopicsupplement (1380:139f)
+    generalpunctuation (2000:206f)
+    geometricshapes (25a0:25ff)
+    georgian (10a0:10ff)
+    georgiansupplement (2d00:2d2f)
+    glagolitic (2c00:2c5f)
+    greekandcoptic (370:3ff)
+    greekextended (1f00:1fff)
+    gujarati (a80:aff)
+    gurmukhi (a00:a7f)
+    halfwidthandfullwidthforms (ff00:ffef)
+    hangulcompatibilityjamo (3130:318f)
+    hanguljamo (1100:11ff)
+    hanguljamoextendeda (a960:a97f)
+    hanguljamoextendedb (d7b0:d7ff)
+    hangulsyllables (ac00:d7af)
+    hanunoo (1720:173f)
+    hebrew (590:5ff)
+    highprivateusesurrogates (db80:dbff)
+    highsurrogates (d800:db7f)
+    hiragana (3040:309f)
+    ideographicdescriptioncharacters (2ff0:2fff)
+    ipaextensions (250:2af)
+    javanese (a980:a9df)
+    kanbun (3190:319f)
+    kangxiradicals (2f00:2fdf)
+    kannada (c80:cff)
+    katakana (30a0:30ff)
+    katakanaphoneticextensions (31f0:31ff)
+    kayahli (a900:a92f)
+    khmer (1780:17ff)
+    khmersymbols (19e0:19ff)
+    lao (e80:eff)
+    latin1supplement (80:ff)
+    latinextendeda (100:17f)
+    latinextendedadditional (1e00:1eff)
+    latinextendedb (180:24f)
+    latinextendedc (2c60:2c7f)
+    latinextendedd (a720:a7ff)
+    latinextendede (ab30:ab6f)
+    lepcha (1c00:1c4f)
+    letterlikesymbols (2100:214f)
+    limbu (1900:194f)
+    lisu (a4d0:a4ff)
+    lowsurrogates (dc00:dfff)
+    malayalam (d00:d7f)
+    mandaic (840:85f)
+    mathematicaloperators (2200:22ff)
+    meeteimayek (abc0:abff)
+    meeteimayekextensions (aae0:aaff)
+    miscellaneousmathematicalsymbolsa (27c0:27ef)
+    miscellaneousmathematicalsymbolsb (2980:29ff)
+    miscellaneoussymbols (2600:26ff)
+    miscellaneoussymbolsandarrows (2b00:2bff)
+    miscellaneoustechnical (2300:23ff)
+    modifiertoneletters (a700:a71f)
+    mongolian (1800:18af)
+    myanmar (1000:109f)
+    myanmarextendeda (aa60:aa7f)
+    myanmarextendedb (a9e0:a9ff)
+    newtailue (1980:19df)
+    nko (7c0:7ff)
+    noblock (860:89f;1c90:1cbf;2fe0:2fef)
+    numberforms (2150:218f)
+    ogham (1680:169f)
+    olchiki (1c50:1c7f)
+    opticalcharacterrecognition (2440:245f)
+    oriya (b00:b7f)
+    phagspa (a840:a87f)
+    phoneticextensions (1d00:1d7f)
+    phoneticextensionssupplement (1d80:1dbf)
+    privateusearea (e000:f8ff)
+    rejang (a930:a95f)
+    runic (16a0:16ff)
+    samaritan (800:83f)
+    saurashtra (a880:a8df)
+    sinhala (d80:dff)
+    smallformvariants (fe50:fe6f)
+    spacingmodifierletters (2b0:2ff)
+    specials (fff0:ffff)
+    sundanese (1b80:1bbf)
+    sundanesesupplement (1cc0:1ccf)
+    superscriptsandsubscripts (2070:209f)
+    supplementalarrowsa (27f0:27ff)
+    supplementalarrowsb (2900:297f)
+    supplementalmathematicaloperators (2a00:2aff)
+    supplementalpunctuation (2e00:2e7f)
+    sylotinagri (a800:a82f)
+    syriac (700:74f)
+    tagalog (1700:171f)
+    tagbanwa (1760:177f)
+    taile (1950:197f)
+    taitham (1a20:1aaf)
+    taiviet (aa80:aadf)
+    tamil (b80:bff)
+    telugu (c00:c7f)
+    thaana (780:7bf)
+    thai (e00:e7f)
+    tibetan (f00:fff)
+    tifinagh (2d30:2d7f)
+    unifiedcanadianaboriginalsyllabics (1400:167f)
+    unifiedcanadianaboriginalsyllabicsextended (18b0:18ff)
+    vai (a500:a63f)
+    variationselectors (fe00:fe0f)
+    vedicextensions (1cd0:1cff)
+    verticalforms (fe10:fe1f)
+    yijinghexagramsymbols (4dc0:4dff)
+    yiradicals (a490:a4cf)
+    yisyllables (a000:a48f)
+}
+generalcategory {
+    casedletter (41:5a;61:7a;b5;c0:d6;d8:f6;f8:1ba;1bc:1bf;1c4:293;295:2af;370:373;376:377;37b:37d;37f;
+         386;388:38a;38c;38e:3a1;3a3:3f5;3f7:481;48a:52f;531:556;561:587;10a0:10c5;10c7;10cd;13a0:13f5;
+         13f8:13fd;1c80:1c88;1d00:1d2b;1d6b:1d77;1d79:1d9a;1e00:1f15;1f18:1f1d;1f20:1f45;1f48:1f4d;1f50:1f57;
+         1f59;1f5b;1f5d;1f5f:1f7d;1f80:1fb4;1fb6:1fbc;1fbe;1fc2:1fc4;1fc6:1fcc;1fd0:1fd3;1fd6:1fdb;1fe0:1fec;
+         1ff2:1ff4;1ff6:1ffc;2102;2107;210a:2113;2115;2119:211d;2124;2126;2128;212a:212d;212f:2134;2139;
+         213c:213f;2145:2149;214e;2183:2184;2c00:2c2e;2c30:2c5e;2c60:2c7b;2c7e:2ce4;2ceb:2cee;2cf2:2cf3;
+         2d00:2d25;2d27;2d2d;a640:a66d;a680:a69b;a722:a76f;a771:a787;a78b:a78e;a790:a7ae;a7b0:a7b7;a7fa;
+         ab30:ab5a;ab60:ab65;ab70:abbf;fb00:fb06;fb13:fb17;ff21:ff3a;ff41:ff5a)
+    closepunctuation (29;5d;7d;f3b;f3d;169c;2046;207e;208e;2309;230b;232a;2769;276b;276d;276f;2771;2773;
+         2775;27c6;27e7;27e9;27eb;27ed;27ef;2984;2986;2988;298a;298c;298e;2990;2992;2994;2996;2998;29d9;
+         29db;29fd;2e23;2e25;2e27;2e29;3009;300b;300d;300f;3011;3015;3017;3019;301b;301e:301f;fd3e;fe18;
+         fe36;fe38;fe3a;fe3c;fe3e;fe40;fe42;fe44;fe48;fe5a;fe5c;fe5e;ff09;ff3d;ff5d;ff60;ff63)
+    connectorpunctuation (5f;203f:2040;2054;fe33:fe34;fe4d:fe4f;ff3f)
+    control (0:1f;7f:9f)
+    currencysymbol (24;a2:a5;58f;60b;9f2:9f3;9fb;af1;bf9;e3f;17db;20a0:20be;a838;fdfc;fe69;ff04;ffe0:ffe1;
+         ffe5:ffe6)
+    dashpunctuation (2d;58a;5be;1400;1806;2010:2015;2e17;2e1a;2e3a:2e3b;2e40;301c;3030;30a0;fe31:fe32;
+         fe58;fe63;ff0d)
+    decimalnumber (30:39;660:669;6f0:6f9;7c0:7c9;966:96f;9e6:9ef;a66:a6f;ae6:aef;b66:b6f;be6:bef;c66:c6f;
+         ce6:cef;d66:d6f;de6:def;e50:e59;ed0:ed9;f20:f29;1040:1049;1090:1099;17e0:17e9;1810:1819;1946:194f;
+         19d0:19d9;1a80:1a89;1a90:1a99;1b50:1b59;1bb0:1bb9;1c40:1c49;1c50:1c59;a620:a629;a8d0:a8d9;a900:a909;
+         a9d0:a9d9;a9f0:a9f9;aa50:aa59;abf0:abf9;ff10:ff19)
+    enclosingmark (488:489;1abe;20dd:20e0;20e2:20e4;a670:a672)
+    finalpunctuation (bb;2019;201d;203a;2e03;2e05;2e0a;2e0d;2e1d;2e21)
+    format (ad;600:605;61c;6dd;70f;8e2;180e;200b:200f;202a:202e;2060:2064;2066:206f;feff;fff9:fffb)
+    initialpunctuation (ab;2018;201b:201c;201f;2039;2e02;2e04;2e09;2e0c;2e1c;2e20)
+    letter (41:5a;61:7a;aa;b5;ba;c0:d6;d8:f6;f8:2c1;2c6:2d1;2e0:2e4;2ec;2ee;370:374;376:377;37a:37d;
+         37f;386;388:38a;38c;38e:3a1;3a3:3f5;3f7:481;48a:52f;531:556;559;561:587;5d0:5ea;5f0:5f2;620:64a;
+         66e:66f;671:6d3;6d5;6e5:6e6;6ee:6ef;6fa:6fc;6ff;710;712:72f;74d:7a5;7b1;7ca:7ea;7f4:7f5;7fa;
+         800:815;81a;824;828;840:858;8a0:8b4;8b6:8bd;904:939;93d;950;958:961;971:980;985:98c;98f:990;
+         993:9a8;9aa:9b0;9b2;9b6:9b9;9bd;9ce;9dc:9dd;9df:9e1;9f0:9f1;a05:a0a;a0f:a10;a13:a28;a2a:a30;
+         a32:a33;a35:a36;a38:a39;a59:a5c;a5e;a72:a74;a85:a8d;a8f:a91;a93:aa8;aaa:ab0;ab2:ab3;ab5:ab9;
+         abd;ad0;ae0:ae1;af9;b05:b0c;b0f:b10;b13:b28;b2a:b30;b32:b33;b35:b39;b3d;b5c:b5d;b5f:b61;b71;
+         b83;b85:b8a;b8e:b90;b92:b95;b99:b9a;b9c;b9e:b9f;ba3:ba4;ba8:baa;bae:bb9;bd0;c05:c0c;c0e:c10;
+         c12:c28;c2a:c39;c3d;c58:c5a;c60:c61;c80;c85:c8c;c8e:c90;c92:ca8;caa:cb3;cb5:cb9;cbd;cde;ce0:ce1;
+         cf1:cf2;d05:d0c;d0e:d10;d12:d3a;d3d;d4e;d54:d56;d5f:d61;d7a:d7f;d85:d96;d9a:db1;db3:dbb;dbd;
+         dc0:dc6;e01:e30;e32:e33;e40:e46;e81:e82;e84;e87:e88;e8a;e8d;e94:e97;e99:e9f;ea1:ea3;ea5;ea7;
+         eaa:eab;ead:eb0;eb2:eb3;ebd;ec0:ec4;ec6;edc:edf;f00;f40:f47;f49:f6c;f88:f8c;1000:102a;103f;
+         1050:1055;105a:105d;1061;1065:1066;106e:1070;1075:1081;108e;10a0:10c5;10c7;10cd;10d0:10fa;10fc:1248;
+         124a:124d;1250:1256;1258;125a:125d;1260:1288;128a:128d;1290:12b0;12b2:12b5;12b8:12be;12c0;12c2:12c5;
+         12c8:12d6;12d8:1310;1312:1315;1318:135a;1380:138f;13a0:13f5;13f8:13fd;1401:166c;166f:167f;1681:169a;
+         16a0:16ea;16f1:16f8;1700:170c;170e:1711;1720:1731;1740:1751;1760:176c;176e:1770;1780:17b3;17d7;
+         17dc;1820:1877;1880:1884;1887:18a8;18aa;18b0:18f5;1900:191e;1950:196d;1970:1974;1980:19ab;19b0:19c9;
+         1a00:1a16;1a20:1a54;1aa7;1b05:1b33;1b45:1b4b;1b83:1ba0;1bae:1baf;1bba:1be5;1c00:1c23;1c4d:1c4f;
+         1c5a:1c7d;1c80:1c88;1ce9:1cec;1cee:1cf1;1cf5:1cf6;1d00:1dbf;1e00:1f15;1f18:1f1d;1f20:1f45;1f48:1f4d;
+         1f50:1f57;1f59;1f5b;1f5d;1f5f:1f7d;1f80:1fb4;1fb6:1fbc;1fbe;1fc2:1fc4;1fc6:1fcc;1fd0:1fd3;1fd6:1fdb;
+         1fe0:1fec;1ff2:1ff4;1ff6:1ffc;2071;207f;2090:209c;2102;2107;210a:2113;2115;2119:211d;2124;2126;
+         2128;212a:212d;212f:2139;213c:213f;2145:2149;214e;2183:2184;2c00:2c2e;2c30:2c5e;2c60:2ce4;2ceb:2cee;
+         2cf2:2cf3;2d00:2d25;2d27;2d2d;2d30:2d67;2d6f;2d80:2d96;2da0:2da6;2da8:2dae;2db0:2db6;2db8:2dbe;
+         2dc0:2dc6;2dc8:2dce;2dd0:2dd6;2dd8:2dde;2e2f;3005:3006;3031:3035;303b:303c;3041:3096;309d:309f;
+         30a1:30fa;30fc:30ff;3105:312d;3131:318e;31a0:31ba;31f0:31ff;3400:4db5;4e00:9fd5;a000:a48c;a4d0:a4fd;
+         a500:a60c;a610:a61f;a62a:a62b;a640:a66e;a67f:a69d;a6a0:a6e5;a717:a71f;a722:a788;a78b:a7ae;a7b0:a7b7;
+         a7f7:a801;a803:a805;a807:a80a;a80c:a822;a840:a873;a882:a8b3;a8f2:a8f7;a8fb;a8fd;a90a:a925;a930:a946;
+         a960:a97c;a984:a9b2;a9cf;a9e0:a9e4;a9e6:a9ef;a9fa:a9fe;aa00:aa28;aa40:aa42;aa44:aa4b;aa60:aa76;
+         aa7a;aa7e:aaaf;aab1;aab5:aab6;aab9:aabd;aac0;aac2;aadb:aadd;aae0:aaea;aaf2:aaf4;ab01:ab06;ab09:ab0e;
+         ab11:ab16;ab20:ab26;ab28:ab2e;ab30:ab5a;ab5c:ab65;ab70:abe2;ac00:d7a3;d7b0:d7c6;d7cb:d7fb;f900:fa6d;
+         fa70:fad9;fb00:fb06;fb13:fb17;fb1d;fb1f:fb28;fb2a:fb36;fb38:fb3c;fb3e;fb40:fb41;fb43:fb44;fb46:fbb1;
+         fbd3:fd3d;fd50:fd8f;fd92:fdc7;fdf0:fdfb;fe70:fe74;fe76:fefc;ff21:ff3a;ff41:ff5a;ff66:ffbe;ffc2:ffc7;
+         ffca:ffcf;ffd2:ffd7;ffda:ffdc)
+    letternumber (16ee:16f0;2160:2182;2185:2188;3007;3021:3029;3038:303a;a6e6:a6ef)
+    lineseparator (2028)
+    lowercaseletter (61:7a;b5;df:f6;f8:ff;101;103;105;107;109;10b;10d;10f;111;113;115;117;119;11b;11d;
+         11f;121;123;125;127;129;12b;12d;12f;131;133;135;137:138;13a;13c;13e;140;142;144;146;148:149;
+         14b;14d;14f;151;153;155;157;159;15b;15d;15f;161;163;165;167;169;16b;16d;16f;171;173;175;177;
+         17a;17c;17e:180;183;185;188;18c:18d;192;195;199:19b;19e;1a1;1a3;1a5;1a8;1aa:1ab;1ad;1b0;1b4;
+         1b6;1b9:1ba;1bd:1bf;1c6;1c9;1cc;1ce;1d0;1d2;1d4;1d6;1d8;1da;1dc:1dd;1df;1e1;1e3;1e5;1e7;1e9;
+         1eb;1ed;1ef:1f0;1f3;1f5;1f9;1fb;1fd;1ff;201;203;205;207;209;20b;20d;20f;211;213;215;217;219;
+         21b;21d;21f;221;223;225;227;229;22b;22d;22f;231;233:239;23c;23f:240;242;247;249;24b;24d;24f:293;
+         295:2af;371;373;377;37b:37d;390;3ac:3ce;3d0:3d1;3d5:3d7;3d9;3db;3dd;3df;3e1;3e3;3e5;3e7;3e9;
+         3eb;3ed;3ef:3f3;3f5;3f8;3fb:3fc;430:45f;461;463;465;467;469;46b;46d;46f;471;473;475;477;479;
+         47b;47d;47f;481;48b;48d;48f;491;493;495;497;499;49b;49d;49f;4a1;4a3;4a5;4a7;4a9;4ab;4ad;4af;
+         4b1;4b3;4b5;4b7;4b9;4bb;4bd;4bf;4c2;4c4;4c6;4c8;4ca;4cc;4ce:4cf;4d1;4d3;4d5;4d7;4d9;4db;4dd;
+         4df;4e1;4e3;4e5;4e7;4e9;4eb;4ed;4ef;4f1;4f3;4f5;4f7;4f9;4fb;4fd;4ff;501;503;505;507;509;50b;
+         50d;50f;511;513;515;517;519;51b;51d;51f;521;523;525;527;529;52b;52d;52f;561:587;13f8:13fd;1c80:1c88;
+         1d00:1d2b;1d6b:1d77;1d79:1d9a;1e01;1e03;1e05;1e07;1e09;1e0b;1e0d;1e0f;1e11;1e13;1e15;1e17;1e19;
+         1e1b;1e1d;1e1f;1e21;1e23;1e25;1e27;1e29;1e2b;1e2d;1e2f;1e31;1e33;1e35;1e37;1e39;1e3b;1e3d;1e3f;
+         1e41;1e43;1e45;1e47;1e49;1e4b;1e4d;1e4f;1e51;1e53;1e55;1e57;1e59;1e5b;1e5d;1e5f;1e61;1e63;1e65;
+         1e67;1e69;1e6b;1e6d;1e6f;1e71;1e73;1e75;1e77;1e79;1e7b;1e7d;1e7f;1e81;1e83;1e85;1e87;1e89;1e8b;
+         1e8d;1e8f;1e91;1e93;1e95:1e9d;1e9f;1ea1;1ea3;1ea5;1ea7;1ea9;1eab;1ead;1eaf;1eb1;1eb3;1eb5;1eb7;
+         1eb9;1ebb;1ebd;1ebf;1ec1;1ec3;1ec5;1ec7;1ec9;1ecb;1ecd;1ecf;1ed1;1ed3;1ed5;1ed7;1ed9;1edb;1edd;
+         1edf;1ee1;1ee3;1ee5;1ee7;1ee9;1eeb;1eed;1eef;1ef1;1ef3;1ef5;1ef7;1ef9;1efb;1efd;1eff:1f07;1f10:1f15;
+         1f20:1f27;1f30:1f37;1f40:1f45;1f50:1f57;1f60:1f67;1f70:1f7d;1f80:1f87;1f90:1f97;1fa0:1fa7;1fb0:1fb4;
+         1fb6:1fb7;1fbe;1fc2:1fc4;1fc6:1fc7;1fd0:1fd3;1fd6:1fd7;1fe0:1fe7;1ff2:1ff4;1ff6:1ff7;210a;210e:210f;
+         2113;212f;2134;2139;213c:213d;2146:2149;214e;2184;2c30:2c5e;2c61;2c65:2c66;2c68;2c6a;2c6c;2c71;
+         2c73:2c74;2c76:2c7b;2c81;2c83;2c85;2c87;2c89;2c8b;2c8d;2c8f;2c91;2c93;2c95;2c97;2c99;2c9b;2c9d;
+         2c9f;2ca1;2ca3;2ca5;2ca7;2ca9;2cab;2cad;2caf;2cb1;2cb3;2cb5;2cb7;2cb9;2cbb;2cbd;2cbf;2cc1;2cc3;
+         2cc5;2cc7;2cc9;2ccb;2ccd;2ccf;2cd1;2cd3;2cd5;2cd7;2cd9;2cdb;2cdd;2cdf;2ce1;2ce3:2ce4;2cec;2cee;
+         2cf3;2d00:2d25;2d27;2d2d;a641;a643;a645;a647;a649;a64b;a64d;a64f;a651;a653;a655;a657;a659;a65b;
+         a65d;a65f;a661;a663;a665;a667;a669;a66b;a66d;a681;a683;a685;a687;a689;a68b;a68d;a68f;a691;a693;
+         a695;a697;a699;a69b;a723;a725;a727;a729;a72b;a72d;a72f:a731;a733;a735;a737;a739;a73b;a73d;a73f;
+         a741;a743;a745;a747;a749;a74b;a74d;a74f;a751;a753;a755;a757;a759;a75b;a75d;a75f;a761;a763;a765;
+         a767;a769;a76b;a76d;a76f;a771:a778;a77a;a77c;a77f;a781;a783;a785;a787;a78c;a78e;a791;a793:a795;
+         a797;a799;a79b;a79d;a79f;a7a1;a7a3;a7a5;a7a7;a7a9;a7b5;a7b7;a7fa;ab30:ab5a;ab60:ab65;ab70:abbf;
+         fb00:fb06;fb13:fb17;ff41:ff5a)
+    mark (300:36f;483:489;591:5bd;5bf;5c1:5c2;5c4:5c5;5c7;610:61a;64b:65f;670;6d6:6dc;6df:6e4;6e7:6e8;
+         6ea:6ed;711;730:74a;7a6:7b0;7eb:7f3;816:819;81b:823;825:827;829:82d;859:85b;8d4:8e1;8e3:903;
+         93a:93c;93e:94f;951:957;962:963;981:983;9bc;9be:9c4;9c7:9c8;9cb:9cd;9d7;9e2:9e3;a01:a03;a3c;
+         a3e:a42;a47:a48;a4b:a4d;a51;a70:a71;a75;a81:a83;abc;abe:ac5;ac7:ac9;acb:acd;ae2:ae3;b01:b03;
+         b3c;b3e:b44;b47:b48;b4b:b4d;b56:b57;b62:b63;b82;bbe:bc2;bc6:bc8;bca:bcd;bd7;c00:c03;c3e:c44;
+         c46:c48;c4a:c4d;c55:c56;c62:c63;c81:c83;cbc;cbe:cc4;cc6:cc8;cca:ccd;cd5:cd6;ce2:ce3;d01:d03;
+         d3e:d44;d46:d48;d4a:d4d;d57;d62:d63;d82:d83;dca;dcf:dd4;dd6;dd8:ddf;df2:df3;e31;e34:e3a;e47:e4e;
+         eb1;eb4:eb9;ebb:ebc;ec8:ecd;f18:f19;f35;f37;f39;f3e:f3f;f71:f84;f86:f87;f8d:f97;f99:fbc;fc6;
+         102b:103e;1056:1059;105e:1060;1062:1064;1067:106d;1071:1074;1082:108d;108f;109a:109d;135d:135f;
+         1712:1714;1732:1734;1752:1753;1772:1773;17b4:17d3;17dd;180b:180d;1885:1886;18a9;1920:192b;1930:193b;
+         1a17:1a1b;1a55:1a5e;1a60:1a7c;1a7f;1ab0:1abe;1b00:1b04;1b34:1b44;1b6b:1b73;1b80:1b82;1ba1:1bad;
+         1be6:1bf3;1c24:1c37;1cd0:1cd2;1cd4:1ce8;1ced;1cf2:1cf4;1cf8:1cf9;1dc0:1df5;1dfb:1dff;20d0:20f0;
+         2cef:2cf1;2d7f;2de0:2dff;302a:302f;3099:309a;a66f:a672;a674:a67d;a69e:a69f;a6f0:a6f1;a802;a806;
+         a80b;a823:a827;a880:a881;a8b4:a8c5;a8e0:a8f1;a926:a92d;a947:a953;a980:a983;a9b3:a9c0;a9e5;aa29:aa36;
+         aa43;aa4c:aa4d;aa7b:aa7d;aab0;aab2:aab4;aab7:aab8;aabe:aabf;aac1;aaeb:aaef;aaf5:aaf6;abe3:abea;
+         abec:abed;fb1e;fe00:fe0f;fe20:fe2f)
+    mathsymbol (2b;3c:3e;7c;7e;ac;b1;d7;f7;3f6;606:608;2044;2052;207a:207c;208a:208c;2118;2140:2144;
+         214b;2190:2194;219a:219b;21a0;21a3;21a6;21ae;21ce:21cf;21d2;21d4;21f4:22ff;2320:2321;237c;239b:23b3;
+         23dc:23e1;25b7;25c1;25f8:25ff;266f;27c0:27c4;27c7:27e5;27f0:27ff;2900:2982;2999:29d7;29dc:29fb;
+         29fe:2aff;2b30:2b44;2b47:2b4c;fb29;fe62;fe64:fe66;ff0b;ff1c:ff1e;ff5c;ff5e;ffe2;ffe9:ffec)
+    modifierletter (2b0:2c1;2c6:2d1;2e0:2e4;2ec;2ee;374;37a;559;640;6e5:6e6;7f4:7f5;7fa;81a;824;828;
+         971;e46;ec6;10fc;17d7;1843;1aa7;1c78:1c7d;1d2c:1d6a;1d78;1d9b:1dbf;2071;207f;2090:209c;2c7c:2c7d;
+         2d6f;2e2f;3005;3031:3035;303b;309d:309e;30fc:30fe;a015;a4f8:a4fd;a60c;a67f;a69c:a69d;a717:a71f;
+         a770;a788;a7f8:a7f9;a9cf;a9e6;aa70;aadd;aaf3:aaf4;ab5c:ab5f;ff70;ff9e:ff9f)
+    modifiersymbol (5e;60;a8;af;b4;b8;2c2:2c5;2d2:2df;2e5:2eb;2ed;2ef:2ff;375;384:385;1fbd;1fbf:1fc1;
+         1fcd:1fcf;1fdd:1fdf;1fed:1fef;1ffd:1ffe;309b:309c;a700:a716;a720:a721;a789:a78a;ab5b;fbb2:fbc1;
+         ff3e;ff40;ffe3)
+    nonspacingmark (300:36f;483:487;591:5bd;5bf;5c1:5c2;5c4:5c5;5c7;610:61a;64b:65f;670;6d6:6dc;6df:6e4;
+         6e7:6e8;6ea:6ed;711;730:74a;7a6:7b0;7eb:7f3;816:819;81b:823;825:827;829:82d;859:85b;8d4:8e1;
+         8e3:902;93a;93c;941:948;94d;951:957;962:963;981;9bc;9c1:9c4;9cd;9e2:9e3;a01:a02;a3c;a41:a42;
+         a47:a48;a4b:a4d;a51;a70:a71;a75;a81:a82;abc;ac1:ac5;ac7:ac8;acd;ae2:ae3;b01;b3c;b3f;b41:b44;
+         b4d;b56;b62:b63;b82;bc0;bcd;c00;c3e:c40;c46:c48;c4a:c4d;c55:c56;c62:c63;c81;cbc;cbf;cc6;ccc:ccd;
+         ce2:ce3;d01;d41:d44;d4d;d62:d63;dca;dd2:dd4;dd6;e31;e34:e3a;e47:e4e;eb1;eb4:eb9;ebb:ebc;ec8:ecd;
+         f18:f19;f35;f37;f39;f71:f7e;f80:f84;f86:f87;f8d:f97;f99:fbc;fc6;102d:1030;1032:1037;1039:103a;
+         103d:103e;1058:1059;105e:1060;1071:1074;1082;1085:1086;108d;109d;135d:135f;1712:1714;1732:1734;
+         1752:1753;1772:1773;17b4:17b5;17b7:17bd;17c6;17c9:17d3;17dd;180b:180d;1885:1886;18a9;1920:1922;
+         1927:1928;1932;1939:193b;1a17:1a18;1a1b;1a56;1a58:1a5e;1a60;1a62;1a65:1a6c;1a73:1a7c;1a7f;1ab0:1abd;
+         1b00:1b03;1b34;1b36:1b3a;1b3c;1b42;1b6b:1b73;1b80:1b81;1ba2:1ba5;1ba8:1ba9;1bab:1bad;1be6;1be8:1be9;
+         1bed;1bef:1bf1;1c2c:1c33;1c36:1c37;1cd0:1cd2;1cd4:1ce0;1ce2:1ce8;1ced;1cf4;1cf8:1cf9;1dc0:1df5;
+         1dfb:1dff;20d0:20dc;20e1;20e5:20f0;2cef:2cf1;2d7f;2de0:2dff;302a:302d;3099:309a;a66f;a674:a67d;
+         a69e:a69f;a6f0:a6f1;a802;a806;a80b;a825:a826;a8c4:a8c5;a8e0:a8f1;a926:a92d;a947:a951;a980:a982;
+         a9b3;a9b6:a9b9;a9bc;a9e5;aa29:aa2e;aa31:aa32;aa35:aa36;aa43;aa4c;aa7c;aab0;aab2:aab4;aab7:aab8;
+         aabe:aabf;aac1;aaec:aaed;aaf6;abe5;abe8;abed;fb1e;fe00:fe0f;fe20:fe2f)
+    number (30:39;b2:b3;b9;bc:be;660:669;6f0:6f9;7c0:7c9;966:96f;9e6:9ef;9f4:9f9;a66:a6f;ae6:aef;b66:b6f;
+         b72:b77;be6:bf2;c66:c6f;c78:c7e;ce6:cef;d58:d5e;d66:d78;de6:def;e50:e59;ed0:ed9;f20:f33;1040:1049;
+         1090:1099;1369:137c;16ee:16f0;17e0:17e9;17f0:17f9;1810:1819;1946:194f;19d0:19da;1a80:1a89;1a90:1a99;
+         1b50:1b59;1bb0:1bb9;1c40:1c49;1c50:1c59;2070;2074:2079;2080:2089;2150:2182;2185:2189;2460:249b;
+         24ea:24ff;2776:2793;2cfd;3007;3021:3029;3038:303a;3192:3195;3220:3229;3248:324f;3251:325f;3280:3289;
+         32b1:32bf;a620:a629;a6e6:a6ef;a830:a835;a8d0:a8d9;a900:a909;a9d0:a9d9;a9f0:a9f9;aa50:aa59;abf0:abf9;
+         ff10:ff19)
+    openpunctuation (28;5b;7b;f3a;f3c;169b;201a;201e;2045;207d;208d;2308;230a;2329;2768;276a;276c;276e;
+         2770;2772;2774;27c5;27e6;27e8;27ea;27ec;27ee;2983;2985;2987;2989;298b;298d;298f;2991;2993;2995;
+         2997;29d8;29da;29fc;2e22;2e24;2e26;2e28;2e42;3008;300a;300c;300e;3010;3014;3016;3018;301a;301d;
+         fd3f;fe17;fe35;fe37;fe39;fe3b;fe3d;fe3f;fe41;fe43;fe47;fe59;fe5b;fe5d;ff08;ff3b;ff5b;ff5f;ff62)
+    other (0:1f;7f:9f;ad;378:379;380:383;38b;38d;3a2;530;557:558;560;588;58b:58c;590;5c8:5cf;5eb:5ef;
+         5f5:605;61c:61d;6dd;70e:70f;74b:74c;7b2:7bf;7fb:7ff;82e:82f;83f;85c:85d;85f:89f;8b5;8be:8d3;
+         8e2;984;98d:98e;991:992;9a9;9b1;9b3:9b5;9ba:9bb;9c5:9c6;9c9:9ca;9cf:9d6;9d8:9db;9de;9e4:9e5;
+         9fc:a00;a04;a0b:a0e;a11:a12;a29;a31;a34;a37;a3a:a3b;a3d;a43:a46;a49:a4a;a4e:a50;a52:a58;a5d;
+         a5f:a65;a76:a80;a84;a8e;a92;aa9;ab1;ab4;aba:abb;ac6;aca;ace:acf;ad1:adf;ae4:ae5;af2:af8;afa:b00;
+         b04;b0d:b0e;b11:b12;b29;b31;b34;b3a:b3b;b45:b46;b49:b4a;b4e:b55;b58:b5b;b5e;b64:b65;b78:b81;
+         b84;b8b:b8d;b91;b96:b98;b9b;b9d;ba0:ba2;ba5:ba7;bab:bad;bba:bbd;bc3:bc5;bc9;bce:bcf;bd1:bd6;
+         bd8:be5;bfb:bff;c04;c0d;c11;c29;c3a:c3c;c45;c49;c4e:c54;c57;c5b:c5f;c64:c65;c70:c77;c84;c8d;
+         c91;ca9;cb4;cba:cbb;cc5;cc9;cce:cd4;cd7:cdd;cdf;ce4:ce5;cf0;cf3:d00;d04;d0d;d11;d3b:d3c;d45;
+         d49;d50:d53;d64:d65;d80:d81;d84;d97:d99;db2;dbc;dbe:dbf;dc7:dc9;dcb:dce;dd5;dd7;de0:de5;df0:df1;
+         df5:e00;e3b:e3e;e5c:e80;e83;e85:e86;e89;e8b:e8c;e8e:e93;e98;ea0;ea4;ea6;ea8:ea9;eac;eba;ebe:ebf;
+         ec5;ec7;ece:ecf;eda:edb;ee0:eff;f48;f6d:f70;f98;fbd;fcd;fdb:fff;10c6;10c8:10cc;10ce:10cf;1249;
+         124e:124f;1257;1259;125e:125f;1289;128e:128f;12b1;12b6:12b7;12bf;12c1;12c6:12c7;12d7;1311;1316:1317;
+         135b:135c;137d:137f;139a:139f;13f6:13f7;13fe:13ff;169d:169f;16f9:16ff;170d;1715:171f;1737:173f;
+         1754:175f;176d;1771;1774:177f;17de:17df;17ea:17ef;17fa:17ff;180e:180f;181a:181f;1878:187f;18ab:18af;
+         18f6:18ff;191f;192c:192f;193c:193f;1941:1943;196e:196f;1975:197f;19ac:19af;19ca:19cf;19db:19dd;
+         1a1c:1a1d;1a5f;1a7d:1a7e;1a8a:1a8f;1a9a:1a9f;1aae:1aaf;1abf:1aff;1b4c:1b4f;1b7d:1b7f;1bf4:1bfb;
+         1c38:1c3a;1c4a:1c4c;1c89:1cbf;1cc8:1ccf;1cf7;1cfa:1cff;1df6:1dfa;1f16:1f17;1f1e:1f1f;1f46:1f47;
+         1f4e:1f4f;1f58;1f5a;1f5c;1f5e;1f7e:1f7f;1fb5;1fc5;1fd4:1fd5;1fdc;1ff0:1ff1;1ff5;1fff;200b:200f;
+         202a:202e;2060:206f;2072:2073;208f;209d:209f;20bf:20cf;20f1:20ff;218c:218f;23ff;2427:243f;244b:245f;
+         2b74:2b75;2b96:2b97;2bba:2bbc;2bc9;2bd2:2beb;2bf0:2bff;2c2f;2c5f;2cf4:2cf8;2d26;2d28:2d2c;2d2e:2d2f;
+         2d68:2d6e;2d71:2d7e;2d97:2d9f;2da7;2daf;2db7;2dbf;2dc7;2dcf;2dd7;2ddf;2e45:2e7f;2e9a;2ef4:2eff;
+         2fd6:2fef;2ffc:2fff;3040;3097:3098;3100:3104;312e:3130;318f;31bb:31bf;31e4:31ef;321f;32ff;4db6:4dbf;
+         9fd6:9fff;a48d:a48f;a4c7:a4cf;a62c:a63f;a6f8:a6ff;a7af;a7b8:a7f6;a82c:a82f;a83a:a83f;a878:a87f;
+         a8c6:a8cd;a8da:a8df;a8fe:a8ff;a954:a95e;a97d:a97f;a9ce;a9da:a9dd;a9ff;aa37:aa3f;aa4e:aa4f;aa5a:aa5b;
+         aac3:aada;aaf7:ab00;ab07:ab08;ab0f:ab10;ab17:ab1f;ab27;ab2f;ab66:ab6f;abee:abef;abfa:abff;d7a4:d7af;
+         d7c7:d7ca;d7fc:f8ff;fa6e:fa6f;fada:faff;fb07:fb12;fb18:fb1c;fb37;fb3d;fb3f;fb42;fb45;fbc2:fbd2;
+         fd40:fd4f;fd90:fd91;fdc8:fdef;fdfe:fdff;fe1a:fe1f;fe53;fe67;fe6c:fe6f;fe75;fefd:ff00;ffbf:ffc1;
+         ffc8:ffc9;ffd0:ffd1;ffd8:ffd9;ffdd:ffdf;ffe7;ffef:fffb;fffe:ffff)
+    otherletter (aa;ba;1bb;1c0:1c3;294;5d0:5ea;5f0:5f2;620:63f;641:64a;66e:66f;671:6d3;6d5;6ee:6ef;6fa:6fc;
+         6ff;710;712:72f;74d:7a5;7b1;7ca:7ea;800:815;840:858;8a0:8b4;8b6:8bd;904:939;93d;950;958:961;
+         972:980;985:98c;98f:990;993:9a8;9aa:9b0;9b2;9b6:9b9;9bd;9ce;9dc:9dd;9df:9e1;9f0:9f1;a05:a0a;
+         a0f:a10;a13:a28;a2a:a30;a32:a33;a35:a36;a38:a39;a59:a5c;a5e;a72:a74;a85:a8d;a8f:a91;a93:aa8;
+         aaa:ab0;ab2:ab3;ab5:ab9;abd;ad0;ae0:ae1;af9;b05:b0c;b0f:b10;b13:b28;b2a:b30;b32:b33;b35:b39;
+         b3d;b5c:b5d;b5f:b61;b71;b83;b85:b8a;b8e:b90;b92:b95;b99:b9a;b9c;b9e:b9f;ba3:ba4;ba8:baa;bae:bb9;
+         bd0;c05:c0c;c0e:c10;c12:c28;c2a:c39;c3d;c58:c5a;c60:c61;c80;c85:c8c;c8e:c90;c92:ca8;caa:cb3;
+         cb5:cb9;cbd;cde;ce0:ce1;cf1:cf2;d05:d0c;d0e:d10;d12:d3a;d3d;d4e;d54:d56;d5f:d61;d7a:d7f;d85:d96;
+         d9a:db1;db3:dbb;dbd;dc0:dc6;e01:e30;e32:e33;e40:e45;e81:e82;e84;e87:e88;e8a;e8d;e94:e97;e99:e9f;
+         ea1:ea3;ea5;ea7;eaa:eab;ead:eb0;eb2:eb3;ebd;ec0:ec4;edc:edf;f00;f40:f47;f49:f6c;f88:f8c;1000:102a;
+         103f;1050:1055;105a:105d;1061;1065:1066;106e:1070;1075:1081;108e;10d0:10fa;10fd:1248;124a:124d;
+         1250:1256;1258;125a:125d;1260:1288;128a:128d;1290:12b0;12b2:12b5;12b8:12be;12c0;12c2:12c5;12c8:12d6;
+         12d8:1310;1312:1315;1318:135a;1380:138f;1401:166c;166f:167f;1681:169a;16a0:16ea;16f1:16f8;1700:170c;
+         170e:1711;1720:1731;1740:1751;1760:176c;176e:1770;1780:17b3;17dc;1820:1842;1844:1877;1880:1884;
+         1887:18a8;18aa;18b0:18f5;1900:191e;1950:196d;1970:1974;1980:19ab;19b0:19c9;1a00:1a16;1a20:1a54;
+         1b05:1b33;1b45:1b4b;1b83:1ba0;1bae:1baf;1bba:1be5;1c00:1c23;1c4d:1c4f;1c5a:1c77;1ce9:1cec;1cee:1cf1;
+         1cf5:1cf6;2135:2138;2d30:2d67;2d80:2d96;2da0:2da6;2da8:2dae;2db0:2db6;2db8:2dbe;2dc0:2dc6;2dc8:2dce;
+         2dd0:2dd6;2dd8:2dde;3006;303c;3041:3096;309f;30a1:30fa;30ff;3105:312d;3131:318e;31a0:31ba;31f0:31ff;
+         3400:4db5;4e00:9fd5;a000:a014;a016:a48c;a4d0:a4f7;a500:a60b;a610:a61f;a62a:a62b;a66e;a6a0:a6e5;
+         a78f;a7f7;a7fb:a801;a803:a805;a807:a80a;a80c:a822;a840:a873;a882:a8b3;a8f2:a8f7;a8fb;a8fd;a90a:a925;
+         a930:a946;a960:a97c;a984:a9b2;a9e0:a9e4;a9e7:a9ef;a9fa:a9fe;aa00:aa28;aa40:aa42;aa44:aa4b;aa60:aa6f;
+         aa71:aa76;aa7a;aa7e:aaaf;aab1;aab5:aab6;aab9:aabd;aac0;aac2;aadb:aadc;aae0:aaea;aaf2;ab01:ab06;
+         ab09:ab0e;ab11:ab16;ab20:ab26;ab28:ab2e;abc0:abe2;ac00:d7a3;d7b0:d7c6;d7cb:d7fb;f900:fa6d;fa70:fad9;
+         fb1d;fb1f:fb28;fb2a:fb36;fb38:fb3c;fb3e;fb40:fb41;fb43:fb44;fb46:fbb1;fbd3:fd3d;fd50:fd8f;fd92:fdc7;
+         fdf0:fdfb;fe70:fe74;fe76:fefc;ff66:ff6f;ff71:ff9d;ffa0:ffbe;ffc2:ffc7;ffca:ffcf;ffd2:ffd7;ffda:ffdc)
+    othernumber (b2:b3;b9;bc:be;9f4:9f9;b72:b77;bf0:bf2;c78:c7e;d58:d5e;d70:d78;f2a:f33;1369:137c;17f0:17f9;
+         19da;2070;2074:2079;2080:2089;2150:215f;2189;2460:249b;24ea:24ff;2776:2793;2cfd;3192:3195;3220:3229;
+         3248:324f;3251:325f;3280:3289;32b1:32bf;a830:a835)
+    otherpunctuation (21:23;25:27;2a;2c;2e:2f;3a:3b;3f:40;5c;a1;a7;b6:b7;bf;37e;387;55a:55f;589;5c0;
+         5c3;5c6;5f3:5f4;609:60a;60c:60d;61b;61e:61f;66a:66d;6d4;700:70d;7f7:7f9;830:83e;85e;964:965;
+         970;af0;df4;e4f;e5a:e5b;f04:f12;f14;f85;fd0:fd4;fd9:fda;104a:104f;10fb;1360:1368;166d:166e;
+         16eb:16ed;1735:1736;17d4:17d6;17d8:17da;1800:1805;1807:180a;1944:1945;1a1e:1a1f;1aa0:1aa6;1aa8:1aad;
+         1b5a:1b60;1bfc:1bff;1c3b:1c3f;1c7e:1c7f;1cc0:1cc7;1cd3;2016:2017;2020:2027;2030:2038;203b:203e;
+         2041:2043;2047:2051;2053;2055:205e;2cf9:2cfc;2cfe:2cff;2d70;2e00:2e01;2e06:2e08;2e0b;2e0e:2e16;
+         2e18:2e19;2e1b;2e1e:2e1f;2e2a:2e2e;2e30:2e39;2e3c:2e3f;2e41;2e43:2e44;3001:3003;303d;30fb;a4fe:a4ff;
+         a60d:a60f;a673;a67e;a6f2:a6f7;a874:a877;a8ce:a8cf;a8f8:a8fa;a8fc;a92e:a92f;a95f;a9c1:a9cd;a9de:a9df;
+         aa5c:aa5f;aade:aadf;aaf0:aaf1;abeb;fe10:fe16;fe19;fe30;fe45:fe46;fe49:fe4c;fe50:fe52;fe54:fe57;
+         fe5f:fe61;fe68;fe6a:fe6b;ff01:ff03;ff05:ff07;ff0a;ff0c;ff0e:ff0f;ff1a:ff1b;ff1f:ff20;ff3c;ff61;
+         ff64:ff65)
+    othersymbol (a6;a9;ae;b0;482;58d:58e;60e:60f;6de;6e9;6fd:6fe;7f6;9fa;b70;bf3:bf8;bfa;c7f;d4f;d79;
+         f01:f03;f13;f15:f17;f1a:f1f;f34;f36;f38;fbe:fc5;fc7:fcc;fce:fcf;fd5:fd8;109e:109f;1390:1399;
+         1940;19de:19ff;1b61:1b6a;1b74:1b7c;2100:2101;2103:2106;2108:2109;2114;2116:2117;211e:2123;2125;
+         2127;2129;212e;213a:213b;214a;214c:214d;214f;218a:218b;2195:2199;219c:219f;21a1:21a2;21a4:21a5;
+         21a7:21ad;21af:21cd;21d0:21d1;21d3;21d5:21f3;2300:2307;230c:231f;2322:2328;232b:237b;237d:239a;
+         23b4:23db;23e2:23fe;2400:2426;2440:244a;249c:24e9;2500:25b6;25b8:25c0;25c2:25f7;2600:266e;2670:2767;
+         2794:27bf;2800:28ff;2b00:2b2f;2b45:2b46;2b4d:2b73;2b76:2b95;2b98:2bb9;2bbd:2bc8;2bca:2bd1;2bec:2bef;
+         2ce5:2cea;2e80:2e99;2e9b:2ef3;2f00:2fd5;2ff0:2ffb;3004;3012:3013;3020;3036:3037;303e:303f;3190:3191;
+         3196:319f;31c0:31e3;3200:321e;322a:3247;3250;3260:327f;328a:32b0;32c0:32fe;3300:33ff;4dc0:4dff;
+         a490:a4c6;a828:a82b;a836:a837;a839;aa77:aa79;fdfd;ffe4;ffe8;ffed:ffee;fffc:fffd)
+    paragraphseparator (2029)
+    privateuse (e000:f8ff)
+    punctuation (21:23;25:2a;2c:2f;3a:3b;3f:40;5b:5d;5f;7b;7d;a1;a7;ab;b6:b7;bb;bf;37e;387;55a:55f;589:58a;
+         5be;5c0;5c3;5c6;5f3:5f4;609:60a;60c:60d;61b;61e:61f;66a:66d;6d4;700:70d;7f7:7f9;830:83e;85e;
+         964:965;970;af0;df4;e4f;e5a:e5b;f04:f12;f14;f3a:f3d;f85;fd0:fd4;fd9:fda;104a:104f;10fb;1360:1368;
+         1400;166d:166e;169b:169c;16eb:16ed;1735:1736;17d4:17d6;17d8:17da;1800:180a;1944:1945;1a1e:1a1f;
+         1aa0:1aa6;1aa8:1aad;1b5a:1b60;1bfc:1bff;1c3b:1c3f;1c7e:1c7f;1cc0:1cc7;1cd3;2010:2027;2030:2043;
+         2045:2051;2053:205e;207d:207e;208d:208e;2308:230b;2329:232a;2768:2775;27c5:27c6;27e6:27ef;2983:2998;
+         29d8:29db;29fc:29fd;2cf9:2cfc;2cfe:2cff;2d70;2e00:2e2e;2e30:2e44;3001:3003;3008:3011;3014:301f;
+         3030;303d;30a0;30fb;a4fe:a4ff;a60d:a60f;a673;a67e;a6f2:a6f7;a874:a877;a8ce:a8cf;a8f8:a8fa;a8fc;
+         a92e:a92f;a95f;a9c1:a9cd;a9de:a9df;aa5c:aa5f;aade:aadf;aaf0:aaf1;abeb;fd3e:fd3f;fe10:fe19;fe30:fe52;
+         fe54:fe61;fe63;fe68;fe6a:fe6b;ff01:ff03;ff05:ff0a;ff0c:ff0f;ff1a:ff1b;ff1f:ff20;ff3b:ff3d;ff3f;
+         ff5b;ff5d;ff5f:ff65)
+    separator (20;a0;1680;2000:200a;2028:2029;202f;205f;3000)
+    spaceseparator (20;a0;1680;2000:200a;202f;205f;3000)
+    spacingmark (903;93b;93e:940;949:94c;94e:94f;982:983;9be:9c0;9c7:9c8;9cb:9cc;9d7;a03;a3e:a40;a83;
+         abe:ac0;ac9;acb:acc;b02:b03;b3e;b40;b47:b48;b4b:b4c;b57;bbe:bbf;bc1:bc2;bc6:bc8;bca:bcc;bd7;
+         c01:c03;c41:c44;c82:c83;cbe;cc0:cc4;cc7:cc8;cca:ccb;cd5:cd6;d02:d03;d3e:d40;d46:d48;d4a:d4c;
+         d57;d82:d83;dcf:dd1;dd8:ddf;df2:df3;f3e:f3f;f7f;102b:102c;1031;1038;103b:103c;1056:1057;1062:1064;
+         1067:106d;1083:1084;1087:108c;108f;109a:109c;17b6;17be:17c5;17c7:17c8;1923:1926;1929:192b;1930:1931;
+         1933:1938;1a19:1a1a;1a55;1a57;1a61;1a63:1a64;1a6d:1a72;1b04;1b35;1b3b;1b3d:1b41;1b43:1b44;1b82;
+         1ba1;1ba6:1ba7;1baa;1be7;1bea:1bec;1bee;1bf2:1bf3;1c24:1c2b;1c34:1c35;1ce1;1cf2:1cf3;302e:302f;
+         a823:a824;a827;a880:a881;a8b4:a8c3;a952:a953;a983;a9b4:a9b5;a9ba:a9bb;a9bd:a9c0;aa2f:aa30;aa33:aa34;
+         aa4d;aa7b;aa7d;aaeb;aaee:aaef;aaf5;abe3:abe4;abe6:abe7;abe9:abea;abec)
+    surrogate (d800:dfff)
+    symbol (24;2b;3c:3e;5e;60;7c;7e;a2:a6;a8:a9;ac;ae:b1;b4;b8;d7;f7;2c2:2c5;2d2:2df;2e5:2eb;2ed;2ef:2ff;
+         375;384:385;3f6;482;58d:58f;606:608;60b;60e:60f;6de;6e9;6fd:6fe;7f6;9f2:9f3;9fa:9fb;af1;b70;
+         bf3:bfa;c7f;d4f;d79;e3f;f01:f03;f13;f15:f17;f1a:f1f;f34;f36;f38;fbe:fc5;fc7:fcc;fce:fcf;fd5:fd8;
+         109e:109f;1390:1399;17db;1940;19de:19ff;1b61:1b6a;1b74:1b7c;1fbd;1fbf:1fc1;1fcd:1fcf;1fdd:1fdf;
+         1fed:1fef;1ffd:1ffe;2044;2052;207a:207c;208a:208c;20a0:20be;2100:2101;2103:2106;2108:2109;2114;
+         2116:2118;211e:2123;2125;2127;2129;212e;213a:213b;2140:2144;214a:214d;214f;218a:218b;2190:2307;
+         230c:2328;232b:23fe;2400:2426;2440:244a;249c:24e9;2500:2767;2794:27c4;27c7:27e5;27f0:2982;2999:29d7;
+         29dc:29fb;29fe:2b73;2b76:2b95;2b98:2bb9;2bbd:2bc8;2bca:2bd1;2bec:2bef;2ce5:2cea;2e80:2e99;2e9b:2ef3;
+         2f00:2fd5;2ff0:2ffb;3004;3012:3013;3020;3036:3037;303e:303f;309b:309c;3190:3191;3196:319f;31c0:31e3;
+         3200:321e;322a:3247;3250;3260:327f;328a:32b0;32c0:32fe;3300:33ff;4dc0:4dff;a490:a4c6;a700:a716;
+         a720:a721;a789:a78a;a828:a82b;a836:a839;aa77:aa79;ab5b;fb29;fbb2:fbc1;fdfc:fdfd;fe62;fe64:fe66;
+         fe69;ff04;ff0b;ff1c:ff1e;ff3e;ff40;ff5c;ff5e;ffe0:ffe6;ffe8:ffee;fffc:fffd)
+    titlecaseletter (1c5;1c8;1cb;1f2;1f88:1f8f;1f98:1f9f;1fa8:1faf;1fbc;1fcc;1ffc)
+    unassigned (378:379;380:383;38b;38d;3a2;530;557:558;560;588;58b:58c;590;5c8:5cf;5eb:5ef;5f5:5ff;
+         61d;70e;74b:74c;7b2:7bf;7fb:7ff;82e:82f;83f;85c:85d;85f:89f;8b5;8be:8d3;984;98d:98e;991:992;
+         9a9;9b1;9b3:9b5;9ba:9bb;9c5:9c6;9c9:9ca;9cf:9d6;9d8:9db;9de;9e4:9e5;9fc:a00;a04;a0b:a0e;a11:a12;
+         a29;a31;a34;a37;a3a:a3b;a3d;a43:a46;a49:a4a;a4e:a50;a52:a58;a5d;a5f:a65;a76:a80;a84;a8e;a92;
+         aa9;ab1;ab4;aba:abb;ac6;aca;ace:acf;ad1:adf;ae4:ae5;af2:af8;afa:b00;b04;b0d:b0e;b11:b12;b29;
+         b31;b34;b3a:b3b;b45:b46;b49:b4a;b4e:b55;b58:b5b;b5e;b64:b65;b78:b81;b84;b8b:b8d;b91;b96:b98;
+         b9b;b9d;ba0:ba2;ba5:ba7;bab:bad;bba:bbd;bc3:bc5;bc9;bce:bcf;bd1:bd6;bd8:be5;bfb:bff;c04;c0d;
+         c11;c29;c3a:c3c;c45;c49;c4e:c54;c57;c5b:c5f;c64:c65;c70:c77;c84;c8d;c91;ca9;cb4;cba:cbb;cc5;
+         cc9;cce:cd4;cd7:cdd;cdf;ce4:ce5;cf0;cf3:d00;d04;d0d;d11;d3b:d3c;d45;d49;d50:d53;d64:d65;d80:d81;
+         d84;d97:d99;db2;dbc;dbe:dbf;dc7:dc9;dcb:dce;dd5;dd7;de0:de5;df0:df1;df5:e00;e3b:e3e;e5c:e80;
+         e83;e85:e86;e89;e8b:e8c;e8e:e93;e98;ea0;ea4;ea6;ea8:ea9;eac;eba;ebe:ebf;ec5;ec7;ece:ecf;eda:edb;
+         ee0:eff;f48;f6d:f70;f98;fbd;fcd;fdb:fff;10c6;10c8:10cc;10ce:10cf;1249;124e:124f;1257;1259;125e:125f;
+         1289;128e:128f;12b1;12b6:12b7;12bf;12c1;12c6:12c7;12d7;1311;1316:1317;135b:135c;137d:137f;139a:139f;
+         13f6:13f7;13fe:13ff;169d:169f;16f9:16ff;170d;1715:171f;1737:173f;1754:175f;176d;1771;1774:177f;
+         17de:17df;17ea:17ef;17fa:17ff;180f;181a:181f;1878:187f;18ab:18af;18f6:18ff;191f;192c:192f;193c:193f;
+         1941:1943;196e:196f;1975:197f;19ac:19af;19ca:19cf;19db:19dd;1a1c:1a1d;1a5f;1a7d:1a7e;1a8a:1a8f;
+         1a9a:1a9f;1aae:1aaf;1abf:1aff;1b4c:1b4f;1b7d:1b7f;1bf4:1bfb;1c38:1c3a;1c4a:1c4c;1c89:1cbf;1cc8:1ccf;
+         1cf7;1cfa:1cff;1df6:1dfa;1f16:1f17;1f1e:1f1f;1f46:1f47;1f4e:1f4f;1f58;1f5a;1f5c;1f5e;1f7e:1f7f;
+         1fb5;1fc5;1fd4:1fd5;1fdc;1ff0:1ff1;1ff5;1fff;2065;2072:2073;208f;209d:209f;20bf:20cf;20f1:20ff;
+         218c:218f;23ff;2427:243f;244b:245f;2b74:2b75;2b96:2b97;2bba:2bbc;2bc9;2bd2:2beb;2bf0:2bff;2c2f;
+         2c5f;2cf4:2cf8;2d26;2d28:2d2c;2d2e:2d2f;2d68:2d6e;2d71:2d7e;2d97:2d9f;2da7;2daf;2db7;2dbf;2dc7;
+         2dcf;2dd7;2ddf;2e45:2e7f;2e9a;2ef4:2eff;2fd6:2fef;2ffc:2fff;3040;3097:3098;3100:3104;312e:3130;
+         318f;31bb:31bf;31e4:31ef;321f;32ff;4db6:4dbf;9fd6:9fff;a48d:a48f;a4c7:a4cf;a62c:a63f;a6f8:a6ff;
+         a7af;a7b8:a7f6;a82c:a82f;a83a:a83f;a878:a87f;a8c6:a8cd;a8da:a8df;a8fe:a8ff;a954:a95e;a97d:a97f;
+         a9ce;a9da:a9dd;a9ff;aa37:aa3f;aa4e:aa4f;aa5a:aa5b;aac3:aada;aaf7:ab00;ab07:ab08;ab0f:ab10;ab17:ab1f;
+         ab27;ab2f;ab66:ab6f;abee:abef;abfa:abff;d7a4:d7af;d7c7:d7ca;d7fc:d7ff;fa6e:fa6f;fada:faff;fb07:fb12;
+         fb18:fb1c;fb37;fb3d;fb3f;fb42;fb45;fbc2:fbd2;fd40:fd4f;fd90:fd91;fdc8:fdef;fdfe:fdff;fe1a:fe1f;
+         fe53;fe67;fe6c:fe6f;fe75;fefd:fefe;ff00;ffbf:ffc1;ffc8:ffc9;ffd0:ffd1;ffd8:ffd9;ffdd:ffdf;ffe7;
+         ffef:fff8;fffe:ffff)
+    uppercaseletter (41:5a;c0:d6;d8:de;100;102;104;106;108;10a;10c;10e;110;112;114;116;118;11a;11c;11e;
+         120;122;124;126;128;12a;12c;12e;130;132;134;136;139;13b;13d;13f;141;143;145;147;14a;14c;14e;
+         150;152;154;156;158;15a;15c;15e;160;162;164;166;168;16a;16c;16e;170;172;174;176;178:179;17b;
+         17d;181:182;184;186:187;189:18b;18e:191;193:194;196:198;19c:19d;19f:1a0;1a2;1a4;1a6:1a7;1a9;
+         1ac;1ae:1af;1b1:1b3;1b5;1b7:1b8;1bc;1c4;1c7;1ca;1cd;1cf;1d1;1d3;1d5;1d7;1d9;1db;1de;1e0;1e2;
+         1e4;1e6;1e8;1ea;1ec;1ee;1f1;1f4;1f6:1f8;1fa;1fc;1fe;200;202;204;206;208;20a;20c;20e;210;212;
+         214;216;218;21a;21c;21e;220;222;224;226;228;22a;22c;22e;230;232;23a:23b;23d:23e;241;243:246;
+         248;24a;24c;24e;370;372;376;37f;386;388:38a;38c;38e:38f;391:3a1;3a3:3ab;3cf;3d2:3d4;3d8;3da;
+         3dc;3de;3e0;3e2;3e4;3e6;3e8;3ea;3ec;3ee;3f4;3f7;3f9:3fa;3fd:42f;460;462;464;466;468;46a;46c;
+         46e;470;472;474;476;478;47a;47c;47e;480;48a;48c;48e;490;492;494;496;498;49a;49c;49e;4a0;4a2;
+         4a4;4a6;4a8;4aa;4ac;4ae;4b0;4b2;4b4;4b6;4b8;4ba;4bc;4be;4c0:4c1;4c3;4c5;4c7;4c9;4cb;4cd;4d0;
+         4d2;4d4;4d6;4d8;4da;4dc;4de;4e0;4e2;4e4;4e6;4e8;4ea;4ec;4ee;4f0;4f2;4f4;4f6;4f8;4fa;4fc;4fe;
+         500;502;504;506;508;50a;50c;50e;510;512;514;516;518;51a;51c;51e;520;522;524;526;528;52a;52c;
+         52e;531:556;10a0:10c5;10c7;10cd;13a0:13f5;1e00;1e02;1e04;1e06;1e08;1e0a;1e0c;1e0e;1e10;1e12;
+         1e14;1e16;1e18;1e1a;1e1c;1e1e;1e20;1e22;1e24;1e26;1e28;1e2a;1e2c;1e2e;1e30;1e32;1e34;1e36;1e38;
+         1e3a;1e3c;1e3e;1e40;1e42;1e44;1e46;1e48;1e4a;1e4c;1e4e;1e50;1e52;1e54;1e56;1e58;1e5a;1e5c;1e5e;
+         1e60;1e62;1e64;1e66;1e68;1e6a;1e6c;1e6e;1e70;1e72;1e74;1e76;1e78;1e7a;1e7c;1e7e;1e80;1e82;1e84;
+         1e86;1e88;1e8a;1e8c;1e8e;1e90;1e92;1e94;1e9e;1ea0;1ea2;1ea4;1ea6;1ea8;1eaa;1eac;1eae;1eb0;1eb2;
+         1eb4;1eb6;1eb8;1eba;1ebc;1ebe;1ec0;1ec2;1ec4;1ec6;1ec8;1eca;1ecc;1ece;1ed0;1ed2;1ed4;1ed6;1ed8;
+         1eda;1edc;1ede;1ee0;1ee2;1ee4;1ee6;1ee8;1eea;1eec;1eee;1ef0;1ef2;1ef4;1ef6;1ef8;1efa;1efc;1efe;
+         1f08:1f0f;1f18:1f1d;1f28:1f2f;1f38:1f3f;1f48:1f4d;1f59;1f5b;1f5d;1f5f;1f68:1f6f;1fb8:1fbb;1fc8:1fcb;
+         1fd8:1fdb;1fe8:1fec;1ff8:1ffb;2102;2107;210b:210d;2110:2112;2115;2119:211d;2124;2126;2128;212a:212d;
+         2130:2133;213e:213f;2145;2183;2c00:2c2e;2c60;2c62:2c64;2c67;2c69;2c6b;2c6d:2c70;2c72;2c75;2c7e:2c80;
+         2c82;2c84;2c86;2c88;2c8a;2c8c;2c8e;2c90;2c92;2c94;2c96;2c98;2c9a;2c9c;2c9e;2ca0;2ca2;2ca4;2ca6;
+         2ca8;2caa;2cac;2cae;2cb0;2cb2;2cb4;2cb6;2cb8;2cba;2cbc;2cbe;2cc0;2cc2;2cc4;2cc6;2cc8;2cca;2ccc;
+         2cce;2cd0;2cd2;2cd4;2cd6;2cd8;2cda;2cdc;2cde;2ce0;2ce2;2ceb;2ced;2cf2;a640;a642;a644;a646;a648;
+         a64a;a64c;a64e;a650;a652;a654;a656;a658;a65a;a65c;a65e;a660;a662;a664;a666;a668;a66a;a66c;a680;
+         a682;a684;a686;a688;a68a;a68c;a68e;a690;a692;a694;a696;a698;a69a;a722;a724;a726;a728;a72a;a72c;
+         a72e;a732;a734;a736;a738;a73a;a73c;a73e;a740;a742;a744;a746;a748;a74a;a74c;a74e;a750;a752;a754;
+         a756;a758;a75a;a75c;a75e;a760;a762;a764;a766;a768;a76a;a76c;a76e;a779;a77b;a77d:a77e;a780;a782;
+         a784;a786;a78b;a78d;a790;a792;a796;a798;a79a;a79c;a79e;a7a0;a7a2;a7a4;a7a6;a7a8;a7aa:a7ae;a7b0:a7b4;
+         a7b6;ff21:ff3a)
+}
+script {
+    arabic (600:604;606:60b;60d:61a;61e;620:63f;641:64a;656:66f;671:6dc;6de:6ff;750:77f;8a0:8b4;8b6:8bd;
+         8d4:8e1;8e3:8ff;fb50:fbc1;fbd3:fd3d;fd50:fd8f;fd92:fdc7;fdf0:fdfd;fe70:fe74;fe76:fefc)
+    armenian (531:556;559:55f;561:587;58a;58d:58f;fb13:fb17)
+    balinese (1b00:1b4b;1b50:1b7c)
+    bamum (a6a0:a6f7)
+    batak (1bc0:1bf3;1bfc:1bff)
+    bengali (980:983;985:98c;98f:990;993:9a8;9aa:9b0;9b2;9b6:9b9;9bc:9c4;9c7:9c8;9cb:9ce;9d7;9dc:9dd;
+         9df:9e3;9e6:9fb)
+    bopomofo (2ea:2eb;3105:312d;31a0:31ba)
+    braille (2800:28ff)
+    buginese (1a00:1a1b;1a1e:1a1f)
+    buhid (1740:1753)
+    canadianaboriginal (1400:167f;18b0:18f5)
+    cham (aa00:aa36;aa40:aa4d;aa50:aa59;aa5c:aa5f)
+    cherokee (13a0:13f5;13f8:13fd;ab70:abbf)
+    common (0:40;5b:60;7b:a9;ab:b9;bb:bf;d7;f7;2b9:2df;2e5:2e9;2ec:2ff;374;37e;385;387;589;605;60c;61b:61c;
+         61f;640;6dd;8e2;964:965;e3f;fd5:fd8;10fb;16eb:16ed;1735:1736;1802:1803;1805;1cd3;1ce1;1ce9:1cec;
+         1cee:1cf3;1cf5:1cf6;2000:200b;200e:2064;2066:2070;2074:207e;2080:208e;20a0:20be;2100:2125;2127:2129;
+         212c:2131;2133:214d;214f:215f;2189:218b;2190:23fe;2400:2426;2440:244a;2460:27ff;2900:2b73;2b76:2b95;
+         2b98:2bb9;2bbd:2bc8;2bca:2bd1;2bec:2bef;2e00:2e44;2ff0:2ffb;3000:3004;3006;3008:3020;3030:3037;
+         303c:303f;309b:309c;30a0;30fb:30fc;3190:319f;31c0:31e3;3220:325f;327f:32cf;3358:33ff;4dc0:4dff;
+         a700:a721;a788:a78a;a830:a839;a92e;a9cf;ab5b;fd3e:fd3f;fe10:fe19;fe30:fe52;fe54:fe66;fe68:fe6b;
+         feff;ff01:ff20;ff3b:ff40;ff5b:ff65;ff70;ff9e:ff9f;ffe0:ffe6;ffe8:ffee;fff9:fffd)
+    coptic (3e2:3ef;2c80:2cf3;2cf9:2cff)
+    cyrillic (400:484;487:52f;1c80:1c88;1d2b;1d78;2de0:2dff;a640:a69f;fe2e:fe2f)
+    devanagari (900:950;953:963;966:97f;a8e0:a8fd)
+    ethiopic (1200:1248;124a:124d;1250:1256;1258;125a:125d;1260:1288;128a:128d;1290:12b0;12b2:12b5;12b8:12be;
+         12c0;12c2:12c5;12c8:12d6;12d8:1310;1312:1315;1318:135a;135d:137c;1380:1399;2d80:2d96;2da0:2da6;
+         2da8:2dae;2db0:2db6;2db8:2dbe;2dc0:2dc6;2dc8:2dce;2dd0:2dd6;2dd8:2dde;ab01:ab06;ab09:ab0e;ab11:ab16;
+         ab20:ab26;ab28:ab2e)
+    georgian (10a0:10c5;10c7;10cd;10d0:10fa;10fc:10ff;2d00:2d25;2d27;2d2d)
+    glagolitic (2c00:2c2e;2c30:2c5e)
+    greek (370:373;375:377;37a:37d;37f;384;386;388:38a;38c;38e:3a1;3a3:3e1;3f0:3ff;1d26:1d2a;1d5d:1d61;
+         1d66:1d6a;1dbf;1f00:1f15;1f18:1f1d;1f20:1f45;1f48:1f4d;1f50:1f57;1f59;1f5b;1f5d;1f5f:1f7d;1f80:1fb4;
+         1fb6:1fc4;1fc6:1fd3;1fd6:1fdb;1fdd:1fef;1ff2:1ff4;1ff6:1ffe;2126;ab65)
+    gujarati (a81:a83;a85:a8d;a8f:a91;a93:aa8;aaa:ab0;ab2:ab3;ab5:ab9;abc:ac5;ac7:ac9;acb:acd;ad0;ae0:ae3;
+         ae6:af1;af9)
+    gurmukhi (a01:a03;a05:a0a;a0f:a10;a13:a28;a2a:a30;a32:a33;a35:a36;a38:a39;a3c;a3e:a42;a47:a48;a4b:a4d;
+         a51;a59:a5c;a5e;a66:a75)
+    han (2e80:2e99;2e9b:2ef3;2f00:2fd5;3005;3007;3021:3029;3038:303b;3400:4db5;4e00:9fd5;f900:fa6d;fa70:fad9)
+    hangul (1100:11ff;302e:302f;3131:318e;3200:321e;3260:327e;a960:a97c;ac00:d7a3;d7b0:d7c6;d7cb:d7fb;
+         ffa0:ffbe;ffc2:ffc7;ffca:ffcf;ffd2:ffd7;ffda:ffdc)
+    hanunoo (1720:1734)
+    hebrew (591:5c7;5d0:5ea;5f0:5f4;fb1d:fb36;fb38:fb3c;fb3e;fb40:fb41;fb43:fb44;fb46:fb4f)
+    hiragana (3041:3096;309d:309f)
+    inherited (300:36f;485:486;64b:655;670;951:952;1ab0:1abe;1cd0:1cd2;1cd4:1ce0;1ce2:1ce8;1ced;1cf4;
+         1cf8:1cf9;1dc0:1df5;1dfb:1dff;200c:200d;20d0:20f0;302a:302d;3099:309a;fe00:fe0f;fe20:fe2d)
+    javanese (a980:a9cd;a9d0:a9d9;a9de:a9df)
+    kannada (c80:c83;c85:c8c;c8e:c90;c92:ca8;caa:cb3;cb5:cb9;cbc:cc4;cc6:cc8;cca:ccd;cd5:cd6;cde;ce0:ce3;
+         ce6:cef;cf1:cf2)
+    katakana (30a1:30fa;30fd:30ff;31f0:31ff;32d0:32fe;3300:3357;ff66:ff6f;ff71:ff9d)
+    kayahli (a900:a92d;a92f)
+    khmer (1780:17dd;17e0:17e9;17f0:17f9;19e0:19ff)
+    lao (e81:e82;e84;e87:e88;e8a;e8d;e94:e97;e99:e9f;ea1:ea3;ea5;ea7;eaa:eab;ead:eb9;ebb:ebd;ec0:ec4;
+         ec6;ec8:ecd;ed0:ed9;edc:edf)
+    latin (41:5a;61:7a;aa;ba;c0:d6;d8:f6;f8:2b8;2e0:2e4;1d00:1d25;1d2c:1d5c;1d62:1d65;1d6b:1d77;1d79:1dbe;
+         1e00:1eff;2071;207f;2090:209c;212a:212b;2132;214e;2160:2188;2c60:2c7f;a722:a787;a78b:a7ae;a7b0:a7b7;
+         a7f7:a7ff;ab30:ab5a;ab5c:ab64;fb00:fb06;ff21:ff3a;ff41:ff5a)
+    lepcha (1c00:1c37;1c3b:1c49;1c4d:1c4f)
+    limbu (1900:191e;1920:192b;1930:193b;1940;1944:194f)
+    lisu (a4d0:a4ff)
+    malayalam (d01:d03;d05:d0c;d0e:d10;d12:d3a;d3d:d44;d46:d48;d4a:d4f;d54:d63;d66:d7f)
+    mandaic (840:85b;85e)
+    meeteimayek (aae0:aaf6;abc0:abed;abf0:abf9)
+    mongolian (1800:1801;1804;1806:180e;1810:1819;1820:1877;1880:18aa)
+    myanmar (1000:109f;a9e0:a9fe;aa60:aa7f)
+    newtailue (1980:19ab;19b0:19c9;19d0:19da;19de:19df)
+    nko (7c0:7fa)
+    ogham (1680:169c)
+    olchiki (1c50:1c7f)
+    oriya (b01:b03;b05:b0c;b0f:b10;b13:b28;b2a:b30;b32:b33;b35:b39;b3c:b44;b47:b48;b4b:b4d;b56:b57;b5c:b5d;
+         b5f:b63;b66:b77)
+    phagspa (a840:a877)
+    rejang (a930:a953;a95f)
+    runic (16a0:16ea;16ee:16f8)
+    samaritan (800:82d;830:83e)
+    saurashtra (a880:a8c5;a8ce:a8d9)
+    sinhala (d82:d83;d85:d96;d9a:db1;db3:dbb;dbd;dc0:dc6;dca;dcf:dd4;dd6;dd8:ddf;de6:def;df2:df4)
+    sundanese (1b80:1bbf;1cc0:1cc7)
+    sylotinagri (a800:a82b)
+    syriac (700:70d;70f:74a;74d:74f)
+    tagalog (1700:170c;170e:1714)
+    tagbanwa (1760:176c;176e:1770;1772:1773)
+    taile (1950:196d;1970:1974)
+    taitham (1a20:1a5e;1a60:1a7c;1a7f:1a89;1a90:1a99;1aa0:1aad)
+    taiviet (aa80:aac2;aadb:aadf)
+    tamil (b82:b83;b85:b8a;b8e:b90;b92:b95;b99:b9a;b9c;b9e:b9f;ba3:ba4;ba8:baa;bae:bb9;bbe:bc2;bc6:bc8;
+         bca:bcd;bd0;bd7;be6:bfa)
+    telugu (c00:c03;c05:c0c;c0e:c10;c12:c28;c2a:c39;c3d:c44;c46:c48;c4a:c4d;c55:c56;c58:c5a;c60:c63;
+         c66:c6f;c78:c7f)
+    thaana (780:7b1)
+    thai (e01:e3a;e40:e5b)
+    tibetan (f00:f47;f49:f6c;f71:f97;f99:fbc;fbe:fcc;fce:fd4;fd9:fda)
+    tifinagh (2d30:2d67;2d6f:2d70;2d7f)
+    unknown (378:379;380:383;38b;38d;3a2;530;557:558;560;588;58b:58c;590;5c8:5cf;5eb:5ef;5f5:5ff;61d;
+         70e;74b:74c;7b2:7bf;7fb:7ff;82e:82f;83f;85c:85d;85f:89f;8b5;8be:8d3;984;98d:98e;991:992;9a9;
+         9b1;9b3:9b5;9ba:9bb;9c5:9c6;9c9:9ca;9cf:9d6;9d8:9db;9de;9e4:9e5;9fc:a00;a04;a0b:a0e;a11:a12;
+         a29;a31;a34;a37;a3a:a3b;a3d;a43:a46;a49:a4a;a4e:a50;a52:a58;a5d;a5f:a65;a76:a80;a84;a8e;a92;
+         aa9;ab1;ab4;aba:abb;ac6;aca;ace:acf;ad1:adf;ae4:ae5;af2:af8;afa:b00;b04;b0d:b0e;b11:b12;b29;
+         b31;b34;b3a:b3b;b45:b46;b49:b4a;b4e:b55;b58:b5b;b5e;b64:b65;b78:b81;b84;b8b:b8d;b91;b96:b98;
+         b9b;b9d;ba0:ba2;ba5:ba7;bab:bad;bba:bbd;bc3:bc5;bc9;bce:bcf;bd1:bd6;bd8:be5;bfb:bff;c04;c0d;
+         c11;c29;c3a:c3c;c45;c49;c4e:c54;c57;c5b:c5f;c64:c65;c70:c77;c84;c8d;c91;ca9;cb4;cba:cbb;cc5;
+         cc9;cce:cd4;cd7:cdd;cdf;ce4:ce5;cf0;cf3:d00;d04;d0d;d11;d3b:d3c;d45;d49;d50:d53;d64:d65;d80:d81;
+         d84;d97:d99;db2;dbc;dbe:dbf;dc7:dc9;dcb:dce;dd5;dd7;de0:de5;df0:df1;df5:e00;e3b:e3e;e5c:e80;
+         e83;e85:e86;e89;e8b:e8c;e8e:e93;e98;ea0;ea4;ea6;ea8:ea9;eac;eba;ebe:ebf;ec5;ec7;ece:ecf;eda:edb;
+         ee0:eff;f48;f6d:f70;f98;fbd;fcd;fdb:fff;10c6;10c8:10cc;10ce:10cf;1249;124e:124f;1257;1259;125e:125f;
+         1289;128e:128f;12b1;12b6:12b7;12bf;12c1;12c6:12c7;12d7;1311;1316:1317;135b:135c;137d:137f;139a:139f;
+         13f6:13f7;13fe:13ff;169d:169f;16f9:16ff;170d;1715:171f;1737:173f;1754:175f;176d;1771;1774:177f;
+         17de:17df;17ea:17ef;17fa:17ff;180f;181a:181f;1878:187f;18ab:18af;18f6:18ff;191f;192c:192f;193c:193f;
+         1941:1943;196e:196f;1975:197f;19ac:19af;19ca:19cf;19db:19dd;1a1c:1a1d;1a5f;1a7d:1a7e;1a8a:1a8f;
+         1a9a:1a9f;1aae:1aaf;1abf:1aff;1b4c:1b4f;1b7d:1b7f;1bf4:1bfb;1c38:1c3a;1c4a:1c4c;1c89:1cbf;1cc8:1ccf;
+         1cf7;1cfa:1cff;1df6:1dfa;1f16:1f17;1f1e:1f1f;1f46:1f47;1f4e:1f4f;1f58;1f5a;1f5c;1f5e;1f7e:1f7f;
+         1fb5;1fc5;1fd4:1fd5;1fdc;1ff0:1ff1;1ff5;1fff;2065;2072:2073;208f;209d:209f;20bf:20cf;20f1:20ff;
+         218c:218f;23ff;2427:243f;244b:245f;2b74:2b75;2b96:2b97;2bba:2bbc;2bc9;2bd2:2beb;2bf0:2bff;2c2f;
+         2c5f;2cf4:2cf8;2d26;2d28:2d2c;2d2e:2d2f;2d68:2d6e;2d71:2d7e;2d97:2d9f;2da7;2daf;2db7;2dbf;2dc7;
+         2dcf;2dd7;2ddf;2e45:2e7f;2e9a;2ef4:2eff;2fd6:2fef;2ffc:2fff;3040;3097:3098;3100:3104;312e:3130;
+         318f;31bb:31bf;31e4:31ef;321f;32ff;4db6:4dbf;9fd6:9fff;a48d:a48f;a4c7:a4cf;a62c:a63f;a6f8:a6ff;
+         a7af;a7b8:a7f6;a82c:a82f;a83a:a83f;a878:a87f;a8c6:a8cd;a8da:a8df;a8fe:a8ff;a954:a95e;a97d:a97f;
+         a9ce;a9da:a9dd;a9ff;aa37:aa3f;aa4e:aa4f;aa5a:aa5b;aac3:aada;aaf7:ab00;ab07:ab08;ab0f:ab10;ab17:ab1f;
+         ab27;ab2f;ab66:ab6f;abee:abef;abfa:abff;d7a4:d7af;d7c7:d7ca;d7fc:f8ff;fa6e:fa6f;fada:faff;fb07:fb12;
+         fb18:fb1c;fb37;fb3d;fb3f;fb42;fb45;fbc2:fbd2;fd40:fd4f;fd90:fd91;fdc8:fdef;fdfe:fdff;fe1a:fe1f;
+         fe53;fe67;fe6c:fe6f;fe75;fefd:fefe;ff00;ffbf:ffc1;ffc8:ffc9;ffd0:ffd1;ffd8:ffd9;ffdd:ffdf;ffe7;
+         ffef:fff8;fffe:ffff)
+    vai (a500:a62b)
+    yi (a000:a48c;a490:a4c6)
+}
+scriptextensions {
+    adlam (640)
+    arabic (600:604;606:61b;61e:6dc;6de:6ff;750:77f;8a0:8b4;8b6:8bd;8d4:8e1;8e3:8ff;fb50:fbc1;fbd3:fd3d;
+         fd50:fd8f;fd92:fdc7;fdf0:fdfd;fe70:fe74;fe76:fefc)
+    armenian (531:556;559:55f;561:587;589:58a;58d:58f;fb13:fb17)
+    balinese (1b00:1b4b;1b50:1b7c)
+    bamum (a6a0:a6f7)
+    batak (1bc0:1bf3;1bfc:1bff)
+    bengali (951:952;964:965;980:983;985:98c;98f:990;993:9a8;9aa:9b0;9b2;9b6:9b9;9bc:9c4;9c7:9c8;9cb:9ce;
+         9d7;9dc:9dd;9df:9e3;9e6:9fb;a8f1)
+    bopomofo (2ea:2eb;3001:3003;3008:3011;3013:301f;302a:302d;3030;3037;30fb;3105:312d;31a0:31ba;fe45:fe46;
+         ff61:ff65)
+    braille (2800:28ff)
+    buginese (1a00:1a1b;1a1e:1a1f;a9cf)
+    buhid (1735:1736;1740:1753)
+    canadianaboriginal (1400:167f;18b0:18f5)
+    chakma (9e6:9ef;1040:1049)
+    cham (aa00:aa36;aa40:aa4d;aa50:aa59;aa5c:aa5f)
+    cherokee (13a0:13f5;13f8:13fd;ab70:abbf)
+    common (0:40;5b:60;7b:a9;ab:b9;bb:bf;d7;f7;2b9:2df;2e5:2e9;2ec:2ff;374;37e;385;387;605;61c;6dd;8e2;
+         e3f;fd5:fd8;16eb:16ed;2000:200b;200e:2064;2066:2070;2074:207e;2080:208e;20a0:20be;2100:2125;
+         2127:2129;212c:2131;2133:214d;214f:215f;2189:218b;2190:23fe;2400:2426;2440:244a;2460:27ff;2900:2b73;
+         2b76:2b95;2b98:2bb9;2bbd:2bc8;2bca:2bd1;2bec:2bef;2e00:2e42;2e44;2ff0:2ffb;3000;3004;3012;3020;
+         3036;3248:325f;327f;32b1:32bf;32cc:32cf;3371:337a;3380:33df;33ff;4dc0:4dff;a700:a721;a788:a78a;
+         ab5b;fd3e:fd3f;fe10:fe19;fe30:fe44;fe47:fe52;fe54:fe66;fe68:fe6b;feff;ff01:ff20;ff3b:ff40;ff5b:ff60;
+         ffe0:ffe6;ffe8:ffee;fff9:fffd)
+    coptic (3e2:3ef;2c80:2cf3;2cf9:2cff)
+    cyrillic (400:52f;1c80:1c88;1d2b;1d78;2de0:2dff;2e43;a640:a69f;fe2e:fe2f)
+    devanagari (900:97f;1cd0:1cf6;1cf8:1cf9;20f0;a830:a839;a8e0:a8fd)
+    ethiopic (1200:1248;124a:124d;1250:1256;1258;125a:125d;1260:1288;128a:128d;1290:12b0;12b2:12b5;12b8:12be;
+         12c0;12c2:12c5;12c8:12d6;12d8:1310;1312:1315;1318:135a;135d:137c;1380:1399;2d80:2d96;2da0:2da6;
+         2da8:2dae;2db0:2db6;2db8:2dbe;2dc0:2dc6;2dc8:2dce;2dd0:2dd6;2dd8:2dde;ab01:ab06;ab09:ab0e;ab11:ab16;
+         ab20:ab26;ab28:ab2e)
+    georgian (589;10a0:10c5;10c7;10cd;10d0:10ff;2d00:2d25;2d27;2d2d)
+    glagolitic (484;487;2c00:2c2e;2c30:2c5e;2e43;a66f)
+    grantha (951:952;964:965;baa;bb5;be6:bf2;1cd0;1cd2:1cd3;1cf2:1cf4;1cf8:1cf9;20f0)
+    greek (342;345;370:373;375:377;37a:37d;37f;384;386;388:38a;38c;38e:3a1;3a3:3e1;3f0:3ff;1d26:1d2a;
+         1d5d:1d61;1d66:1d6a;1dbf:1dc1;1f00:1f15;1f18:1f1d;1f20:1f45;1f48:1f4d;1f50:1f57;1f59;1f5b;1f5d;
+         1f5f:1f7d;1f80:1fb4;1fb6:1fc4;1fc6:1fd3;1fd6:1fdb;1fdd:1fef;1ff2:1ff4;1ff6:1ffe;2126;ab65)
+    gujarati (951:952;964:965;a81:a83;a85:a8d;a8f:a91;a93:aa8;aaa:ab0;ab2:ab3;ab5:ab9;abc:ac5;ac7:ac9;
+         acb:acd;ad0;ae0:ae3;ae6:af1;af9;a830:a839)
+    gurmukhi (951:952;964:965;a01:a03;a05:a0a;a0f:a10;a13:a28;a2a:a30;a32:a33;a35:a36;a38:a39;a3c;a3e:a42;
+         a47:a48;a4b:a4d;a51;a59:a5c;a5e;a66:a75;a830:a839)
+    han (2e80:2e99;2e9b:2ef3;2f00:2fd5;3001:3003;3005:3011;3013:301f;3021:302d;3030;3037:303f;30fb;3190:319f;
+         31c0:31e3;3220:3247;3280:32b0;32c0:32cb;3358:3370;337b:337f;33e0:33fe;3400:4db5;4e00:9fd5;f900:fa6d;
+         fa70:fad9;fe45:fe46;ff61:ff65)
+    hangul (1100:11ff;3001:3003;3008:3011;3013:301f;302e:3030;3037;30fb;3131:318e;3200:321e;3260:327e;
+         a960:a97c;ac00:d7a3;d7b0:d7c6;d7cb:d7fb;fe45:fe46;ff61:ff65;ffa0:ffbe;ffc2:ffc7;ffca:ffcf;ffd2:ffd7;
+         ffda:ffdc)
+    hanunoo (1720:1736)
+    hebrew (591:5c7;5d0:5ea;5f0:5f4;fb1d:fb36;fb38:fb3c;fb3e;fb40:fb41;fb43:fb44;fb46:fb4f)
+    hiragana (3001:3003;3008:3011;3013:301f;3030:3035;3037;303c:303d;3041:3096;3099:30a0;30fb:30fc;fe45:fe46;
+         ff61:ff65;ff70;ff9e:ff9f)
+    inherited (300:341;343:344;346:362;1ab0:1abe;1dc2:1df5;1dfb:1dff;200c:200d;20d0:20ef;fe00:fe0f;fe20:fe2d)
+    javanese (a980:a9cd;a9cf:a9d9;a9de:a9df)
+    kaithi (966:96f;a830:a839)
+    kannada (951:952;964:965;c80:c83;c85:c8c;c8e:c90;c92:ca8;caa:cb3;cb5:cb9;cbc:cc4;cc6:cc8;cca:ccd;
+         cd5:cd6;cde;ce0:ce3;ce6:cef;cf1:cf2;1cda;1cf5;a830:a835)
+    katakana (3001:3003;3008:3011;3013:301f;3030:3035;3037;303c:303d;3099:309c;30a0:30ff;31f0:31ff;32d0:32fe;
+         3300:3357;fe45:fe46;ff61:ff9f)
+    kayahli (a900:a92f)
+    khmer (1780:17dd;17e0:17e9;17f0:17f9;19e0:19ff)
+    khojki (ae6:aef)
+    khudawadi (964:965;a830:a839)
+    lao (e81:e82;e84;e87:e88;e8a;e8d;e94:e97;e99:e9f;ea1:ea3;ea5;ea7;eaa:eab;ead:eb9;ebb:ebd;ec0:ec4;
+         ec6;ec8:ecd;ed0:ed9;edc:edf)
+    latin (41:5a;61:7a;aa;ba;c0:d6;d8:f6;f8:2b8;2e0:2e4;363:36f;485:486;951:952;10fb;1d00:1d25;1d2c:1d5c;
+         1d62:1d65;1d6b:1d77;1d79:1dbe;1e00:1eff;2071;207f;2090:209c;20f0;212a:212b;2132;214e;2160:2188;
+         2c60:2c7f;a722:a787;a78b:a7ae;a7b0:a7b7;a7f7:a7ff;a92e;ab30:ab5a;ab5c:ab64;fb00:fb06;ff21:ff3a;
+         ff41:ff5a)
+    lepcha (1c00:1c37;1c3b:1c49;1c4d:1c4f)
+    limbu (965;1900:191e;1920:192b;1930:193b;1940;1944:194f)
+    lisu (a4d0:a4ff)
+    mahajani (964:96f;a830:a839)
+    malayalam (951:952;964:965;d01:d03;d05:d0c;d0e:d10;d12:d3a;d3d:d44;d46:d48;d4a:d4f;d54:d63;d66:d7f;
+         1cda)
+    mandaic (640;840:85b;85e)
+    manichaean (640)
+    meeteimayek (aae0:aaf6;abc0:abed;abf0:abf9)
+    modi (a830:a839)
+    mongolian (1800:180e;1810:1819;1820:1877;1880:18aa)
+    multani (a66:a6f)
+    myanmar (1000:109f;a92e;a9e0:a9fe;aa60:aa7f)
+    newtailue (1980:19ab;19b0:19c9;19d0:19da;19de:19df)
+    nko (7c0:7fa)
+    ogham (1680:169c)
+    olchiki (1c50:1c7f)
+    oldpermic (483)
+    oriya (951:952;964:965;b01:b03;b05:b0c;b0f:b10;b13:b28;b2a:b30;b32:b33;b35:b39;b3c:b44;b47:b48;b4b:b4d;
+         b56:b57;b5c:b5d;b5f:b63;b66:b77)
+    phagspa (1802:1803;1805;a840:a877)
+    psalterpahlavi (640)
+    rejang (a930:a953;a95f)
+    runic (16a0:16ea;16ee:16f8)
+    samaritan (800:82d;830:83e)
+    saurashtra (a880:a8c5;a8ce:a8d9)
+    sharada (951;1cd7;1cd9;1cdc:1cdd;1ce0)
+    sinhala (964:965;d82:d83;d85:d96;d9a:db1;db3:dbb;dbd;dc0:dc6;dca;dcf:dd4;dd6;dd8:ddf;de6:def;df2:df4)
+    sundanese (1b80:1bbf;1cc0:1cc7)
+    sylotinagri (964:965;9e6:9ef;a800:a82b)
+    syriac (60c;61b;61f;640;64b:655;670;700:70d;70f:74a;74d:74f)
+    tagalog (1700:170c;170e:1714;1735:1736)
+    tagbanwa (1735:1736;1760:176c;176e:1770;1772:1773)
+    taile (1040:1049;1950:196d;1970:1974)
+    taitham (1a20:1a5e;1a60:1a7c;1a7f:1a89;1a90:1a99;1aa0:1aad)
+    taiviet (aa80:aac2;aadb:aadf)
+    takri (964:965;a830:a839)
+    tamil (951:952;964:965;b82:b83;b85:b8a;b8e:b90;b92:b95;b99:b9a;b9c;b9e:b9f;ba3:ba4;ba8:baa;bae:bb9;
+         bbe:bc2;bc6:bc8;bca:bcd;bd0;bd7;be6:bfa;1cda;a8f3)
+    telugu (951:952;964:965;c00:c03;c05:c0c;c0e:c10;c12:c28;c2a:c39;c3d:c44;c46:c48;c4a:c4d;c55:c56;
+         c58:c5a;c60:c63;c66:c6f;c78:c7f;1cda)
+    thaana (60c;61b;61f;660:669;780:7b1;fdf2;fdfd)
+    thai (e01:e3a;e40:e5b)
+    tibetan (f00:f47;f49:f6c;f71:f97;f99:fbc;fbe:fcc;fce:fd4;fd9:fda)
+    tifinagh (2d30:2d67;2d6f:2d70;2d7f)
+    tirhuta (964:965;a830:a839)
+    unknown (378:379;380:383;38b;38d;3a2;530;557:558;560;588;58b:58c;590;5c8:5cf;5eb:5ef;5f5:5ff;61d;
+         70e;74b:74c;7b2:7bf;7fb:7ff;82e:82f;83f;85c:85d;85f:89f;8b5;8be:8d3;984;98d:98e;991:992;9a9;
+         9b1;9b3:9b5;9ba:9bb;9c5:9c6;9c9:9ca;9cf:9d6;9d8:9db;9de;9e4:9e5;9fc:a00;a04;a0b:a0e;a11:a12;
+         a29;a31;a34;a37;a3a:a3b;a3d;a43:a46;a49:a4a;a4e:a50;a52:a58;a5d;a5f:a65;a76:a80;a84;a8e;a92;
+         aa9;ab1;ab4;aba:abb;ac6;aca;ace:acf;ad1:adf;ae4:ae5;af2:af8;afa:b00;b04;b0d:b0e;b11:b12;b29;
+         b31;b34;b3a:b3b;b45:b46;b49:b4a;b4e:b55;b58:b5b;b5e;b64:b65;b78:b81;b84;b8b:b8d;b91;b96:b98;
+         b9b;b9d;ba0:ba2;ba5:ba7;bab:bad;bba:bbd;bc3:bc5;bc9;bce:bcf;bd1:bd6;bd8:be5;bfb:bff;c04;c0d;
+         c11;c29;c3a:c3c;c45;c49;c4e:c54;c57;c5b:c5f;c64:c65;c70:c77;c84;c8d;c91;ca9;cb4;cba:cbb;cc5;
+         cc9;cce:cd4;cd7:cdd;cdf;ce4:ce5;cf0;cf3:d00;d04;d0d;d11;d3b:d3c;d45;d49;d50:d53;d64:d65;d80:d81;
+         d84;d97:d99;db2;dbc;dbe:dbf;dc7:dc9;dcb:dce;dd5;dd7;de0:de5;df0:df1;df5:e00;e3b:e3e;e5c:e80;
+         e83;e85:e86;e89;e8b:e8c;e8e:e93;e98;ea0;ea4;ea6;ea8:ea9;eac;eba;ebe:ebf;ec5;ec7;ece:ecf;eda:edb;
+         ee0:eff;f48;f6d:f70;f98;fbd;fcd;fdb:fff;10c6;10c8:10cc;10ce:10cf;1249;124e:124f;1257;1259;125e:125f;
+         1289;128e:128f;12b1;12b6:12b7;12bf;12c1;12c6:12c7;12d7;1311;1316:1317;135b:135c;137d:137f;139a:139f;
+         13f6:13f7;13fe:13ff;169d:169f;16f9:16ff;170d;1715:171f;1737:173f;1754:175f;176d;1771;1774:177f;
+         17de:17df;17ea:17ef;17fa:17ff;180f;181a:181f;1878:187f;18ab:18af;18f6:18ff;191f;192c:192f;193c:193f;
+         1941:1943;196e:196f;1975:197f;19ac:19af;19ca:19cf;19db:19dd;1a1c:1a1d;1a5f;1a7d:1a7e;1a8a:1a8f;
+         1a9a:1a9f;1aae:1aaf;1abf:1aff;1b4c:1b4f;1b7d:1b7f;1bf4:1bfb;1c38:1c3a;1c4a:1c4c;1c89:1cbf;1cc8:1ccf;
+         1cf7;1cfa:1cff;1df6:1dfa;1f16:1f17;1f1e:1f1f;1f46:1f47;1f4e:1f4f;1f58;1f5a;1f5c;1f5e;1f7e:1f7f;
+         1fb5;1fc5;1fd4:1fd5;1fdc;1ff0:1ff1;1ff5;1fff;2065;2072:2073;208f;209d:209f;20bf:20cf;20f1:20ff;
+         218c:218f;23ff;2427:243f;244b:245f;2b74:2b75;2b96:2b97;2bba:2bbc;2bc9;2bd2:2beb;2bf0:2bff;2c2f;
+         2c5f;2cf4:2cf8;2d26;2d28:2d2c;2d2e:2d2f;2d68:2d6e;2d71:2d7e;2d97:2d9f;2da7;2daf;2db7;2dbf;2dc7;
+         2dcf;2dd7;2ddf;2e45:2e7f;2e9a;2ef4:2eff;2fd6:2fef;2ffc:2fff;3040;3097:3098;3100:3104;312e:3130;
+         318f;31bb:31bf;31e4:31ef;321f;32ff;4db6:4dbf;9fd6:9fff;a48d:a48f;a4c7:a4cf;a62c:a63f;a6f8:a6ff;
+         a7af;a7b8:a7f6;a82c:a82f;a83a:a83f;a878:a87f;a8c6:a8cd;a8da:a8df;a8fe:a8ff;a954:a95e;a97d:a97f;
+         a9ce;a9da:a9dd;a9ff;aa37:aa3f;aa4e:aa4f;aa5a:aa5b;aac3:aada;aaf7:ab00;ab07:ab08;ab0f:ab10;ab17:ab1f;
+         ab27;ab2f;ab66:ab6f;abee:abef;abfa:abff;d7a4:d7af;d7c7:d7ca;d7fc:f8ff;fa6e:fa6f;fada:faff;fb07:fb12;
+         fb18:fb1c;fb37;fb3d;fb3f;fb42;fb45;fbc2:fbd2;fd40:fd4f;fd90:fd91;fdc8:fdef;fdfe:fdff;fe1a:fe1f;
+         fe53;fe67;fe6c:fe6f;fe75;fefd:fefe;ff00;ffbf:ffc1;ffc8:ffc9;ffd0:ffd1;ffd8:ffd9;ffdd:ffdf;ffe7;
+         ffef:fff8;fffe:ffff)
+    vai (a500:a62b)
+    yi (3001:3002;3008:3011;3014:301b;30fb;a000:a48c;a490:a4c6;ff61:ff65)
+}

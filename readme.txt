@@ -3,7 +3,7 @@
      AnnoFlex - An annotation-based code generator for lexical scanners
     ====================================================================
 
-                                Version: 0.9
+                                Version: 1.0
 
 License
 -------
@@ -83,5 +83,5 @@ Folder Contents
 Copyright
 ---------
 
-Copyright (c) 2017, Stefan Czaska.
+Copyright (c) 2018, Stefan Czaska.
 All rights reserved.

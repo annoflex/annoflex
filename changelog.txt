@@ -6,6 +6,12 @@ This file lists all changes of AnnoFlex sorted by date. Feature enhancements and
 API-unrelated changes are marked with a plus character, API-changes with an
 exclamation mark and bug fixes with a minus character.
 
+AnnoFlex 1.0 (2018-05-27)
+=========================
+
++ Added missing rules for character class sequence to syntax summary in manual
++ Reviewed documentation
+
 AnnoFlex 0.9 (2017-10-21)
 =========================
 
